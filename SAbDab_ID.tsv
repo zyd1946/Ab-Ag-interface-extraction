@@ -1,4 +1,4 @@
-pdb	Hchain	Lchain	antigen_chain
+pdb_id	Hchain	Lchain	antigen_chain
 9bu6	A	B	D | C
 9bu6	E	F	H | G
 9bu6	I	J	L | K
@@ -32,9 +32,6 @@ pdb	Hchain	Lchain	antigen_chain
 9cx3	A		B | V
 8jei	S	s	C | B
 8p12	H	L	B | G
-8rw9	A		
-8rw9	B		
-8rw9	C		
 8rw9	D		E
 8rwf	C		B
 8rwf	E		D
@@ -96,7 +93,6 @@ pdb	Hchain	Lchain	antigen_chain
 8zrr	h	l	B | A
 9axl	H	L	B
 9b2c	H	L	A
-9b2c	N		
 9bdf	B	I	H
 9bdf	C	D	A
 9bdf	E	J	G
@@ -123,13 +119,10 @@ pdb	Hchain	Lchain	antigen_chain
 8q7b	F	E	A
 8qcm	D	C	B
 8qcm	F	E	A
-8r3w	A	a	
-8r3w	R	r	
 8r40	R	r	G
 8r40	A	a	C
 8s79	C		B
 8s79	D		A
-8ulh	H	L	
 8ulj	H	L	B | A
 8vgn	A	B	I
 8vgn	H	L	G
@@ -141,19 +134,12 @@ pdb	Hchain	Lchain	antigen_chain
 8yh3	S	s	A | B
 8yh5	S	s	A | B
 8yh6	S	s	A | B
-8ywp	H	L	
 8ywq	H	L	A
 8ywr	H	L	A
-9b8g	A	B	
-9b8g	C	D	
-9b8g	H	L	
 9ctu	D	C	A
 9ctu	F	E	B
 9ctw	D	C	A
 9ctw	F	E	B
-9d7y	A	a	
-9d7y	B	b	
-9d7y	C	c	
 9fvb	C		A
 9fvb	H		B
 9fvc	H		A
@@ -170,8 +156,6 @@ pdb	Hchain	Lchain	antigen_chain
 9fve	T		Y
 9fve	V		U
 9fve	X		W
-9ii9	A	B	
-9ii9	C	D	
 8vgl	H	L	C | B
 8vgl	E	F	A | D
 8vgm	H	L	C | D
@@ -192,10 +176,6 @@ pdb	Hchain	Lchain	antigen_chain
 8uxy	N		X | Y
 8uy0	N		X | Y | Z
 8uyq	N		X | Y | Z
-8veg	B	A	
-8vge	H	L	
-8vgf	H	L	
-8vgg	H	L	
 8vgh	H	G	A
 8vgh	F	E	C
 8vgh	J	I	B
@@ -218,9 +198,7 @@ pdb	Hchain	Lchain	antigen_chain
 8xgs	D	d	E | B
 8xgu	S	s	C | B
 9fkd	H	L	B
-9fkd	I	K	
 9fww	B		A
-9fxf	A		
 9jub	B	C	A
 8s6m	H	L	R
 8s6m	I	M	R
@@ -233,13 +211,10 @@ pdb	Hchain	Lchain	antigen_chain
 9bia	E		B | D
 9bia	F		C | A
 8rek	H	L	A
-8rel	H	L	
-8rel	M	N	
 8up2	A	B	C
 8up2	D	E	F
 8ux6	D	C	F
 8ux6	B	A	E
-8vlt	H	L	
 8wpw	A	B	R
 8wpw	C	D	R
 8wpw	H	L	R
@@ -297,20 +272,12 @@ pdb	Hchain	Lchain	antigen_chain
 9axn	H	L	H
 9axn	A	B	A
 9axn	C	D	C
-9axn	E	F	
 9axn	I	J	I
 9axn	M	N	M
 9axn	O	P	O
 9axn	Q	R	R
 9axo	H	L	L
-9axq	H	L	
-9axq	A	B	
-9axq	C	D	
-9axq	E	F	
-9axr	A	B	
 9axr	H	L	H
-9axr	C	D	
-9axs	H	L	
 9bhb	H	K	A
 9ew2	N		A | B
 9g5k	B		A
@@ -344,12 +311,8 @@ pdb	Hchain	Lchain	antigen_chain
 9cj7	H	L	C | B | A
 9dn4	A	B	E
 9dn4	D	C	F
-9gp2	H	L	
 8rtw	B	A	A
 8rtw	D	C	C
-8rtx	B	A	
-8rtx	D	C	
-8rtx	F	E	
 8tx3	H	L	D | C
 8tx3	E	J	B | A
 8tx3	F	K	I | G
@@ -362,30 +325,6 @@ pdb	Hchain	Lchain	antigen_chain
 8s4h	C	D	C
 8s4h	H	L	H
 8s4k	H	L	L
-8u70	B	A	
-8u70	D	C	
-8u70	F	E	
-8u70	J	I	
-8u70	L	K	
-8u70	H	G	
-8vs7	A	B	
-8vs7	H	L	
-8vs8	A	B	
-8vs8	D	C	
-8vs8	E	F	
-8vs8	H	G	
-8vs8	I	J	
-8vs8	L	K	
-8vs8	M	N	
-8vs8	P	O	
-8vs8	Q	R	
-8vs8	T	S	
-8vs8	U	V	
-8vs8	X	W	
-8vs8	Y	Z	
-8vs8	b	a	
-8vs8	c	d	
-8vs8	f	e	
 8vym	D	E	B
 8vym	G	F	A
 8vym	K	H	B
@@ -424,9 +363,6 @@ pdb	Hchain	Lchain	antigen_chain
 8ulf	I	M	B
 8ulf	J	N	C
 8ulf	K	O	D
-8v8k	A		
-8v8k	B		
-8v8k	C		
 8vuh	H	L	A
 8vuh	I	M	C
 8vuj	H	L	A
@@ -444,7 +380,6 @@ pdb	Hchain	Lchain	antigen_chain
 8vuy	H	L	A
 8vuy	J	K	C
 8vvh	H	L	A
-8w70	B	A	
 8y4a	H	L	C
 8y4a	D	E	A
 8ysf	C		B
@@ -482,24 +417,11 @@ pdb	Hchain	Lchain	antigen_chain
 8sow	C	c	A
 8soz	C	c	A
 8tzy	A	B	C
-8tzy	D	E	
 8u3s	B		A
 8uvy	B		A
 8uw2	B		A
 8uw7	B		A
 8uw9	B		A
-8v4i	H	L	
-8vbj	H	L	
-8vbk	H	L	
-8vbl	H	L	
-8vbm	H	L	
-8vbn	H	L	
-8vbn	B	A	
-8vbo	H	L	
-8vbp	H	L	
-8vbq	H	L	
-8vbr	H	L	
-8vbr	B	A	
 8w90	A		B
 8w90	C		D
 8w90	E		F
@@ -516,12 +438,9 @@ pdb	Hchain	Lchain	antigen_chain
 9aur	H	L	R
 9aus	H	L	R
 9aus	A	B	C
-9b44	A	B	
-9b44	H	L	
 9bge	D	E	B
 9bge	F	G	C
 9bge	H	L	A
-9iy0	H	L	
 8tkc	G	H	B | A
 8tkc	I	J	D | C
 8tkc	K	L	F | E
@@ -620,16 +539,6 @@ pdb	Hchain	Lchain	antigen_chain
 8u5l	J	j	A
 8u5l	K	k	E
 8u5l	N	n	B
-9fab		A	
-9fab		B	
-9fab		C	
-9fab		D	
-9fab		E	
-9fac		A	
-9fac		B	
-9fac		C	
-9fac		D	
-9fac		E	
 8vy4	A	B	C
 8sdh	H	L	B
 8sdh	C	D	A
@@ -643,15 +552,11 @@ pdb	Hchain	Lchain	antigen_chain
 8v9w	C		C
 8v9w	D		D
 8v9x	A		A
-8v9y	A		
 8v9z	A		A
 8va0	A		A
 8va0	B		B
 8yw5	N		A | B
 8zfj	D	d	A | B
-9b74	H	L	
-9b75	H	L	
-9b76	H	L	
 8k6m	S	s	A | B
 8k6n	S	s	A | C | B
 8k6o	S	s	A | B
@@ -671,21 +576,16 @@ pdb	Hchain	Lchain	antigen_chain
 8qks	R	Q	M
 8qks	V	U	T
 8qks	X	W	S
-8ry2	A	B	
-8ry2	H	L	
 8t59	A	B	E
 8t59	C	D	F
 8tmy	H	L	S
 8tmy	A	B	M
 8tmy	C	D	N
 8tmz	H	L	A
-8tv2	D	E	
-8tv2	A	B	
 8vcr	D	F	C
 8vcr	E	G	A
 8vcr	H	L	B
 8xx0	H	L	H
-8xx0	A	B	
 8yww	H	h	C
 8yww	E	D	A
 8yww	G	F	B
@@ -702,8 +602,6 @@ pdb	Hchain	Lchain	antigen_chain
 9bf6	D	E	C
 9bf6	G	H	F
 9bf6	K	L	J
-9f18	H	L	
-9f18	I	M	
 9f1i	H	L	P
 9f1i	I	M	Q
 9g13	A		B
@@ -718,7 +616,6 @@ pdb	Hchain	Lchain	antigen_chain
 8tgv	E	F	A
 8tgv	B	C	D
 8tgv	I	J	G
-8tgv	K	L	
 8thz	H	L	A
 8thz	E	F	A
 8tjn	C	D	A
@@ -792,8 +689,6 @@ pdb	Hchain	Lchain	antigen_chain
 8rz1	A	a	B
 8rz1	C	c	D
 8rz2	B	C	A
-8tfe	A	B	
-8tfe	C	D	
 8tg9	H	L	A
 8tg9	E	F	B
 8tga	E	F	B
@@ -818,11 +713,6 @@ pdb	Hchain	Lchain	antigen_chain
 8xsl	H	L	A
 8xsl	M	N	B
 9bjk	N		R
-9faa		A	
-9faa		D	
-9faa		C	
-9faa		B	
-9faa		E	
 9fzc	C		A
 9fzc	D		B
 9fzd	B		A
@@ -830,26 +720,11 @@ pdb	Hchain	Lchain	antigen_chain
 9g2a	D		B
 8pn0	A	B	F | E
 8pn0	H	L	D | C
-8jza	A		
-8p2t	H	L	
-8p6h	H	L	
 8pmx	H	L	A | B
 8pmz	B	b	A
 8pmz	D	d	C
 8tdx	A	D	E
 8tdx	B	C	F
-8te7	B	C	
-8vtp	A	G	
-8vtr	A		
-8vtr		G	
-8vu1	A		
-8vu1		G	
-8vu4	B	C	
-8vu4	A	G	
-8vua		G	
-8vua	A		
-8vuc	A	G	
-8vuc	B	C	
 8vui	A	G	D
 8vvm	A	G	I
 8vvm	B	C	I
@@ -892,15 +767,11 @@ pdb	Hchain	Lchain	antigen_chain
 8oyt	G		B
 8oyt	F		A
 8s2e	H	L	C
-8vy6		A	
-8vy6		B	
 8xio	D		B | C
 8xip	D		B | C
 8xiq	D		B | C
 8xir	D		B | C
 8y6a	C	D	B
-8ytn	A	a	
-8yto	A	a	
 8ytp	A	a	a
 8yzk	C	c	A
 8yzk	D	d	B
@@ -945,28 +816,16 @@ pdb	Hchain	Lchain	antigen_chain
 8dcn	D	E	F
 8gjm	D	E	A
 8gjn	A	B	C
-8gv0	A	B	
-8gv0	C	D	
-8gv0	E	F	
-8gv0	G	H	
-8gv2	A	B	
 8ghk	H	L	C
 8ghk	M	N	B
 8gjr	A		C
 8k4q	B		A
 8k4q	D		C
-8r47		A	
-8r47		B	
-8r47		C	
-8r47		D	
-8r47		E	
-8r47		F	
 8s0l	B		A
 8s0m	U		B
 8s0m	V		E
 8s0n	B		A
 8s0n	D		C
-8s6e	A	B	
 8tv1	D	E	C
 8txm	H	L	B | A
 8txp	H	L	B | A
@@ -979,12 +838,6 @@ pdb	Hchain	Lchain	antigen_chain
 9b70	H		B
 9b71	H		B
 9b71	G		A
-9eme		A	
-9eme		B	
-9eme		C	
-9eme		D	
-9eme		E	
-9eme		F	
 9erx	F	f	A | C | B
 8yj7	G	g	B
 8yj7	E	e	C
@@ -1075,17 +928,13 @@ pdb	Hchain	Lchain	antigen_chain
 8v5a	U		C
 8vk1	F	E	D
 8vk1	C	B	A
-8vk2	F	E	
-8vk2	C	B	
 8wss	H	h	A | B
 8wst	N		A | B
 8wz2	E	e	A | B
 8xbf	D	E	A
 8xbf	F		B
-8xbf		G	
 8xxw	H	L	E
 8yj5	C		A
-8yj8	C		
 8yj8	D		B
 8zr5	N		A | G | B
 8zrk	N		A | B
@@ -1128,10 +977,6 @@ pdb	Hchain	Lchain	antigen_chain
 8jow	C	c	D
 8jys	A		B
 8jys	C		D
-8p2e	A	B	
-8p2e	C	D	
-8p2e	E	F	
-8p2e	G	H	
 8p5m	G	L	I
 8pwu	B	b	A
 8pwu	D	d	C
@@ -1160,26 +1005,6 @@ pdb	Hchain	Lchain	antigen_chain
 8tzw	H	L	C
 8u03	H	L	C
 8u08	H	L	C
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
-8uek	A		
 8v2e	A	B	C
 8v2e	D	E	F
 8v4f	B	D	A
@@ -1221,10 +1046,6 @@ pdb	Hchain	Lchain	antigen_chain
 8jin	P	p	A
 8jin	B	b	A
 8jio	C	B	A
-8jsb	A	a	
-8jsb	B	b	
-8jsb	C	c	
-8jsb	D	d	
 8k9k	H	h	A | B | G
 8k9l	H	h	A | B | G
 8qz1	C		B
@@ -1264,7 +1085,6 @@ pdb	Hchain	Lchain	antigen_chain
 8vue	G	H	D | C
 8vue	I	J	F | E
 8vue	K	L	B | A
-8sfs	D		
 8sfs	C		B
 8c2r	F	E	A
 8c2r	R	L	B
@@ -1275,29 +1095,17 @@ pdb	Hchain	Lchain	antigen_chain
 8g8d	H	L	P
 8g8d	A	B	C
 8jf7	J	K	B
-8jf7		E	
 8jf7	F		A
-8jf7		G	
 8jf7	H		C
 8jpn	S	s	A | B
 8jva	B	A	F
 8jva	D		F
 8kei	C	E	B
-8sfv	B		
 8sfx	D		B
 8sfx	C		A
 8sfz	C		D
 8sfz	A		F
 8sfz	B		F
-8sg3	B		
-8slc	C		
-8slc	D		
-8stl	C		
-8stl	B		
-8stl	A		
-8stl	D		
-8sve	H	L	
-8sve	I	M	
 8swh	H	L	A
 8sx3	A	B	C
 8sx3	H	L	C
@@ -1317,10 +1125,6 @@ pdb	Hchain	Lchain	antigen_chain
 8v62	G		A
 8v62	H		B
 8v62	I		C
-8vuz	A	B	
-8vuz	H	L	
-8vvb	A	B	
-8vvb	C	D	
 8yrg	E	e	B | C
 8suo	I	M	A
 8suo	H	L	A
@@ -1386,8 +1190,6 @@ pdb	Hchain	Lchain	antigen_chain
 8qtd	H	L	A
 8r80	H	L	R
 8r80	A	B	E
-8r80	N		
-8r80	J		
 8r8k	H	L	A
 8t49	H	L	A
 8t49	C	D	G
@@ -1436,16 +1238,10 @@ pdb	Hchain	Lchain	antigen_chain
 8uwa	H	G	A
 8wnp	B	A	E
 8wnp	D	C	F
-8wnp	G		
-8wnp	H		
 8wnu	B	A	E
 8wnu	D	C	F
-8wnu	G		
-8wnu	H		
 8wo4	B	A	F
 8wo4	D	C	E
-8wo4	G		
-8wo4	H		
 8yx1	H	L	R
 8yx1	A	B	C
 8yx9	H	L	A
@@ -1486,10 +1282,6 @@ pdb	Hchain	Lchain	antigen_chain
 8uh3	E	e	A | B
 8vzn	B	C	A
 8vzo	B	D	A
-8c67	H	L	
-8c67	A	B	
-8c67	C	D	
-8c67	E	F	
 8iuy	B	C	A
 8iuz	B	C	A
 8iv0	B	C	A
@@ -1515,7 +1307,6 @@ pdb	Hchain	Lchain	antigen_chain
 8yy8	N		A | B
 9auc	N		A | B
 9bei	H	L	B
-9bei	K		
 8tfh	H	L	B
 8tfl	H	L	B
 9axf	H	h	A
@@ -1535,10 +1326,7 @@ pdb	Hchain	Lchain	antigen_chain
 8khc	F	G	B
 8khc	H	J	A
 8khd	H	J	C
-8sef	H	L	
 8sga	H	L	B
-8sgg	A	B	
-8sgg	C	D	
 8sgn	H	L	G
 8sic	A	B	E
 8sic	H	L	G
@@ -1572,8 +1360,6 @@ pdb	Hchain	Lchain	antigen_chain
 8xoh	E	e	A | B
 8xoi	E	e	A | B
 8xoj	E	e	A | B
-9eq3	H	L	
-9eq3	X	Y	
 8j6i	H	h	A | B
 8j6l	H	h	A | B
 8oi2	B		A
@@ -1597,21 +1383,12 @@ pdb	Hchain	Lchain	antigen_chain
 8qzr	H	L	C
 8qzr	A	B	E
 8rmo	H	L	F
-8vrr	A	a	
 8vrs	C	c	B
 8vrs	D	d	A
 8vy7	D	d	A | B
 8vy9	D	d	A | C | B
 8x2k	E	e	B | C
 8xgr	N		G | B
-9eq4	H	L	
-9eq4	X	Y	
-8iqp	H	L	
-8iqp	h	l	
-8iqq	H	L	
-8iqq	h	l	
-8iqs	H	L	
-8iqs	h	l	
 8tq7	F	G	C
 8tq7	H	L	A
 8tq8	H	L	A
@@ -1619,7 +1396,6 @@ pdb	Hchain	Lchain	antigen_chain
 8tq9	H	L	B | A
 8tqa	H	L	A
 8rqf	H	L	B | A
-8rqf	K		
 8tnt	E	D	A | B
 8tnt	G	F	C
 8iu2	S	s	A | B
@@ -1644,7 +1420,6 @@ pdb	Hchain	Lchain	antigen_chain
 8r4u	D	d	C
 8r4u	F	f	E
 8r4u	H	h	G
-8t0o	H	L	
 8tnn	H	G	C
 8tnn	J	I	F
 8too	B	A	I
@@ -1675,13 +1450,8 @@ pdb	Hchain	Lchain	antigen_chain
 8w0y	A	B	D
 8w0y	H	L	C
 8g0i	D		A
-8gkj	A	B	
-8gkj	C	D	
-8gkk	H	L	
 8gkl	H	L	E
 8iow	H	L	I
-8irw	A		
-8irw	B		
 8jxt	E	e	B | C
 8jxv	E	e	B | C
 8jxw	E	e	B | C
@@ -1708,12 +1478,9 @@ pdb	Hchain	Lchain	antigen_chain
 8f6u	A		C
 8f6v	A		C
 8f6v	B		D
-8gdo	H	L	
 8jyq	A	B	C
 8jyq	D	E	F
 8jyr	H	L	A
-8qf3	E		
-8qf3	A		
 8qf4	E		A
 8qf5	G		H
 8qf5	A		B
@@ -1756,8 +1523,6 @@ pdb	Hchain	Lchain	antigen_chain
 8smk	E	F	D
 8sml	C	B	A
 8sml	F	E	D
-8w9h	H	L	
-8w9h	B	A	
 8w9j	H	L	C
 8w9j	B	A	D
 8wa3	N		A | B
@@ -1794,13 +1559,9 @@ pdb	Hchain	Lchain	antigen_chain
 8jen	G	H	P
 8jeo	B	C	A
 8jeo	E	F	D
-8jep	A	B	
-8jep	C	D	
-8jeq	A	B	
 8jt6	E	e	A | B
 8ozb	A		F
 8ozb	C		E
-8t60	H	L	
 8t60	B		A
 8wrz	H	L	A | V
 8xej	H	L	B | X
@@ -1809,8 +1570,6 @@ pdb	Hchain	Lchain	antigen_chain
 8xjm	E	e	A | B
 8xjn	E	e	A | B
 8xjo	E	e	A | B
-8cds	A		
-8cdt	A		
 8chs	D		A
 8cii	H	L	E
 8cii	A	B	E
@@ -1862,7 +1621,6 @@ pdb	Hchain	Lchain	antigen_chain
 8pwh	B	A	E
 8pwh	D	C	E
 8smv	N		A | B
-8vfu	B	A	
 8ssz	G	F	C
 8ssz	I	H	B | A
 8ssz	K	J	E | D
@@ -1892,12 +1650,8 @@ pdb	Hchain	Lchain	antigen_chain
 8cd0	C		A
 8ds7	H	L	M
 8g2m	H	L	F
-8hyl	A	B	
-8hyl	C	D	
 8i7v	E	e	B | C
 8i7w	E	e	B | C
-8ia6	A	a	
-8ia6	B	b	
 8iec	N	n	C | D
 8ied	N	n	C | D
 8jbg	E	e	C | D
@@ -1907,8 +1661,6 @@ pdb	Hchain	Lchain	antigen_chain
 8kfy	S	s	A | B
 8kfz	S	s	A | B
 8odx	H	L	A
-8odx	K		
-8ppm	H	L	
 8sip	H	L	H
 8sxi	C	D	A
 8sxi	G	H	E
@@ -1916,20 +1668,8 @@ pdb	Hchain	Lchain	antigen_chain
 8sxj	C	D	A
 8sxj	G	H	E
 8sxj	K	L	I
-8tca	H	L	
-8tjt	D	A	
-8tjt	E	B	
-8tjt	F	C	
-8tjt	H	L	
 8uf7	B	A	C
-8vev	A	B	
-8vev	C	D	
-8vev	H	L	
 8ww2	N		A | B
-8xj0	B	A	
-8xj0	D	C	
-8xj0	F	E	
-8xj0	H	G	
 8i5l	D	d	A
 8i5l	E	e	B | C
 7yoy	E	I	C
@@ -1960,9 +1700,6 @@ pdb	Hchain	Lchain	antigen_chain
 8ipc	H	L	A
 8iq4	N		A | B
 8iq6	N		A | B
-8p88	C	A	
-8p89	C	A	
-8p89	D	B	
 8qpr	E	D	A
 8qq0	E	D	A
 8rcq	B		A
@@ -2004,9 +1741,7 @@ pdb	Hchain	Lchain	antigen_chain
 8xc4	C	D	B
 8xc4	E	F	A
 8acf	H	L	A
-8acf	K		
 8aci	H	L	A
-8aci	K		
 8fhy	H	L	I
 8fhy	C	B	A
 8fhy	F	E	D
@@ -2024,12 +1759,9 @@ pdb	Hchain	Lchain	antigen_chain
 8hry	H	L	B | A
 8j9n	N		C | D
 8j9o	B	D	A
-8j9o	C		
 8jh7	H	L	D
-8jh7	K		
 8jhb	N		A | B | C
 8jhc	H	L	R
-8jhc	K		
 8jhi	N		A | B | C
 8qy9	H	L	A
 8qya	H	L	A
@@ -2059,7 +1791,6 @@ pdb	Hchain	Lchain	antigen_chain
 8t2o	A	B	R
 8uhb	N		C | A | B
 8coe	B		C
-8coh	A		
 8gcm	E	e	A | B
 8gcp	E	e	A | B
 8hbi	E		A
@@ -2072,7 +1803,6 @@ pdb	Hchain	Lchain	antigen_chain
 8ijb	S	s	C | B
 8ijd	S	s	C | B
 8kae	H	L	R
-8kae	K		
 8kae	N		R
 8kfa	H	L	A
 8kfa	D	F	B
@@ -2107,20 +1837,13 @@ pdb	Hchain	Lchain	antigen_chain
 8hj1	N		A | B
 8i4f	C		A
 8i4g	C		A
-8iiu	A		
-8iiu	B		
-8ijs	A		
-8ijz	A		
 8j97	H	L	A | V
 8j9k	D	B	C
 8jaf	H	L	A | V
 8k5g	H	L	A
 8k5h	H	L	B | A
-8kad		A	
-8kad		B	
 8qot	H	L	A
 8qot	B		A
-8qot	K		
 8wc3	S	s	A | B
 8wc4	S	s	A | B
 8wc5	S	s	A | B
@@ -2181,8 +1904,6 @@ pdb	Hchain	Lchain	antigen_chain
 7ycz	H	I	B
 7yd0	D	E	A
 7yd0	F	G	C
-8d01	H	L	
-8d01	A	B	
 8d4r	D	E	B
 8d4r	H	L	G
 8d50	D	E	B
@@ -2191,10 +1912,6 @@ pdb	Hchain	Lchain	antigen_chain
 8f2j	D	F	G
 8f2j	H	L	E
 8f2j	I	J	K
-8f2t	A	B	
-8f2v	D	C	
-8f2v	B	A	
-8f2v	F	E	
 8f38	D	G	B
 8f38	E	H	A
 8f38	F	I	C
@@ -2221,8 +1938,6 @@ pdb	Hchain	Lchain	antigen_chain
 8j6p	S	s	A | B
 8j6q	S	s	A | B
 8j6r	S	s	A | B
-8q6k	H	L	
-8q6k	N		
 8tui	H	L	A
 8ucd	H	L	C | A | B
 8bk2	H	L	A
@@ -2242,49 +1957,14 @@ pdb	Hchain	Lchain	antigen_chain
 8k2w	N		R
 8k2x	S	s	A | B
 8pvb	O		A
-8r61	A	B	
-8r61	D	E	
-8r61	G	H	
-8r61	J	K	
-8r61	M	N	
-8r61	P	Q	
-8r61	C		
-8r61	F		
-8r61	I		
-8r61	L		
-8r61	O		
-8r61	R		
 8skj	A		E
 8skj	B		C
 8skj	D		F
 8skj	G		H
-8t58	C	B	
-8t58	F	E	
-8t58	A		
-8t58	D		
-8t6i	H	L	
-8t6i	A		
-8t7f	C	G	
-8t7f	A	B	
-8t7f	D	E	
-8t7f	F	H	
-8t7f	I	J	
-8t7f	K	L	
-8t7g	A	B	
-8t7i	A	B	
-8t8i	H	L	
-8t8i	A		
-8t9y	H	L	
-8t9y	A		
 8t9z	H	L	A
-8ti4	H	L	
-8tjf	H	L	
-8tjf	B	A	
 8trs	A	G	D
 8trt	A	G	E
 8trt	B	C	D
-8ts5	A	G	
-8ts5	B	C	
 8w87	N		A | B
 8w88	N		A | B
 8w89	N		A | B
@@ -2295,10 +1975,6 @@ pdb	Hchain	Lchain	antigen_chain
 8u26	N		A | B
 8u2c	D	C	B
 8u2c	F	E	A
-8u2c	I		
-8u2c		K	
-8u2c	J		
-8u2c		L	
 8udg	H	L	A
 8udg	M	N	B | C
 8f4p	D		B | A
@@ -2348,8 +2024,6 @@ pdb	Hchain	Lchain	antigen_chain
 8g6u	Q	R	I
 8hes	H	L	C
 8jis	N		A | B
-8kgz	A	a	
-8kgz	B	b	
 8opr	B		A
 8opr	C		A
 8ttw	C	D	B
@@ -2375,7 +2049,6 @@ pdb	Hchain	Lchain	antigen_chain
 8be2	N		S
 8bec	A	a	B
 8bec	C	c	D
-8bf0	H	L	
 8eyg	E		C
 8eyg	F		B
 8eyh	D		A
@@ -2437,12 +2110,9 @@ pdb	Hchain	Lchain	antigen_chain
 7yfc	C	c	A
 7yfc	N		A | B
 8u4v	H	L	A | B
-8u4v	K		
 7yfd	C	c	A
 7yfd	N		A | B
 7uqc	B	A	C
-7uqc	H	G	
-7uqc	J	I	
 7uqc	E	D	F
 8b9v	H	L	A
 8cdd	E	D	B
@@ -2477,13 +2147,6 @@ pdb	Hchain	Lchain	antigen_chain
 8eln	L		J
 8et0	C		A
 8et0	D		B
-8fzo	A	B	
-8fzp	A	B	
-8g19	H	L	
-8g1b	A	B	
-8g1b	C	D	
-8g1c	A	B	
-8g1c	C	D	
 8g2o	H	L	L
 8gje	H	L	A
 8gje	G	J	C
@@ -2528,17 +2191,10 @@ pdb	Hchain	Lchain	antigen_chain
 8ci1	H		C
 8ci1	I		D
 8ci1	J		E
-8eq6	H	L	
 8eqf	H	L	A
 8f5i	H	L	B
 8f5i	X	Y	A
 8fdo	A	B	C
-8ftt	A		
-8ftt	B		
-8ftt	C		
-8ftt	D		
-8fwf	H	L	
-8fxj	H	L	
 8fym	H	L	P
 8fym	B	A	C
 8fym	E	D	F
@@ -2584,11 +2240,6 @@ pdb	Hchain	Lchain	antigen_chain
 7ukm	H	L	A
 7ukm	M	N	C
 8b50	H	L	H
-8e1b	A		
-8e1c	A		
-8e2n	B		
-8e2n	A		
-8fq7	A		
 8fxb	H	L	E
 8fxc	H	L	E
 8g0w	C		A
@@ -2624,8 +2275,6 @@ pdb	Hchain	Lchain	antigen_chain
 7zau	D		C
 7zau	F		E
 7zau	H		G
-8bjz	H	L	
-8bjz	A	B	
 8bso	H	L	L
 8bso	C	D	D
 8cml	A		B
@@ -2633,7 +2282,6 @@ pdb	Hchain	Lchain	antigen_chain
 8cni	A		B
 8cni	C		B
 8eli	H	L	A
-8gye	B	C	
 8gye	E	F	A
 8pg0	H	L	A
 8phw	H	L	A
@@ -2647,12 +2295,6 @@ pdb	Hchain	Lchain	antigen_chain
 8t07	C	D	A
 8t07	E	F	B
 8u5b	H	L	A | B
-8ecq	H	L	
-8ecv	H	L	
-8ecv	B	A	
-8ecz	H	L	
-8ecz	B	A	
-8ed1	H	L	
 8edf	H	L	A
 8foi	H	L	A
 8foi	J	K	C
@@ -2742,25 +2384,18 @@ pdb	Hchain	Lchain	antigen_chain
 8ee8	D	C	B
 7y0o	H	L	A
 7y0o	B		A
-7yub	H	L	
 7yub	N		R
 7yud	H	L	R
 7yud	N		R
-7yud	K		
 7yuf	H	L	R
 7yuf	N		R
-7yuf	K		
 7z1x	B		A
 7z1x	C		A
 7z1x	E		D
 7z1x	F		D
-8awl	H	L	
 8awm	H	L	A
 8fgx	B	A	C
-8fwh	H	L	
 8gsb	H	K	A
-8gsi	B	A	
-8gsi	F		
 8j7e	A	B	F
 8j7e	C	D	E
 8jhy	S	s	D | B
@@ -2788,12 +2423,6 @@ pdb	Hchain	Lchain	antigen_chain
 8eed	I	J	C
 8eee	H	L	E
 8eee	A	B	Z
-8eez	H	L	
-8ef0	H	L	
-8ef1	H	L	
-8ef2	H	L	
-8ef3	A	B	
-8ef3	C	D	
 8fcz	C		A
 8fcz	D		B
 8fd0	C		A
@@ -2836,8 +2465,6 @@ pdb	Hchain	Lchain	antigen_chain
 8gf2	H	L	A
 8gf2	E	F	B
 8gf2	X	Y	B
-8juh	A	a	
-8juh	C	c	
 8gpi	A	C	Z | T
 8gpi	D	E	X | R
 8gpi	H	L	Y | S
@@ -2901,11 +2528,6 @@ pdb	Hchain	Lchain	antigen_chain
 8afm	C		A
 8afm	J		H
 8afm	I		G
-8cpe		C	
-8cpe		A	
-8cpe		B	
-8cpe		D	
-8cpe		E	
 8dzw	H	L	C
 8dzw	I	M	A
 8dzw	J	N	B
@@ -2934,7 +2556,6 @@ pdb	Hchain	Lchain	antigen_chain
 8tfp	H	L	H
 8tfq	B	A	B
 8tfq	H	L	H
-8tfr	A	B	
 8thk	F	f	A | B
 8thl	F	f	A | B
 7yk4	H	L	A
@@ -2954,8 +2575,6 @@ pdb	Hchain	Lchain	antigen_chain
 8b1i	B		A
 8b1j	B		A
 8b1k	B		A
-8cge	A	a	
-8cge	B	b	
 8e6j	H	L	A
 8e6j	E	I	B
 8e6j	F	J	C
@@ -2964,24 +2583,15 @@ pdb	Hchain	Lchain	antigen_chain
 8e6k	E	I	B
 8e6k	F	J	C
 8e6k	G	K	D
-8eqa	H	L	
-8eqa	B	A	
-8eqc	H	L	
-8eqc	B	A	
 8gp5	E	F	X
 8gpg	A	B	Z
 8gpg	C	D	Y
 8gpg	E	F	X
-8gpk	A	B	
-8gpk	C	D	
 8h0p	E	e	A | B
 8h0q	E	e	A | B
 8pm2	N		A | B
-8h3c	A	a	
 8h3c	B	b	F | G
-8h3c	C	c	
 8h3c	D	d	F
-8h3c	E	e	
 7tcn	C	D	A
 7tcn	G	H	E
 7tcn	K	L	I
@@ -3068,9 +2678,6 @@ pdb	Hchain	Lchain	antigen_chain
 8f6x	F	f	A
 8ghr	C		A
 8ghr	D		B
-8h3b	A	a	
-8h3b	B	b	
-8h73	D	d	
 8jr9	N		A | B
 2ybr	A	B	C
 2ybr	D	E	F
@@ -3163,8 +2770,6 @@ pdb	Hchain	Lchain	antigen_chain
 7ydm	N		A | B
 7ydp	D		A | B
 8byu	H	L	A
-8dkf	H	L	
-8dkf	A	B	
 8dmj	D	E	C
 8dmj	H	L	B
 8gto	H	L	A
@@ -3194,10 +2799,6 @@ pdb	Hchain	Lchain	antigen_chain
 7yc5	G		C
 7yc5	H		A
 7yc5	I		B
-7yd3	H	L	
-7yd3	A	B	
-7yd3	C	D	
-7yd3	E	F	
 7ym8	D		A
 7ymh	D		A
 7ymj	D		A
@@ -3210,7 +2811,6 @@ pdb	Hchain	Lchain	antigen_chain
 8cim	H	L	C
 8de3	B	C	A
 8de4	B	C	A
-8dgr	A	a	
 8dul	H	L	A | K
 8dun	H	L	G
 8dun	I	M	K
@@ -3232,8 +2832,6 @@ pdb	Hchain	Lchain	antigen_chain
 7u0i	N	n	C | D
 7u0j	K	k	G | E | H | F
 7u0j	N	n	C | B | D
-7zor	I	M	
-7zor	H	L	
 7zoz	H	L	A
 8sps	K	k	G | E | L | H | F
 8sps	N	n	C | B | D
@@ -3243,9 +2841,6 @@ pdb	Hchain	Lchain	antigen_chain
 8e1g	V	T	B
 8gou	I	J	A
 8gou	H	K	C
-8guz	A	B	
-8guz	C	D	
-8gv1	A	B	
 8jlz	N		A | B
 8smt	A	B	C
 8smt	D	F	G
@@ -3271,7 +2866,6 @@ pdb	Hchain	Lchain	antigen_chain
 7yvm	C	A	B
 7yvn	L	K	A
 7yvn	O	N	C
-7yvn		H	
 7yvn	I		B
 7yvo	I	H	A
 7yvo	K	J	C
@@ -3281,7 +2875,6 @@ pdb	Hchain	Lchain	antigen_chain
 7yvp	P	O	C
 7yvp	K	H	A
 7yvp	I		A
-7yvp		J	A
 8deq	H	L	F | D
 8der	X	Y	B
 8der	H	L	A
@@ -3289,8 +2882,6 @@ pdb	Hchain	Lchain	antigen_chain
 8pe9	H	L	A
 7y6l	H	L	A
 7y6n	H	L	A
-8doz	A	B	
-8doz	C	D	
 8e1m	H	L	C
 8e1p	F	I	E
 8e1p	H	L	G
@@ -3330,8 +2921,6 @@ pdb	Hchain	Lchain	antigen_chain
 8j1n	B		A
 8j1q	B	A	C
 8j26	B	A	C
-8jbj	A	B	
-8jbj	C	D	
 8jd5	H	h	A | B
 8jd6	D	d	A | B
 8scx	H	L	C
@@ -3352,11 +2941,6 @@ pdb	Hchain	Lchain	antigen_chain
 8eoo	H	L	C
 8esv	H	L	A
 8gw8	N		A | B
-8ojs	B	A	
-8ojs	H	L	
-8ojt	H	L	
-8oju	H	L	
-8ojv	H	L	
 8cxc	H	L	M
 8cxc	B	A	M
 8cxh	H	L	A
@@ -3382,13 +2966,6 @@ pdb	Hchain	Lchain	antigen_chain
 8as2	H	L	A | B
 8as3	H	L	A | B
 8blq	E	C	D
-8blq	A		
-8blq		B	D
-8c7j	A		
-8c7j		B	
-8c7v	A	B	
-8c7v	C	D	
-8c7v	E	F	
 8cxg	H	L	A
 8cxg	h	l	C
 8cxg	1	2	B
@@ -3409,14 +2986,6 @@ pdb	Hchain	Lchain	antigen_chain
 8ftg	H		G
 8g8w	B		A
 8g8w	C		A
-8gbv	H	L	
-8gbv	A	B	
-8gbw	H	L	
-8gbx	H	L	
-8gby	H	L	
-8gbz	H	L	
-8gc0	H	L	
-8gc1	H	L	
 8irs	E	e	A | B | G
 8irt	E	e	A | B | G
 8slb	H	L	A
@@ -3548,8 +3117,6 @@ pdb	Hchain	Lchain	antigen_chain
 7y1f	E	e	A | B
 8ahn	H	L	A
 8av9	H	L	A
-8bs8	H	L	
-8cif	H	L	
 8cwi	H	L	A
 8cwj	H	L	G
 8cwj	A	B	I
@@ -3565,26 +3132,6 @@ pdb	Hchain	Lchain	antigen_chain
 8f60	A	B	C
 8f6l	A	B	C
 8f6o	A	B	C
-8fo3		A	A
-8fo3		B	A
-8fo3		C	C
-8fo3		D	C
-8fo3		G	G
-8fo3		H	G
-8fo3		I	I
-8fo3		J	I
-8fo3		E	E
-8fo3		F	E
-8fo3		K	K
-8fo3		L	K
-8fo4		A	A
-8fo4		B	A
-8fo4		C	D
-8fo4		D	D
-8fo5		A	A
-8fo5		B	A
-8fo5		C	C
-8fo5		D	C
 8g6i	C	B	A
 8gb5	B	C	A
 8gb5	F	E	D
@@ -3630,7 +3177,6 @@ pdb	Hchain	Lchain	antigen_chain
 8a99	R	O	A
 8a99	S	P	B
 8a99	T	Q	C
-8cbx	H	L	
 8cby	H	L	H
 8cbz	H	L	H
 8cc0	H	L	H
@@ -3661,16 +3207,8 @@ pdb	Hchain	Lchain	antigen_chain
 8bf4	E		F
 8bf4	A		C
 8bf4	B		C
-8dy0	A	a	
-8dy0	B	b	
 8dy1	C	c	A
 8dy1	D	d	B
-8dy2	A	a	
-8dy2	B	b	
-8dy2	C	c	
-8dy2	D	d	
-8dy3	A	a	
-8dy4	A	a	
 8dy5	A	a	C
 8dy5	B	b	D
 8dzp	E	e	B | C
@@ -3702,8 +3240,6 @@ pdb	Hchain	Lchain	antigen_chain
 7ur6	H	L	B | G
 7ur6	D	E	C | A
 7ur6	J	K	I | F
-7url	A	a	
-7url	B	b	
 7xik	H	L	A
 7xil	H	L	A
 7xk9	B		A
@@ -3871,8 +3407,6 @@ pdb	Hchain	Lchain	antigen_chain
 8dk6	H	L	E
 8f0l	H	L	P
 8f0l	A	B	Q
-8f8v	A		
-8f8v	B		
 8f8w	C		B
 8f8w	D		A
 8f8w	G		F
@@ -3975,7 +3509,6 @@ pdb	Hchain	Lchain	antigen_chain
 7x08	I	M	B
 7x08	J	N	C
 6vug	D	C	B
-7o4y	H	L	
 7sof	H	L	A
 7v64	B	A	C
 7soe	B	L	A
@@ -4002,8 +3535,6 @@ pdb	Hchain	Lchain	antigen_chain
 7e9q	H	L	A
 7e9q	Y	X	C
 7e9q	F	E	B
-7u0k	H	L	
-7u04	H	L	
 7v5k	E	D	A
 7v5k	G	F	C
 7v5k	I	H	B
@@ -4064,7 +3595,6 @@ pdb	Hchain	Lchain	antigen_chain
 8c7h	L	K	I | D | C
 7u0q	G	F	A
 7u0q	J	I	C
-7tqg	H	L	
 7u0x	F	G	C
 7u0x	H	L	A
 7wp6	B	I	F
@@ -4095,12 +3625,6 @@ pdb	Hchain	Lchain	antigen_chain
 7yj4	S	s	T | I
 7yk6	S	s	I | T
 7yk7	S	s	I | T | G
-7yzw	A		
-7yzw	B		
-7yzw	C		
-7yzw	D		
-7yzw	E		
-7yzw	F		
 7zmk	B	C	D
 7zmk	E	F	A
 7zmk	G	H	I
@@ -4181,16 +3705,6 @@ pdb	Hchain	Lchain	antigen_chain
 8hpj	B	C	A
 8hpj	E	F	D
 8hpk	H	L	A
-7pa7	E	e	
-7pa7	A	a	
-7pa7	B	b	
-7pa7	C	c	
-7pa7	D	d	
-7pa7	M	m	
-7pa7	N	n	
-7pa7	O	o	
-7pa7	P	p	
-7pa7	Q	q	
 7pa6	K	k	A
 7pa6	L	l	B
 7pa6	M	m	C
@@ -4201,16 +3715,11 @@ pdb	Hchain	Lchain	antigen_chain
 7pa6	R	r	H
 7pa6	S	s	I
 7pa6	T	t	J
-7paa	Z	z	
-7paa	K	k	
 7paa	A	a	F
 7paa	B	b	G
 7paa	C	c	H
 7paa	D	d	I
 7paa	E	e	J
-7paa	W	w	
-7paa	X	x	
-7paa	Y	y	
 7pa8	Y	F	E
 7pa8	H	G	C
 7pa8	J	I	B
@@ -4257,7 +3766,6 @@ pdb	Hchain	Lchain	antigen_chain
 8h3y	F		A
 8h8j	H	h	A | B | G
 7qvk	B		A
-7ued	H	L	
 7wn0	B		A
 7wn1	C		A
 7wr9	A	B	F
@@ -4291,12 +3799,9 @@ pdb	Hchain	Lchain	antigen_chain
 8fe4	O	P	F
 8hhx	F	G	B
 8hhx	H		C
-8hhx		I	C
 8hhy	H	L	A
 8hhy	F		B
-8hhy		W	B
 8hhy	G		C
-8hhy		I	C
 8hhz	E	F	B
 8hhz	G	H	A
 8hhz	I	J	C
@@ -4348,8 +3853,6 @@ pdb	Hchain	Lchain	antigen_chain
 8dm3	M	N	B
 8dm3	P	Q	C
 8dm4	H	L	A
-8ek6	H	L	
-8ekh	H	L	
 8epa	H	L	I
 8epa	A	B	I
 8hc2	H	L	B
@@ -4386,8 +3889,6 @@ pdb	Hchain	Lchain	antigen_chain
 7whd	G	H	A
 7whd	J	K	B
 7wvg	C	D	B | A
-7wvi	A	B	
-7wvi	C	D	
 7x25	A	C	G
 7x25	E	F	J
 7x25	H	K	I
@@ -4429,9 +3930,7 @@ pdb	Hchain	Lchain	antigen_chain
 7t86	D	C	G
 7t86	F	E	K
 7t87	H	L	A | B
-7u61	H	L	
 7u62	H	L	H
-7u62	I	M	
 7u63	H	L	H
 7u63	B	A	B
 7u63	D	C	D
@@ -4443,14 +3942,9 @@ pdb	Hchain	Lchain	antigen_chain
 7u64	K	L	K
 7u64	M	N	M
 7u64	O	P	O
-7u64	Q	R	
-7uih		C	A
 7uih	D		A
-7uih		E	A
 7uih	F		A
-7ujd		C	A
 7ujd	D		A
-7ujd		E	A
 7ujd	F		A
 7uzc	E	F	B
 7uzc	H	L	A
@@ -4463,13 +3957,9 @@ pdb	Hchain	Lchain	antigen_chain
 7xsw	H	L	R
 7xsw	A	B	C
 7zlg	H	L	A
-7zlg	K		
 7zlh	H	L	A
-7zlh	K		
 7zli	H	L	A
-7zli	K		
 7zlj	H	L	A
-7zlj	K		
 8dv6	C	L	B
 8dv6	H	D	A
 7yar	I	M	C
@@ -4505,7 +3995,6 @@ pdb	Hchain	Lchain	antigen_chain
 8hao	N		A | B
 7qha	C		B | A
 7t72	H	L	A
-7utg	A		
 7wcm	N		A | C | B
 7wcn	N		A | B
 7wd1	C		B
@@ -4525,19 +4014,14 @@ pdb	Hchain	Lchain	antigen_chain
 8d47	B	A	D
 8dam	B		A
 8dam	C		A
-8gv4	A	B	
-8gv4	C	D	
 8gv5	C	D	B | A
 8gv7	C	D	B | A
 8gz3	N		L | H
 8ha0	N		A | B
 8haf	N		A | B
 8hii	H	L	A
-8hii	N		
 8hij	H	L	A
-8hij	N		
 8hik	H	L	A
-8hik	N		
 8gsf	H	L	A | C
 8gsf	E	F	1 | 3
 7t25	H	L	E
@@ -4558,7 +4042,6 @@ pdb	Hchain	Lchain	antigen_chain
 8b41	H		B
 8b41	I		C
 8b41	J		D
-8d54	A	B	
 8ddk	A	B	C
 8diu	G	C	D
 8diu	E	F	B
@@ -4575,26 +4058,9 @@ pdb	Hchain	Lchain	antigen_chain
 7t1w	H	L	A
 7t1x	H	L	A
 7df1	H	L	D
-7df1	E	I	
 7df1	F	J	C
 7df1	G	K	D
 7t2h	E	e	A | B
-7t83	A		
-7t83	B		
-7t83	C		
-7t83	D		
-7t83	E		
-7t83	F		
-7t83	G		
-7t83	H		
-7t84	A		
-7t84	B		
-7t84	C		
-7t84	D		
-7t84	E		
-7t84	F		
-7t84	G		
-7t84	H		
 7uz4	H	L	A
 7uz4	M	N	B
 7uz4	P	Q	C
@@ -4613,8 +4079,6 @@ pdb	Hchain	Lchain	antigen_chain
 7uz9	P	Q	C
 7uza	H	L	A | B
 7uzb	H	L	A
-7w7q	A	a	
-7w7q	B	b	
 7wvl	H	L	F
 7x2l	B		E
 7x8w	H	L	A
@@ -4635,13 +4099,9 @@ pdb	Hchain	Lchain	antigen_chain
 8dwa	H	L	A
 8dxs	H	L	A
 8dxs	F		C
-8dxs		I	C
 8dxs	G		B
-8dxs		J	B
 8e99	E		B
 8gz5	B		A
-8gz6	A		
-8gz6	B		
 7wos	D	d	B
 7wos	E	e	B
 7wos	F	f	C
@@ -4741,7 +4201,6 @@ pdb	Hchain	Lchain	antigen_chain
 7st3	b		a
 7st3	d		c
 7st3	f		e
-7uvl	H	L	
 7sqp	B		A
 7sqp	D		C
 7sr0	B		A
@@ -4768,10 +4227,7 @@ pdb	Hchain	Lchain	antigen_chain
 7uny	C		A
 7unz	C		B
 7unz	A		D
-7uyl	H	L	
-7uyl	K		
 7uym	H	L	P
-7uym	K		
 7v05	A	a	X
 7v05	B	b	X
 7v05	C	c	X
@@ -4842,8 +4298,6 @@ pdb	Hchain	Lchain	antigen_chain
 8dim	E	F	D
 8dim	H	I	G
 8dyp	B		A
-8ema	A	R	
-8ema	B	L	
 7s07	X	Y	A | B
 7s07	H	L	A
 7s1b	H	L	A
@@ -4851,13 +4305,7 @@ pdb	Hchain	Lchain	antigen_chain
 7sd3	G	H	F | E
 7sd3	K	N	B
 7sd3	I	M	D
-7myt	A	B	
-7myt	H	L	
-7s08	H	L	
-7s08	A	B	
-7s0j	H	L	
 7try	H	h	A | B
-7ugm	H	L	
 7ugp	M	P	A
 7ugp	N	Q	B
 7ugp	O	R	C
@@ -4879,10 +4327,6 @@ pdb	Hchain	Lchain	antigen_chain
 7x29	F	G	C
 7x29	H	K	B
 7x2a	H	K	A
-7xl0	A		
-7xl0	B		
-7xl1	A		
-7xl1	B		
 8ef5	E	e	A | C | B
 8ef6	E	e	A | C | B
 8efb	E	e	A | C | B
@@ -4900,7 +4344,6 @@ pdb	Hchain	Lchain	antigen_chain
 8gpu	J	K	I
 8gpu	N	O	M
 8gpu	Q	R	P
-7u5g	H	L	
 7uov	H	L	A
 7uov	S	T	c
 7uov	D	E	B
@@ -4952,16 +4395,6 @@ pdb	Hchain	Lchain	antigen_chain
 7wy8	D		A | B
 7wyb	E	e	B | C
 7wz4	S	s	A | B
-8ady	H	L	
-8ady	Q	S	
-8adz	H	L	
-8adz	U	V	
-8ae0	H	L	
-8ae0	Q	S	
-8ae2	H	L	
-8ae2	Q	S	
-8ae3	H	L	
-8ae3	Q	S	
 8erq	H	L	A
 8err	H	L	A
 8err	E	F	C
@@ -4994,16 +4427,6 @@ pdb	Hchain	Lchain	antigen_chain
 7sgf	J	K	B | b
 7sgf	M	N	C | c
 7sqw	A	B	C
-7t97	A	B	
-7t97	C	D	
-7t97	E	F	
-7t97	H	L	
-7t98	A	B	
-7t98	H	L	
-7t99	A	B	
-7t99	C	D	
-7t99	E	F	
-7t99	H	L	
 7tgf	B		A
 7tgi	B		A
 7th2	C		A
@@ -5011,7 +4434,6 @@ pdb	Hchain	Lchain	antigen_chain
 7th3	B		A
 7uvf	H	L	A
 7uvf	X	Y	B
-7vmz	H	L	
 7xp4	N		A | B
 7xp5	N		A | B
 7xp6	N		A | B
@@ -5038,7 +4460,6 @@ pdb	Hchain	Lchain	antigen_chain
 7sa6	H	L	A
 7sbz	A	B	D
 7sbz	H	L	C
-7ti6	H	L	
 7xrp	B		F | A
 7yu3	S	s	A | B
 7yu5	S	s	A | B
@@ -5134,7 +4555,6 @@ pdb	Hchain	Lchain	antigen_chain
 7b5g	H		G
 7r0c	D	d	C | A
 7r0j	D	d	C | A
-7sah	B		
 7sai	C		A
 7saj	B		A
 7saj	D		C
@@ -5142,8 +4562,6 @@ pdb	Hchain	Lchain	antigen_chain
 7saj	H		G
 7saj	J		I
 7sak	B		A
-7sal	C		
-7sal	D		
 7tjq	A	B	C
 7tjq	D	E	G
 7tjq	H	L	F
@@ -5160,15 +4578,10 @@ pdb	Hchain	Lchain	antigen_chain
 7v6n	E	D	A
 7v6n	G	F	B
 7v6n	I	H	C
-7ven	B	A	
 7x5h	E	e	A | B
 7xxl	A	C	B
 7yrf	F	E	C
 7yrh	F	E	A
-7phs	H	L	
-7pkl	L	l	
-7pkl	H		
-7sjm	H	L	
 7sjn	D	E	B
 7sjn	F	G	C
 7sjn	H	L	A
@@ -5179,8 +4592,6 @@ pdb	Hchain	Lchain	antigen_chain
 7tuf	H	L	D
 7tuf	A	B	C
 7tug	H	L	D
-7tuh	H	L	
-7tuh	A	B	
 7um3	I	M	B
 7um3	H	L	A
 7w71	H	L	A
@@ -5308,7 +4719,6 @@ pdb	Hchain	Lchain	antigen_chain
 8dzi	G	F	E
 8dd3	J	I	B
 8dd3	K	L	D
-7uce	H	L	
 7ucf	D	E	G
 7ucf	H	L	G
 7ucg	D	E	G
@@ -5321,8 +4731,6 @@ pdb	Hchain	Lchain	antigen_chain
 7v3l	D	E	A
 7v3l	F	G	B
 7v3l	H	I	C
-7v3q	B	A	
-7v3q	D	C	
 7v4w	B	A	C
 7wm0	H	L	B
 7wu9	S	s	A | B
@@ -5335,8 +4743,6 @@ pdb	Hchain	Lchain	antigen_chain
 7x7v	H	L	E
 7x7v	A	F	E
 7x7v	C	D	E
-7xq8	C	L	
-7xq8	v	R	
 7xw7	A	B	R
 7y3j	H	L	A
 7yhk	F	H	A
@@ -5360,9 +4766,6 @@ pdb	Hchain	Lchain	antigen_chain
 7qvm	S	s	A | B
 7sbd	H	L	C
 7sbg	H	L	C
-7sd2	H	L	
-7sd2	A	B	
-7sd2	C	D	
 7str	H	L	C
 7sts	A	B	D
 7sts	H	L	C
@@ -5386,8 +4789,6 @@ pdb	Hchain	Lchain	antigen_chain
 7v24	H	L	A
 7v27	B	A	C
 7voa	A		B
-7wc0	H	L	
-7wc0	A	B	
 7wcd	E	F	H
 7wcd	G	I	J
 7wcd	A	B	C
@@ -5450,12 +4851,8 @@ pdb	Hchain	Lchain	antigen_chain
 8dfl	F		B
 8dfl	G		C
 8dfl	H		D
-7re7	I	J	
 7re7	H	L	A | C
-7re9	H	L	
-7re9	A	B	
 7sk7	D	C	B | A
-7sk7	K		
 7xt8	N		A | B
 7xta	E	e	A | B | G
 7xtb	N		A | B
@@ -5468,7 +4865,6 @@ pdb	Hchain	Lchain	antigen_chain
 7t0z	H	L	D | E
 7ozt	A		B
 7fgj	H	L	C
-7fgk	H	L	
 7fgl	H	L	C
 7fgr	H	L	C
 7noz	R		D | C
@@ -5478,7 +4874,6 @@ pdb	Hchain	Lchain	antigen_chain
 7sk4	D	C	B
 7sk4	F	E	A
 7sk5	F	E	A
-7sk5	K		
 7sk6	F	E	A
 7sk8	D	C	B
 7sk8	F	E	A
@@ -5513,8 +4908,6 @@ pdb	Hchain	Lchain	antigen_chain
 7urd	H	L	A
 7ure	H	L	A
 7urf	O	P	A
-7vpy	A		
-7vpy	B		
 7vq0	D		A
 7vq0	E		B
 7vq0	F		C
@@ -5545,10 +4938,6 @@ pdb	Hchain	Lchain	antigen_chain
 7y15	S	s	A | B
 7fbi	H	L	A
 7fbi	N	M	A
-7rpt	A	B	
-7rpt	C	D	
-7rpt	E	F	
-7rpt	G	H	
 7rpu	A	B	P
 7wj5	E	e	A | B
 7wjz	A	C	B
@@ -5587,11 +4976,8 @@ pdb	Hchain	Lchain	antigen_chain
 7z9r	Z		C
 7zms	K		A
 7zyi	H	L	A
-7zyi	K		
 7fah	H	L	A
 7fah	C	D	B
-7ra7	H	L	
-7ra7	A	B	
 8cyd	D		B
 8cyd	E		C
 8cyd	F		A
@@ -5644,7 +5030,6 @@ pdb	Hchain	Lchain	antigen_chain
 7jmo	H	L	A
 6ch9	Q	R	G
 4o51	B	A	N
-4nkd	C	D	
 7n0h	Z		C
 7orb	E	F	X
 5w08	K	L	C
@@ -5652,38 +5037,28 @@ pdb	Hchain	Lchain	antigen_chain
 7q1u	B		A
 7lg6	J	M	E | B
 7a17	B		A
-5i1e	H	L	
-3eo0	D	C	
 6zdh	H	L	A
-6x02	C		
 7t6s	E	e	A | B
 4ffv	H	L	A
 7cwn	K	I	B
 5cjs	H	L	D | C
 6mwx	O	P	N
 2ny3	D	C	A
-7lk9	A	B	
-7t0j	H	L	
-5jo4	A	B	
 6h7o	D		B
 4yo0	C	D	F
 5ja9	B		D
-1jvk		A	
 3qa3	B	A	E
 6x1t	H	L	M
 1nca	H	L	N
 4ypg	H	L	D
 5toj	E		B
-1wtl		B	
 7mta	H	L	G
-1maj		A	
 7mxl	J	K	C
 7aqy	D		A
 3t4y	B	A	B
 4u3x	A		B
 6hga	H	L	B
 6wj1	J	K	D | C
-1g9e	A		
 7s3n	H	L	A
 6q18	H	L	A
 6mph	3	4	E
@@ -5692,7 +5067,6 @@ pdb	Hchain	Lchain	antigen_chain
 6oor	H	L	A
 6opa	F	I	B
 7tn0	M	N	S
-1op3	M	K	
 2oqj	E	D	F
 7bh8	G	H	A | P
 6ul6	C		A
@@ -5700,14 +5074,9 @@ pdb	Hchain	Lchain	antigen_chain
 4fqr	a	b	A
 5y7z	D		B
 3w13	C	D	E
-1dcl		B	
 4tnw	V	Z	R
-5bk5	H	G	
 7rgp	E	e	A
 7vnd	D		A
-4toy	H	L	
-5da4	A		
-4b50	A		
 5fuc	E		C | B
 7li7	B	C	A
 6o2b	O	P	L | M
@@ -5716,28 +5085,19 @@ pdb	Hchain	Lchain	antigen_chain
 6vi0	H	L	G
 6idk	H	L	D
 7kxk	I	M	B
-1moe	B	b	
-2gfb	L	K	
 6myy	G	F	E
 7t4r	P	Q	K
 6wf1	H	L	B | A
 6xox	E	e	A
-2ai0	K	O	
-4imk	B	C	
 6bdz	H	L	A
-4hk3	J	N	
 7dc8	B	A	C
 7rda	H	L	C
 4f9p	D	d	B
-3t0v		A	
 7wec	I	K	C
-7omn	A		
 3duu	B	A	B
 4j8r	B	A	I
 6mto	H	L	T
 5ojm	M		C
-6vsr	A	B	
-4n1c		B	C
 4ydv	H	L	P
 5vta	I	G	B
 7lja	G	F	B
@@ -5748,9 +5108,7 @@ pdb	Hchain	Lchain	antigen_chain
 6cuf	h	l	c
 7p02	H	h	A | B | G
 6xcn	H	L	C
-6bi2	I	M	
 7bel	C	D	X
-5i16	H	L	
 6x08	K		B
 5vxr	H	L	P
 7my3	E		A
@@ -5762,37 +5120,26 @@ pdb	Hchain	Lchain	antigen_chain
 7l2e	H	L	A
 1g6v	K		A
 6z7w	D	C	K | L
-4llu	A	B	
 7s0x	C	D	F
-5gs3	H	h	
 6cde	H	L	D
-6l8t	C	D	
 6nb6	I	M	B
 7dcx	B	G	D
-1g9e	A		
 2qhr	H	L	P
 7zfe	J	K	A
 5dup	H	L	A
 5fhc	A	B	J
 7orb	H	L	R
-5tlj	F	E	
-7jkm	H	L	
-4hkb	C	D	
 4hc1	M	N	B
 4qex	I	M	B
 5dsc	E	F	M
 5nqw	C		B
 3mlt	H	L	P
 6osy	H	L	A
-2fb4	H	L	
 7lq7	H	L	A
 6k4z	A	a	a
 7qbf	B		A
 5mi0	B	C	A
-4ma1	B	C	
-5jor	D	A	
 6nip	H	L	Z
-7r63	A		
 3ulu	D	C	A
 3j8v	F	J	D
 6w51	O	P	D | F
@@ -5801,29 +5148,19 @@ pdb	Hchain	Lchain	antigen_chain
 2p42	D		C
 3kj6	H	L	A
 6cde	M	N	C
-4gw4	A	B	
 7ra8	C	D	B
 6xsk	I	K	B | A
 6rp8	h	l	c
-7jkb	B		
 3hi6	H	L	A
-2kqm		A	
 6awo	B	C	A
-3upc	A		
 7te1	H	L	D
 6n1w	h	l	d
 7tpr	H		B
 7n0r	D		B
 6huj	G		A | E
-6ikm	K	k	
-1q0x	H	L	
-6u53	A		
 5lwf	D		B
-6kr0	D	d	
 6pzw	F	E	C
 3k74	B		A
-4a6y	B	A	
-1mcf		A	P
 7s0x	H	L	E
 5kel	Q	U	I
 6kva	h	l	b
@@ -5832,8 +5169,6 @@ pdb	Hchain	Lchain	antigen_chain
 7x2d	E		A | B
 7lua	i	j	N
 4qhu	B	A	D
-1a6t	B	A	
-1qok	a	A	
 6nqd	K	L	J | I
 6n51	D		B
 5uk2	H	h	C
@@ -5844,27 +5179,17 @@ pdb	Hchain	Lchain	antigen_chain
 6mfp	H	L	G
 7n9t	D		C
 4xx1	H	L	A
-5i1a	B	A	
-4w2p	B		
-2qtj	A	L	
 4ckd	H	L	C
 2ltq	F	E	D
 6nms	B	A	C
 4cad	E	D	F
 4yr6	A	B	C
 7nd4	H	L	C
-6bpb	A	B	
 3q3g	K	J	L
-5gzr	M	N	
 2ltq	F	E	D
 7r74	D		A
-3bj9		1	
-6ev1	K	L	
 3opz	I	M	B
-1rzg	C	D	
 2b1h	H	L	P
-3t0w		A	A
-1maj		A	
 6vel	H	L	C
 5lbs	H	L	A
 6s3t	N	M	A
@@ -5877,48 +5202,32 @@ pdb	Hchain	Lchain	antigen_chain
 6mhg	G	S	E
 7dv4	H		G
 6adc	E	F	B
-6pxg	C	D	
 6opo	H	L	A
 7mta	H	L	G
 5drz	H	L	P
 7sp9	C		A
-8fab	B	A	
-1mak		A	
 5x0t	A	B	E
 6mhg	A	N	E
 7a4d	A		E
 4fp8	I	M	B
 3ks0	K	J	A
 7fci	H	L	A
-4p9m	H	L	
 6v4n	C	G	M
 6tyl	H		F
 6d0u	H	I	G
 2vwe	E	C	A
 6nb7	H	L	A
 6zwk	F		L
-4at6	H	L	
 4w2q	G		H
 7khf	A	L	F
 6wxl	K	J	I | G
-1yy8	D	C	
-2gfb	J	I	
 7vgy	E	e	B | C
-1n4x	H	L	
 6vmj	F	E	Y
 6p3s	C	D	E
 5ifj	J	K	L
-4k3e	I	M	
-2kqn		A	
 7tp3	H	L	Z
 1q72	H	L	H
-6gfe	H	L	
-1rei		B	
-7aj6	H	L	
 6h3t	I	M	B
-5b3c		C	
-1nj9	B	A	
-5vm4	H		
 5uoe	M	N	B
 7r8m	H	L	B
 7rga	F		F
@@ -5927,17 +5236,14 @@ pdb	Hchain	Lchain	antigen_chain
 2vc2	H	L	A
 7eh5	H	L	A
 5hj3	M	N	L | K
-5lve		A	
 7luc	F	G	A
 6o29	H	L	D
 7f3q	H	L	A
 1mh5	H	L	H
 6xp6	H	G	A | C | B
 7p78	H		E
-3qq9	D	C	
 7chh	J	K	C
 5m2m	J		I
-6vun	B	b	
 6pz8	C	G	J
 2x89	A		D
 4yaq	A	B	B
@@ -5949,22 +5255,14 @@ pdb	Hchain	Lchain	antigen_chain
 6hjy	J		E
 3dvn	B	A	Y | X
 7m1h	D		A
-1bjm		A	
 6z2m	B	C	A
 4kro	B		A
-6q1j	H	L	
 6oao	L	l	K
-2kqm		B	
 5ibl	C	D	F
-7bm5	F	E	
-6rco	A	B	
 7wue	C	D	A
-2qtj	C	N	
 4orz	C		B
 7cyv	H	h	B
 5a2i	H	h	P
-7rth	N	M	
-4qhm	C	D	
 7s6j	C	D	B
 7mw3	H	L	C
 7mdj	A	B	C
@@ -5972,44 +5270,33 @@ pdb	Hchain	Lchain	antigen_chain
 5cus	J	N	C
 3eob	H	L	I
 4ffw	D	C	B
-5dd6	H	L	
 7mly	H	I	C
 4kxz	Q	P	D
 3nid	H	L	A | D
-6oc8	C		
-5jor	F	E	
 6ug8	H	L	H
-5odb	A	B	
 3sge	J	I	M
 6nf5	G	I	D
-3i75	B	A	
 7pnq	D	F	B
 6xbk	S	s	A | B
 5ovw	I		B
 1sy6	H	L	A
 5xmh	H	L	A
 5tkj	J	K	L
-12e8	H	L	
 4ut6	I	M	B
 3etb	I	i	M
 6rlo	C	D	J
-7jln	A	B	
 1xct	D	C	Q | M
 4xvt	H	L	G
 5m14	C		A
 6mb3	H	L	E
-6wrp	H	L	
 7pc0	F		C | B
 4yhi	A	B	A
-1mlb	B	A	
 2ddq	H	L	L
 7lo7	H	L	Z
 6uye	G	J	A
 2kh2	B	b	A
 6z7y	B	A	H | G
-6w7y	A	B	
 5wth	E	D	B
-7lka	C	D	
 5mhr	P	O	E
 6wir	A	B	C
 5drz	B	A	Q
@@ -6018,16 +5305,10 @@ pdb	Hchain	Lchain	antigen_chain
 5bzw	B	A	B
 5myk	B	A	C
 3whe	O	P	B
-5i1l	H	L	
-2aju	H	L	
-5mhs	H	F	
 2ntf	H	L	H
 4xgz	C	D	c
-4ky1	H	L	
-4xcn	E	F	
 4rau	B	A	C
 7ew5	Q	R	b
-4buh	A	a	
 7mzk	H	L	A
 7eo4	E	e	B | C
 7oh1	E	D	A
@@ -6037,10 +5318,8 @@ pdb	Hchain	Lchain	antigen_chain
 7czx	I	M	B
 7vux	H	L	A
 6x1v	H	L	D
-4n1e		A	I
 2h2p	E	F	B
 3ra7	H	L	L
-6med	G	I	
 7njz	H	L	C
 7rbt	E	e	A
 5cws	H	G	K | I | J | L
@@ -6054,14 +5333,10 @@ pdb	Hchain	Lchain	antigen_chain
 5ip4	A		E
 7ps0	H	L	E
 7ly9	B	C	G
-7lsi	A	C	
 5h30	I	M	C
 5f93	H		G
-1ieh	A		
 6cf2	A	B	F | G
-3upc	E		
 6gkd	G		F
-5k8a	V	M	
 6x9r	H	L	A | B
 2zcl	H	L	P
 6nc2	P	U	J | D
@@ -6070,89 +5345,54 @@ pdb	Hchain	Lchain	antigen_chain
 7n9v	B		C
 4yhp	H	L	P
 7lex	R	P	J
-7ooi	A		
-6k2i	A		
 7jkt	H	L	G
-6hgu	H	L	
-1xf3	B	A	
-3chn	C	O	
 5ebl	A	B	C
 4mqx	E	F	B
-4aiz		A	
-5dqj	H	L	
 7cfn	N		A | B
-7eh3	A		
-1ub6	H	L	
-6nex	B	A	
-3x3g	H	L	
-3bd5		A	
 7xod	X	Y	A
 5csz	H	L	D
 7amr	H	L	B
 7aqx	C		A
-7kgl	B		
 6ur5	A	B	C
-3u46	A	B	
 6ucf	H	L	A
 5ebw	A	B	C
-1ad9	B	A	
-1gpo	I	M	
 7c88	A	B	C
 7cu4	D	E	F
 4lkx	A	B	R
-4xcy	C	D	
 6njn	I	i	A
 4mhj	K	J	G
 2kh2	B	b	A
-4aj0		C	
-2qtj	A	L	
 6db5	H	L	P
-6azl	B	A	
 7nx7	H	L	E
-7eh3	A		
-1mci		A	P
 4f9l	d	D	A
-6qf6	D	d	
 1mel	A		L
 4p2c	H		C
-5tqa	H	L	
 2bse	F		C
 7m8l	N	Q	E
 7lk4	F	E	P
 7r24	E		A
-1rhh	B	A	
 3j8w	F	J	D
 5u7o	H	L	G
 7mhx	A	B	C
 5uk4	r		R
-3v6f	H	L	
-6ev1	C	D	
-2gjj	a	A	
 6dzm	J	L	F | C
-5mp6	H	L	
 3uc0	I	M	B
 6um7	J	K	A
 1u8p	B	A	C
 3oau	H	L	H
-5xp1		E	
 7zfa	M	N	D
 5c0s	H	L	A
-4unt		F	
-4oz4	A	B	
 4i13	B		A
 3iu3	A	B	K
 1kxq	G		B
 4p3c	H	L	M
 4khx	H	L	A
-1ghf	H	L	
 6obe	B		A
 5npi	A	a	D
 7mdu	H	L	A
 5vjq	C	D	J
 7ej4	J	N	C
 7dk2	D	E	F
-6ws6	E	F	
-4xbg	J	K	
 6oq5	F		A
 7pg8	I	G	K
 6cde	m	n	c
@@ -6167,8 +5407,6 @@ pdb	Hchain	Lchain	antigen_chain
 1ngw	B	A	B
 4m5z	H	L	A
 1jps	H	L	T
-6z1o		A	
-5mvj	H	L	
 4uao	C	B	A
 7e8c	M	J	A
 7ps2	H	L	G
@@ -6179,7 +5417,6 @@ pdb	Hchain	Lchain	antigen_chain
 2dqi	H	L	Y
 4hj0	C	D	B
 3ejz	C	D	A
-6xrj	E	F	
 4f3f	B	A	C
 2h2s	E	F	B
 3csy	E	F	L | K
@@ -6188,7 +5425,6 @@ pdb	Hchain	Lchain	antigen_chain
 7e9g	D	d	A | B
 7v9l	N		A | Y | B
 2z92	A	B	A
-4n1e		B	I
 7ndc	H	L	B
 6rcv	J	I	F
 7zfa	H	L	A
@@ -6199,76 +5435,51 @@ pdb	Hchain	Lchain	antigen_chain
 6mvl	H	L	A
 4x7f	D		B
 6ev2	A	B	A
-5ayu	H	L	
-7n6p	H	L	
-4yhp	E	F	
 5k9q	U	V	P | Q
 5y9f	P	O	C
-5i15	H	L	
 7bud	G	I	B
 4krm	F		E
-5wtg	B	A	
 7czu	H	K	A
 6z3p	H	L	C | A | B
 4zs6	C	D	B
 3rif	H	L	A
 2ok0	H	L	D
 7sc1	P	Q	C
-6srx	I	M	
 6oz6	H		D
 1u8h	B	A	C
 7akd	H	L	B
 1n7m	L	H	L
-3u7w	H	L	
-6k69		A	B
 3ogo	G		B
 4z5r	W	V	F
 6bae	B	A	C | E
 7f58	N		A | B
-3iy2	B	A	
-7bnw	D		
 6bit	J	L	G
 3stz	A	B	C
-4iml	A	B	
 7tet	H	L	B | A
 6jfi	H	L	E
 5yd4	A	a	B
-1dn0	B	A	
-5i18	H	L	
 5kov	C	c	A
-3l7f	H	L	
 2qr0	R	Q	P
 7zfb	N		F
 7ri1	B		A
-1cgs	H	L	
 6pxh	C	D	A
-7sn3		E	A
 5jym	D	d	C
 7cec	H	I	B
 6w41	H	L	C
-6tke	H	L	
 3oke	B	A	B
 6ldy	A	B	C
-1bfo	H	G	
 7a29	D		A
-1eeu		A	
-1mcr		A	P
 3stl	A	B	C
 6dc5	H	I	G
-5xaj	E	C	
 3so3	C	B	A
-2mkw		A	
 2otw	B	A	E
-6psc	C	c	
 4om0	H	L	G
-2mmx		A	
 5uk4	b		B
 5mvz	H	L	U
 5bo1	I	M	A
 4om1	H	L	G
 5kaq	F	G	C
 4n8c	H	L	X
-6xym	B		
 6me1	A	B	F
 5u8q	H	L	A
 1ic5	H	L	Y
@@ -6276,27 +5487,20 @@ pdb	Hchain	Lchain	antigen_chain
 2kh2	B	b	A
 6urh	H	L	C
 7kfh	G	J	A
-4r7n	I	J	
 6ye3	D	E	F
 7fjo	H	L	A
 7z1e	F		E
 6n8d	D	B	A
 7lf0	F	H	C
 6xw4	D		B
-2q1e		C	
-4jo4	H	L	
 6mtn	H	L	G
-1mcl		B	P
 3qum	B	A	P
 1g7i	B	A	C
 1dbb	H	L	H
 6h71	D		B
-6k2i	A		
-6mg5		A	B
 3o2w	H	L	L
 6ni3	N		A | B | G
 7a3t	H	L	A
-4m43	H	L	
 1ezv	X	Y	E
 7k93	K	k	D
 4jre	H	L	D
@@ -6304,7 +5508,6 @@ pdb	Hchain	Lchain	antigen_chain
 7fei	H	L	2 | 1
 7l7r	B	A	G
 1u8l	B	A	C
-2kqm		A	
 6w1c	J	N	G
 6mph	1	2	6
 7q9i	E	F	B
@@ -6319,31 +5522,22 @@ pdb	Hchain	Lchain	antigen_chain
 7aqx	D		B
 6c5k	H	L	H
 6be3	H	L	H
-6tkb	I	M	
 7vbi	N		A | B
 7aqz	D		A
-3mnv	D	C	
 7oaq	A		E
 4wfe	G	F	B
 6vi4	C		B
 6yye	C	c	A
-6iyn	A		
 5f7l	B		A
 7ejz	H	L	R
 6ldy	H	L	M
 6zdh	D	F	B
-6ks2	B	A	
 6p3s	S	T	U
-1m71	B	A	
-7pij	K		
-4nhh	H	L	
-1fvc	D	C	
 6lxj	M	N	D
 6bli	D	E	F
 7dpm	A	B	C
 6frj	H	h	B
 2kh2	B	b	A
-6lun	C	D	
 4jhw	H	L	F
 3ks0	H	L	B
 5uk1	I	i	E
@@ -6353,33 +5547,21 @@ pdb	Hchain	Lchain	antigen_chain
 5w23	H	L	C
 6rcu	E	D	A
 6x96	J	K	G
-1f11	D	C	
 4yqx	H	L	A
 5fb8	B	A	C
-6k2i	A		
 7cfm	N		A | B | G
 6svl	O	P	R
-1ap2	D	C	
-3hc3	H	L	
 6n1w	M	N	c
-5i2i	D	C	
 5y9j	H	L	A
 6wzk	A	B	E
-4eow	H	L	
 6a77	H	L	A
 7ter	H	L	B | A
-2x1p	B		
 2htl	C	D	A
-6ev1	I	J	
 6vvu	J	K	B
 4mwf	A	B	D
-3d69	H	L	
 7ley	D	E	A
 5bjz	D	H	B
-2gk0	H	L	
 7si2	G	F	C
-2ipt	H	L	
-2fat	H	L	
 6ywc	A	B	C
 5dmi	H	L	A
 7t5f	F		D
@@ -6388,8 +5570,6 @@ pdb	Hchain	Lchain	antigen_chain
 4yga	B		A
 6cm3	O	N	E
 7pi3	T	U	O
-4evn	M	N	
-5u0u	G	g	
 7k8s	H	L	A
 6vi0	E	D	C
 7cws	E	D	Q
@@ -6397,13 +5577,11 @@ pdb	Hchain	Lchain	antigen_chain
 6x3z	J	I	B
 7wu3	N		A | B
 6xkq	H	L	A
-7rth	J	I	
 5ggv	H	L	Y
 6mqm	D	E	F
 2vh5	H	L	R
 7ams	H	L	B
 5xez	H	L	B
-7wpd	Z		
 6qtl	B		H
 4kxz	N	M	E
 6p95	D	E	a | A
@@ -6411,16 +5589,11 @@ pdb	Hchain	Lchain	antigen_chain
 7chz	H	L	I
 6n1w	Q	R	c
 7zfe	X		B
-1d5b	H	L	
 7ws0	G	F	B
 6h06	E	F	J
 4cad	K	J	L
-1mcl		A	P
-2orb	I	M	
-7jxc	H	L	
 7dm1	D	C	A
 7ksg	D		A
-6ugs	H	L	
 7r98	E		B
 5e1a	A	B	C
 5l9d	H	L	L
@@ -6428,31 +5601,19 @@ pdb	Hchain	Lchain	antigen_chain
 7dzy	O	P	A
 4yzf	G	H	B
 7nxa	A	B	E
-5bvj	H	G	
 4cmh	B	C	A
 6w0e	A	B	C
-5jo5	A	B	
-2kqm		B	
-5vzx	H	L	
 3h3b	d	D	B
-4lkc	B	A	
 5lsp	H	L	A
-6ell	H	L	
 1ynl	H	L	L
 3g04	B	A	C
 7ue9	H	L	C
 7swd	J	K	A | C
-2pr4	H	L	
 6ni2	H	L	B
 7te1	C	F	E
 2znx	A	a	Y
 7s6k	F	G	E
-5xaj	A	B	
 5mub	I	J	K
-1ucb	H	L	
-5ubz	H	L	
-2kqm		A	
-1mcf		B	P
 5van	B		A
 5vm0	B		B
 6u8k	F	G	C
@@ -6460,7 +5621,6 @@ pdb	Hchain	Lchain	antigen_chain
 4z7o	H	L	A | D
 6y9b	J	N	B
 6k68	C	D	E
-6rlm	K	L	
 7ns6	H		J
 6mhg	B	O	E
 7mta	H	L	G
@@ -6470,66 +5630,48 @@ pdb	Hchain	Lchain	antigen_chain
 6s8i	P	O	C
 3ikc	B	A	B
 6ni2	A		B | V
-5euk	D	C	
 7k43	F	G	E
 5o2u	D		C
 4s1r	H	L	G
 7t5f	B		A
 5vcn	F	E	A
 6e1k	D	C	B
-1bz7	B	A	
 6att	H	L	A
 6dde	E	e	A | B
 6mzj	H	L	A
 6e5p	3	4	E
 6usf	H	L	D
 6ey6	K		C
-6oo0	H	L	
 5njd	T	S	G | F
 7q9p	E	F	B
-5nml	F		
 1q9w	D	C	C
-5b3n	A	a	
 7qn7	G		D
 7khf	H	B	I
-3if1	D	C	
 6xjq	H	L	A
-7rqp	A	B	
 4kka	C	D	A
 6o41	B	A	N
 7c01	H	L	A
-3cm9	C	N	
 6ssp	L		H | G | F | I | J
-1ol0	B		
 3sob	H	L	B
 6pci	I	L	B
 7jwp	K	L	V
 6o3l	A	B	E
-2old		B	
 7cwt	I	J	C
 5aaw	K	k	L
 7kkl	E		C
 3eoa	H	L	I
-5vh3	A	B	
 7eh5	E	P	B
-7eh3	A		
-4oz4	H	L	
 7mdt	H	L	A
 4q6i	H	L	C
 6x07	B		A
-4fze	H	L	
 3nps	B	C	A
 7e9g	E		R
-5dd5	H	L	
 7l8p	E	F	C
-2kqn		B	
-7oo2	C	D	
 7ndf	C		B
 1s78	F	E	B
 6fyu	I		H | G
 6edu	L	M	D | I
 5yd4	G	g	H
-6k64		A	C
 6b7z	E	F	B
 7ter	M	N	D | C
 7f35	F	E	E
@@ -6542,26 +5684,19 @@ pdb	Hchain	Lchain	antigen_chain
 7zxu	A		E
 7qf1	C	B	A
 6rnk	B		A
-5wym	A	a	
 2vdo	H	L	A
 6ssi	H		C
 6mu3	H	L	H
 5uk4	m		M
-6k2i	A		
 7oay	L		K
 6by3	A	B	C
 4xi5	D	C	B | A
 7mzk	F	E	A
 7nj3	F		A
 5k9o	H	L	I
-3iy3	B	A	
-3rpi	H	L	
 7zr7	D	E	A
-6e9q	C	D	
-4n1e		C	J
 5vj6	Q	R	C | F
 5ukb	e		E
-1vhp	A		
 7wpe	X	Y	B
 5dwu	H	L	A | B
 3n85	H	L	A
@@ -6572,19 +5707,14 @@ pdb	Hchain	Lchain	antigen_chain
 4xnz	H	L	G
 3tv3	H	L	A
 6nms	H	L	S
-7sfx	J	K	
 5d9q	D	d	G
-4evn	K	L	
 7l06	H	L	U
 7p6k	G		B
 6x3v	J	I	B
 5vl3	H	L	Q
 5i5k	X	Y	A
-3u79		A	
-7lvu	D		
 7rdm	B	A	C
 7mlu	N	O	D
-7s8g	H	L	
 7n9c	E		A
 2nyy	D	C	A
 6dca	J	N	R
@@ -6592,19 +5722,15 @@ pdb	Hchain	Lchain	antigen_chain
 5cus	K	O	D
 6m2r	H	L	A
 7nik	F		A | B
-3auv	F	f	
 7r23	C		A
 3eo1	H	G	I
 7pnm	I	E	C
 1rzk	H	L	G
 7zfb	M		E
 7shy	C	D	A
-3ujt	H	L	
 7dk0	A	B	C
-15c8	H	L	
 7amq	H	L	B
 5boz	I		C
-6heq	A		
 3jcc	C	B	A
 1oax	J	N	J
 6z3q	H	L	C | A | B
@@ -6618,50 +5744,31 @@ pdb	Hchain	Lchain	antigen_chain
 6uc6	C		A
 4m3k	B		A
 3mlw	H	L	P
-3lrg		B	
 7jwq	A	B	V
-7ws1	K	J	
-1zan	H	L	
 5kzp	F	J	C
 6u36	H	L	B
 2pw1	B	A	C
-1g9e	A		
 3mme	H	L	L
-1mju	H	L	
 3qcu	H	L	H
 4wgw	D		C
-1r24	B	A	
 2kh2	B	b	A
-3g5x	B	A	
 7cz5	N		A | B
-5grx	G	g	
 5cbe	C	D	F
 3pnw	B	A	C
 7a5s	H	L	A
-7lyv	H	L	
 6crk	H	h	A | B | G
-7nkr	F		
 4ubd	S	T	R | U
 1kyo	J	K	E
 7k8w	N	S	G
 6wty	B	C	A
-5icx	B	A	
 5u3k	A	B	C
-5a16	G	H	
 6mwv	K	L	J
-6uup	A	a	
 4iof	E	F	B
-4hfw	B	A	
-7xod	W		
 6jep	H	L	E
 7mlu	H	I	C
-6e65	H	L	
-1g9e	A		
 5y0a	D	E	A
 6pv8	H	I	A | B
 2hkf	H	L	P
-6ju0	I	M	
-2mmx		A	
 6de7	D	E	B
 7dnh	H	L	E | A
 5n88	A		D
@@ -6679,7 +5786,6 @@ pdb	Hchain	Lchain	antigen_chain
 5o8f	O		A | E
 6cde	7	8	2
 3cfk	P	O	O
-5grz	G	g	
 2kh2	B	b	A
 7kkh	B	A	B
 7f0x	B	b	A
@@ -6688,16 +5794,12 @@ pdb	Hchain	Lchain	antigen_chain
 6xgc	I	J	F | E
 6sge	D		A
 78	N	n	A | B
-2hff	B	A	
 1bzq	K		D
 5mv3	C	D	E
 6lxk	J	K	C
 5dyo	H	L	A
-6hud		E	
-3cm9	C	N	
 6dc5	B	C	A
 7b18	H		C
-6oed	H	L	
 7vuj	N		A | B
 7o7f	H	F	A | B
 3ifn	H	L	P
@@ -6706,20 +5808,15 @@ pdb	Hchain	Lchain	antigen_chain
 7e6u	B		A
 5njd	N	M	K
 7eh5	I	M	B
-4uom	H	L	
 3o0r	H	L	B | C
 1dzb	A	a	X
 6erx	F	G	B
 5xku	C	B	A
 5a8h	F	E	A | B
-3cfd	H	L	
-1lhz		B	
 1kn4	H	L	L
 7kql	H	L	T
 7p5v	G		A
 4o5i	W	X	K
-5t93		B	
-1maj		A	
 4z7n	E	F	C
 7qn6	M		D
 7kdm	C		B | A
@@ -6727,81 +5824,52 @@ pdb	Hchain	Lchain	antigen_chain
 6cdi	m	n	d
 5w9p	D	E	B
 6aru	C	B	A
-7rth	o		
-7o31	X		
 5alb	H	L	L
 5hgg	T		A
 3v4v	H	L	B | A
-6xoc	H	L	
-2kqn		A	
-1zvo	D	A	
-6ol7	H	L	
-6med	A	B	
 7zfb	J	K	F
-1psk	H	L	
 5f93	C		A
 8dce	H	h	A
 4lhj	B		A
-6mxs	A	B	
-5t93		D	
 6n1w	m	n	2
 7a5r	I	M	B
 6mph	Y	a	B
-3cm9	D	O	
 5hys	A	B	G
-3j2y	F	E	
 5tr1	I	M	B
-1ek3		A	
 7luc	N	O	C
 5gir	A	B	D
 7zf5	D	F	E
 7shy	I	J	G
-5e7b	A		
 3cx5	U	V	P
-2qtj	A	L	
 6zxn	F		C
 7zml	F		A
 7qnw	A	B	E
 6m87	H	G	G
-1s5i	H	L	
-6xoc	A	B	
-3l7e	B	A	
-2kqn		A	
 5m63	H	L	L
 6plk	H	L	E
-4odu	H	L	
 6zlr	H	L	E
 7cth	H	L	C | A
-1om3	H	L	
-3cfk	F	E	
 7k7y	C		B
 5dqd	H	L	H
 7phw	E	F	D
-1vhp	A		
-5i1l	B	A	
-6fys	C		
 2htk	C	D	A
 7e6u	D		C
 7mdu	E	F	A | B
 7pqg	B		A
-6xrj	H	L	
 4yr6	D	E	F
 5n0a	H	L	A
 6vms	E	e	A | B
 6yla	H	L	E
 3nid	E	F	C
 7rg9	N		A
-6l8t	H	L	
 6gk4	E		D
 4g80	G	H	I
 5tq0	H	L	A | B
 5viy	H	G	F
-7wpf	T		
 7k75	A	B	E
 1mrf	H	L	L
 2vis	B	A	C
 7klw	B		A
-3qeh	C	D	
 6wpw	N		C | D | G
 5f3h	E	F	L
 5gxb	B		A
@@ -6809,7 +5877,6 @@ pdb	Hchain	Lchain	antigen_chain
 5mv3	R	S	T
 1zlw	M	K	M
 4nm8	H	L	B | A
-1nqb	C	c	
 4aei	H	L	A
 2y06	H	L	P
 7rga	E		E
@@ -6817,72 +5884,50 @@ pdb	Hchain	Lchain	antigen_chain
 3v4u	H	L	P
 7k8s	O	P	B
 1igj	D	C	D
-5vm4	K		
 7mn8	D	C	B
 7sp6	B		A
-6ol5	A	B	
 7cx4	N		A | B
 4wgw	B		A
-7rku	E	F	
-4m7k	H	L	
-3mxv	H	L	
-2kqm		B	
 4lde	B		A
 1ob1	B	A	C
-6pxg	H	L	
 7jva	H	L	A
 5mes	H	L	A
 6xc7	C	D	A
-5bvj	D	C	
-5nml	H		
 5uk4	i		I
 6ug9	A	B	A
-4j1u	F	E	
 5wko	K	L	W | T
 5i73	B	C	A
-5jqd	C	B	
 1ic7	H	L	Y
 5w4l	D	E	G
 7eja	H	h	A | B
 6w0j	A	B	C
 6did	K	E	G | J
-6lfv	A	a	
 6n50	E		A
 7lue	H	L	A
 4ut9	J	N	D
 7k5y	M	m	C | B | D
 1ai1	H	L	P
 6phf	A	B	G
-6ksn	A		
 6oro	D	E	B
 6gwp	B		A
-4pub	H	L	
 7wwm	I	M	B
 6xdg	B	D	E
-2h3n		A	B
 5ukb	d		D
 7czd	A		B
 4tul	H	L	I
-7kgu	D	C	
 1ncb	H	L	N
-2kqm		A	
 6p8n	B	D	A
 6mwc	C	D	B
-1u6a	H	L	
 4tnw	I	O	D
 7tm0	I	H	A
 5u3j	H	L	A
 7v69	S	s	A | C | B
 7m7w	C	D	S
 4pir	H		B
-2kqm		B	
 7l56	H	L	A
 5e7f	B		H
-3chn	A	L	
 5m2m	H		G
 6cxl	H	L	H
-2mkw		A	
-5b4m	H	L	
 2kh2	B	b	A
 3qnz	B	A	C
 6iut	H	L	A
@@ -6890,22 +5935,16 @@ pdb	Hchain	Lchain	antigen_chain
 6p9y	N		A | B
 4l5f	H	L	E
 7fin	N		A | B | G
-5esq	B	A	
 7m8l	H	K	B
 6c5k	A	B	A
 7mnn	K	M	B
 2eks	B	A	C
-1uyw	H	L	
 6ruv	R		Y | X
 7a4t	A		C | B
-3qxu	A		
 7lxz	H	J	A
-6u1t	H	L	
-2mmx		A	
 5d1q	B	A	E
 1afv	H	L	A
 5npj	A	a	D
-5c9k		A	
 6ral	C		B
 4tuo	A	B	B
 3nfp	H	L	I
@@ -6913,61 +5952,42 @@ pdb	Hchain	Lchain	antigen_chain
 7tcc	M	N	C
 4jan	A	B	I
 5ifj	D	E	F
-1mj8	H	L	
 4rx4	H	L	G
 7euo	S	s	A | B
 5o0w	H		D
-3qny	D	C	
 7ls9	H	L	A
 7keo	E	F	H | G
 5fv2	A		X
-6k2i	A		
 7kfv	F	G	E
 5u68	F	f	B
 2vxs	K	O	C
 3jcx	H	L	A
-1uz6	W	V	
 7zxg	B	C	A
 7phq	N		B
 5f45	H	L	A
 7wuh	D	F	C
-5u65	B		
 5o8f	L		B
 7chf	A	B	R
-6z7x	B	A	
-4qf1	H	L	
-1f4w	H	L	
 7fig	N		A | B | G
 5kqv	P	Q	F
 6cuf	8	7	2
 1y18	B	A	B
-2dtm	H	L	
-5f6i	B	C	
-6xxn	H		
 6c5w	E		A
-5lmj	B		
 7jw0	D	C	B
 7cvt	E	F	B
 5epm	A	B	C
-3tnn	H	L	
 6djp	C	D	A
 7dk2	J	K	L
-5i1j	H	L	
 6obo	D		B
 6p8d	A	B	C
 4yjz	l	L	E
 6vo0	H	L	A
-6wyr	H	L	
-1pw3		A	
-4aix		A	
 5bv7	C	B	A
 7k60	M	m	C | B | D
 7kqh	H	L	B
 2hmi	D	C	B
 3uo1	H	L	P
 3hzm	B	A	B
-4x4z		A	
-1t2q	H	L	
 7m6e	D	C	E
 3g5y	B	A	E
 4lvn	C	B	A
@@ -6975,24 +5995,19 @@ pdb	Hchain	Lchain	antigen_chain
 7jwb	D		A | B
 4o5i	S	T	G
 4w2o	G		H
-2bx5		A	
 4yzf	E	F	A
 5c8j	A	B	I
 7e8c	D	E	C
 3ixx	G	H	A
 5vqm	D	C	B
 7lvw	K		F
-6d9g	A	B	
 6mwv	O	P	N
 7kyl	X	Y	Z
-6y1r	B		
-3s62	H	L	
 7pgb	R	S	T
 6sne	H	L	P
 6db7	I	M	Q
 6ymq	A	a	G
 6yxd	H	L	A
-6w5d	H	L	
 5d9q	F	E	A
 6m87	J	I	J
 7sr8	E	e	A | B
@@ -7001,168 +6016,123 @@ pdb	Hchain	Lchain	antigen_chain
 5w	H	L	B
 1f90	H	L	E
 4ki5	E	F	M
-3iy1	B	A	
 7d0d	H	L	A
-2qtj	B	M	
 2kh2	B	b	A
 7r40	D	F	B
-5m6a		B	
 6ii8	J	K	E
 7si0	I	J	G
 5e5m	B		A
-6cjk	B	A	
-1cr9	H	L	
 2r23	B	A	B
 6v4o	A	B	I
 5f93	F		E
 4mhh	H	L	E
 6v4o	D	E	W
-2mkw		A	
 7lxx	H	L	A
 4z5r	Z	Y	X
 5f21	B		A
-7v0v	A		
 7wuj	N		A
 7kq7	H	L	B
 5umi	A	B	C
 4yho	H	L	H
 6ju0	J	N	J
-6pzh	H	L	
 7tm0	N	O	A
 1d6v	H	L	H
-2omb		C	
 4o02	H	L	A
 7n08	H	L	F
 7nd5	H	L	B
 7cho	H	L	E
 5h37	K	L	B
-4qxg	H	L	
 7l2e	G	J	B
 3dvn	H	L	V | U
 7l0n	M	N	S
 6vi1	B	A	N
-6tcr	H	L	
-6jwc	H	L	
-5mvg		A	
 1nc4	D	C	D
 6uc6	D		B
 6y90	C	D	B
-7mfa	U	V	
 5ye3	B	A	C
-6ztf	H	L	
-4qhl	A	B	
 6k41	H	h	A | B
 5l0q	C	B	A
 7ahu	B	A	E | F
 5tud	F	E	D
 6mph	X	Z	A
-5i17	B	A	
-2qtj	C	O	
 7zmv	K		C
 7mzg	H	L	A
 5t6p	D	C	E
 7rp0	A	B	C
 4nco	L	K	I
 7zfc	A	B	E
-4aiz		D	
 5tfw	H	L	O
-5m13	B		
 5njg	E	F	A
 4r4n	F	G	E
 5c0r	H	L	A
 1uwx	H	L	P
 6dca	K	O	S
 5ja9	A		C
-6w5d	A	B	
 4tnv	W	f	P
 5y9f	R	Q	D
 7jtr	H	h	G
 7m6d	A	B	C
 3gm0	a	A	A
 7mw5	F	G	B
-7phq	H	L	
 6xun	C	D	G
 7cwt	L	H	A
 7nfd	D	C	B
 2jix	H	L	E
-4r7n	A	B	
 2r0z	H	L	Q
 5v8l	J	N	A
 3dur	B	A	A
 2kh2	B	b	A
-6kr0	C	c	
 7kml	J	N	C
 6um5	C	D	A
 6mwx	G	H	F
 4jzn	I	P	K
-5esa	A	B	
 7pgb	X	Y	Z
-4jy5	H	L	
 7rxd	H	L	B
 5ggs	C	D	Y
 4d9r	H	L	A
 5j9p	A	B	C
 6aj7	H	L	C | B
-7dr4	C	D	
 7p7a	A		B
 6vca	E	F	A
 6xjw	C	D	B
 6u51	A		D
 1fj1	B	A	F
-1g9e	A		
-3lrh		G	H
 5dur	H	L	C
-5fuo	H	L	
-5bq7	A	B	
-1bre		C	
 4lmq	E	I	F
 6mpg	3	4	A
 3hae	H	L	A | C
 3ezj	B		A
 6vbp	J	I	K
-5t1l	D	C	
 5xwd	H	D	A
 7q0a	Y	Z	B
-4m61	B	A	
 7bts	B		A
-1vhp	A		
-3kym	J	I	
 6itq	C		C
 3vrl	H	L	C
 7p77	H		E
 1um4	H	L	H
 7kfw	C	D	B
 5t29	H	L	O
-2v7h	H	L	
 4kk8	E	F	B
 4kkb	E	F	B
 4zyp	N	O	B
 4wfg	G	F	B
-2q76	D	C	
 5w9m	B	C	A
 6n1v	X	Z	A
 1ind	H	L	H
-1hkl	H	L	
 3b2u	F	G	E
 7kxk	H	L	A
 6ozc	H	L	A
-5xli	c	a	
 6oq6	D		A
 6ul4	B		A
-4evn	G	H	
-2fjf	I	G	
-6wor	H	L	
 7lll	N		A | B
 4dag	H	L	A
 7lu9	l	k	f
 3c09	H	L	D
 4wgv	B		A
 6vl8	E	F	E
-1ngz	B	A	
 6fxn	D	E	A
 3nh7	K	O	D
 5boz	G		A
-3muh		L	L
 7mxe	H	L	G | D
 7lqv	H	L	A
 2kh2	B	b	A
@@ -7171,59 +6141,38 @@ pdb	Hchain	Lchain	antigen_chain
 7p6k	I		F
 3whe	9	0	L
 3etb	F	f	J
-7lud	A	B	
 4ydj	A	B	I
 7tb8	J	K	C
 7pgb	U	V	W
-3qeh	E	F	
-5c6w	H	h	
 6mui	K	L	J
 6ibb	B		A
-2kqn		A	
-6n32	H	L	
 2a6k	H	L	P
 6hco	D	C	B
 7olz	B		A
-4qhm	A	B	
 7mhz	O	P	A
 4r3s	A	B	Q
-1mcj		A	P
 7rbu	H	L	B
 5mv4	I	J	K
 6hx4	H	L	B
-3lrh		A	B
 1tji	H	L	P
-6k2i	A		
 7wrv	U	V	C
 7cak	I	H	C
 4etq	H	L	C
-5vm4	G		
 1f4x	H	L	H
-3chn	B	M	
-1ay1	H	L	
 7neg	H	L	E
 6c08	D	E	F
 6ek2	H	h	A
 7m6i	H	L	C | B
-6ca9	D	C	
-6q	E	F	
-4u05	A		
-6dc7	H	L	
-7lyv	A	B	
 7luc	H	I	B
 3k1k	C		A
 6osy	5	6	2
 7lex	F	H	C
 7z1c	D		C
-7php	K		
 4yue	H	L	C
 6n1v	Y	a	B
 6pwc	H	L	A | R
-6iyn	A		
 4f2m	C	D	F
-7n3g	H	L	
 6qfa	K		B
-6c6x	E	F	
 4lvh	K	L	J
 6k7o	F	G	R
 6bf4	H	L	G
@@ -7233,89 +6182,63 @@ pdb	Hchain	Lchain	antigen_chain
 5tz2	H	L	C
 6ieq	D	E	B
 6hjp	K	L	F | E
-2esg	B	M	
 2kh2	B	b	A
 3whe	M	N	A
 6muf	H	L	G
 7d5z	P	O	M
 3mac	H	L	A
 5yoy	P	M	K
-6qcu	H	L	
 6nfj	B		A
 7so7	H	L	A
 5w9k	H	I	G
-4evn	I	J	
 5wob	U	V	G
 3h42	H	L	B | A
 6ot0	H	L	A | B
-1f2x	L		
 2exw	C	D	A
 4rrp	L	F	R
-4ptt	B	A	
 6x8q	H	L	P
 3s36	H	L	X
-3r06	D	C	
 1hez	D	C	E
-1nj9	H	L	
 6pt0	E	e	A | C | B
 7epx	H	L	A
 7l5j	Y	X	A
-6azx	C	D	
-4jha	H	L	
-7jln	H	L	
-4fqh	H	L	
 6qpg	M		A | B
 7wic	S	s	A | B
 7cw3	q	r	F | E
-7kgu	F	E	
 7a3o	H	L	A
 1jgl	H	L	L
 3u9p	H	L	D
 3mlr	H	L	P
-5mvj	E	F	
 5eoc	J	M	Q
 6icc	H	L	A
 6e4x	Z	Y	B
 5ujz	I	i	E
-1hil	B	A	
 7dcc	D	H	E
 6k5f	C	D	A
 6xpz	B	C	A
 7tca	H	L	B
-6jri	E		
 7a4d	J		K
 5jop	E	D	A
 6raj	C		B
-6dez	B	A	
 7mem	H	L	E
-1mak		A	
 3mls	J	N	R
-4jfy	B	A	
 5ugy	I	M	C
 1zv5	A		L
 7chf	H	L	R
 4gxu	M	N	A
 7v6a	S	s	A | B
 7ki1	N		A | B | G
-1mf2	N	M	
 5wob	S	T	F
 7cmu	E	e	A | B
 4xh2	A	B	a
 6waq	C		D
-4f33	F	E	
 7r4q	E		B
 6qfa	N		E
-6peh	H	L	
-4r7n	E	F	
-1uz6	H	L	
 6h06	H	L	I
 6cxc	G	J	B | A
 7cwt	N	K	B
 7lez	R	P	N
 7ws5	I	H	C
-7d9z	H	L	
-2qtj	B	M	
-7omn	B		
 4xbg	H	L	H
 5mhr	K	J	C
 5o6v	H	L	B
@@ -7324,56 +6247,38 @@ pdb	Hchain	Lchain	antigen_chain
 3lzf	H	L	A
 4mqx	C	D	A
 5t3s	D	E	B
-6k3m		A	H
 5mhe	H	L	H
 5j75	B	b	b
 3mls	I	M	Q
 7cgw	A	B	C
-6qf9	B	b	
 4f9l	c	C	B
 1ots	E	F	B
 4rbp	M	K	M
 5o1r	H	L	A
-2mmx		A	
-3dwt	B		
-3eot	H	L	
 6y6c	C	c	B
-6t2j	A		
 6k7o	H	L	A
 6t3j	C	D	E
 7lxz	E	D	A
-7l77	H	L	
 7t4s	H	I	D | B
 7czp	J	N	C
 6vn1	J	N	C
-2mmx		A	
-2kqn		B	
-5wl2	H	L	
 5hbt	D	C	B
-1hq4	D	C	
 3gjf	H	L	A | C
-2vl5	C	D	
 7m2h	A	B	C
 6b0h	D	C	I
 7nmu	C		A
 4xp9	H	L	C
-5vm4	D		
 7uds	D	E	B | b
 4ogx	H	L	A
 4am0	C	D	T
 5dhv	H	L	M
-1oax		O	
 7u8m	H	L	B
 2r9h	E	F	B
-1f6l		L	
-5vf2	A	a	
 6lmk	N		A | B
 7fae	h	g	C
 6q0h	H	L	A
 7mlu	L	M	A
-7v0v	A		
 6elu	K	L	J
-5n4j	H	L	
 1e4x	H	L	P
 6pe8	H	L	T
 6sf6	A	B	D
@@ -7384,7 +6289,6 @@ pdb	Hchain	Lchain	antigen_chain
 7e5r	L	H	A
 2dqd	H	L	Y
 3whe	7	8	K
-6p4c	H	L	
 5thr	T	U	B
 2exw	E	F	B
 7wcr	a	b	A
@@ -7393,7 +6297,6 @@ pdb	Hchain	Lchain	antigen_chain
 7cdj	H	L	E
 6dfj	H	L	E
 5dq9	A	B	A
-7lk9	M	N	
 6cw2	A	B	D | C
 7cwu	N	G	B
 7wee	H	L	E
@@ -7405,25 +6308,17 @@ pdb	Hchain	Lchain	antigen_chain
 6mqc	A	B	D
 7my3	D		B
 7e9p	H	L	B
-1jfq	H	L	
 2i9l	F	E	K
-5m6i		B	
-6dzr	H	L	
-3cfk	I	G	
 6cwd	B	b	D
-5gs1	R	Q	
 6cmg	C	B	A
-4hk0	A	B	
 6n4b	S	s	A | B
 1g7l	B	A	C
 7ley	G	F	B
-5feh	B	A	
 6n1w	5	6	C
 7epu	A	a	B
 7mzk	C	D	B
 7c94	E	D	F
 6hjy	I		D
-6w4y		B	A
 7klc	H	L	A
 2atk	A	B	C
 7mwx	A	B	C
@@ -7433,54 +6328,36 @@ pdb	Hchain	Lchain	antigen_chain
 7dc8	E	D	F
 6oz6	F		B
 6rpj	B		A
-6dn0	A	B	
 2hvk	A	B	C
-1igy	B	A	
 4oly	H	L	G
-6ikm	H	h	
 4odx	H	B	X
-6iyn	A		
 6d0x	A	B	C
 6i8g	B		A
-1hcv	A		
 6ww2	H	L	R
 6olp	G	I	D | C | B
-1rzi	H	G	
 6a78	I	M	B
-1mnu	H	L	
 7nvo	N		E
-2omn		B	
 5mv4	O	P	Q
 2fx8	J	N	R
 7x6o	J	L	H | F
-5cp7	F	G	
 6o26	A	B	C
 3vga	C	B	A
-1mcs		A	P
-2kqm		A	
 7rso	I	K	D
 6bzu	G	H	L
 6pe9	E	F	U | I
-1bbj	B	A	
 6niu	I	J	A
 7ew0	E	e	A | B
-1p7k	B	A	
 7pgb	m	n	l
 6o3u	B	A	F
 4g6a	C	D	B
-6mts	H	L	
 7l02	M	K	A
-2w60	A	B	
-3b5g		A	
 7p5w	I		C
 4nc1	E		A
 7a3q	H	L	A
 4onf	H	L	P
-6tcp	F	E	
 5u5m	B	A	C | E
 3dro	B	A	P
 6mhr	A	B	C
-3tnm	A	B	
 6qpg	N		D | E
 2i60	H	L	G
 6vep	O	P	Q
@@ -7488,55 +6365,39 @@ pdb	Hchain	Lchain	antigen_chain
 5tr1	H	L	A
 1ken	T	U	C | E
 1u8j	B	A	C
-6uum	H	F	
 1tpx	B	C	A
-5dd3	H	L	
-2mmx		A	
 4f15	H	I	G
 6myy	D	C	B
 5mwn	N		A
 3jbq	H	L	F
 3ijh	B	A	B
-1mak		A	
-7vsu	D	C	
 7r8l	H	L	E
-3cdf		C	
 5xcu	D	E	F
 7ocy	C		A | B
 4uif	K	L	C
 4c2i	H	L	C
 7x2f	E		A | B | D
-2c1o	H	L	
-6xxn	F		
 6sc6	B		A
 6wo3	H	L	E
-6my4	A	B	
 1yef	H	L	L
 2znx	B	b	Z
-5gs1	I	i	
-7v0v	A		
 7oan	F		A
 3cfk	N	M	M
 7qnb	N		E | D
 2p44	B		A
 7nd6	H	L	B
 7mmo	A	B	C
-1g9e	A		
 7tpr	D		B
 4krm	B		A
 6cdp	A	B	C
-4ocy	H	L	
 6wfy	H	L	P
 3fo9	H	L	H
 1mlc	B	A	E
-5tp3	A		
 6ada	C	D	A
 6yz7	D		A
 6mhg	H	L	E
 7te8	D		D
-1cic	D	C	
 6o3b	G	E	H
-4rir	A	B	
 5tqq	H	L	A
 7cw3	o	p	N | M
 6vmk	l	k	m
@@ -7545,11 +6406,8 @@ pdb	Hchain	Lchain	antigen_chain
 7ew4	S	s	A | B
 6p9h	H	L	A
 1ngw	H	L	H
-1b0w		C	
 3wfh	A	B	B
 3u9u	A	B	F
-5ty6	H	L	
-5az2	H	L	
 4u0r	B	C	A
 2adf	H	L	A
 6db8	H	L	R
@@ -7561,24 +6419,17 @@ pdb	Hchain	Lchain	antigen_chain
 6u51	C		B
 6apd	J	L	C
 6lfo	S	s	A | C | B
-7q6c	K		
 2ny1	D	C	A
-1maj		A	
-5i17	H	L	
 5ujz	H	h	C
 3ri5	I	O	D
 5imm	B		A
 1kno	D	C	D
-3t0x		A	A
 5mp1	F	G	E
-6qkd	I		
 4wht	A	B	a
 2kh2	B	b	A
 4i0c	D		A
-5xli	d	b	
 7ora	H	L	C
 7uaq	H	L	A
-4k07		D	
 7tb8	D	E	A
 6mph	Q	R	C
 1u8n	B	A	C
@@ -7587,29 +6438,23 @@ pdb	Hchain	Lchain	antigen_chain
 7n9e	D		A | B
 7ws0	E	D	A
 6i8s	G	K	C
-1maj		A	
 5vl2	E		E
 4i2x	D	C	F
 4z9k	B		A
 4s1s	H	L	G
-7v0v	A		
-6e8v	A	B	
 4kk5	E	F	B
 7lbe	H	G	A
 7qne	G		A | E
 4uil	H	L	H
 7ks9	H	L	B
-4xce	H	L	
 2ap2	D	C	Q
 7a4d	I		L
 4r9y	N	M	A | C
-5i1d	B	A	
 4fz8	H	L	H
 6xsw	A	B	C
 4kml	B		A
 7m6h	E	G	A
 7a29	E		B
-6z3k	H	L	
 5esv	H	L	G
 3l5w	B	A	J
 2hg5	A	B	C
@@ -7620,13 +6465,9 @@ pdb	Hchain	Lchain	antigen_chain
 5w08	I	J	B
 5viy	O	P	C | E
 7mlv	L	M	A
-6e9q	E	F	
-5vz1	B	A	
-6cr1	H	L	
 4lou	C	D	A
 5h30	K	L	B
 7p2d	C		A
-3dwt	C		
 2ht3	C	D	A
 7cws	N	K	O
 5aaw	D	d	E
@@ -7640,9 +6481,7 @@ pdb	Hchain	Lchain	antigen_chain
 7s3m	H	L	A
 7nxa	H	L	E
 3t2n	H	L	A
-1j05	H	L	
 7f63	H	L	A
-3g6a	H	L	
 5nuz	H	L	D
 6oe4	E	F	D
 6k5i	E	F	B
@@ -7651,30 +6490,20 @@ pdb	Hchain	Lchain	antigen_chain
 7jv4	F	G	C
 6pzz	K	J	D
 5vzy	H	L	A
-6u6m	H	L	
-6emj	A	B	
 7sfx	C	D	F
 6urm	H	L	F
 4pir	G		A
-2lve		A	
 6qd8	H	L	F | E
 6xjy	C	D	B
-4krn	A		
 7me7	B		R
 2jb6	B	A	B
-7mlv		K	D
 7wuh	K	L	A
 7shy	K	L	H
 6zdg	H	L	E
-4b41	B		
 3rjq	B		A
-2w0l		B	
 7po5	H	L	A
 2x7l	G	I	M
 6p60	A	B	E
-4m6n	H	L	
-6lkt	A	B	
-7o85		Q	P | R
 7bq5	H	L	A
 6ot1	J	K	E
 2ht3	E	F	B
@@ -7684,166 +6513,122 @@ pdb	Hchain	Lchain	antigen_chain
 3mug	D	C	C
 6j5f	H	L	A
 6osv	H	L	K
-1yzz	A		
-6fys	G		
 7r1z	C		A
 5vod	H	L	C | E
 1a6v	I	M	I
-5u0u	C	c	
 7jvr	E	e	A | C | B
 6iec	J	K	I
 4yo0	A	B	E
-3qxu	C		
 7lzp	H		D
 2i9l	D	C	J
 6eqc	F	f	C
 5vob	H	L	D | B
 6n5e	G	F	B
-5hyq	B	A	
 6x40	J	I	B
 7ldj	G		C
-4u7s	B		
 6fy3	H	L	P
 6uy3	A	a	a
 2r1w	B	A	B
 7c8v	A		B
 7eh5	D	O	A
-2gfb	H	G	
 7eo2	E	e	B | C
 5mp5	A	B	K
 3jwo	H	L	A
 5d9q	H	L	G
 7ws3	I	H	C
-5fuz	H	L	
 7k39	L	K	E | F
 7wro	H	L	R
 4yhk	H	L	H
 7mep	I	G	E
 7ldj	H		D
-7mf7	C	D	
 6w0b	A	B	C
 6vi1	E	D	M
 7cw3	m	n	T | S
 7t4q	J	K	A
 6bpe	E	F	D
-2kqm		B	
 2otu	D	C	Q
 7kjh	B		D
 4ttd	C	D	B
 4c2i	M	N	A
 6x04	J		I
-3u36	H	L	
 5dub	H	L	P
 7l0l	G	J	E | C
-5gs0	X	Y	
 7oay	B		A
 1ub5	H	L	H
 7jum	I	i	B
 5jxe	D	C	B
-4h0g	A	a	
 7mmn	D	E	B
-4evn	E	F	
 6plk	I	M	F
-7s8g	h	l	
-2iq9	H	L	
-4odh	H	L	
 7mzj	F	E	A
 4gxu	W	X	K
 1nfd	H	G	D
 3mlx	I	M	Q
-6xxo	A		
 7m6g	H	L	C
 5w1k	L	K	J
 7lxz	N	O	K
 7n0g	Y		B
-5cd3	G	H	
 7qnx	A	B	E
-3lrh		O	P
 7nfr	B		A
-5h8d	A		
-1gpo	H	L	
 7beo	H	L	R
 6nfn	B	A	B
 6awp	B	C	A
 2kh2	B	b	A
 4q5z	O	P	D
 7dk2	A	B	C
-6amj	H	L	
 7nj5	F		A
 1pz5	B	A	C
 4yzf	K	L	D
-2mkw		A	
 5ibl	H	L	B | E
 2kh2	B	b	A
 6glx	C	D	B
-3juy	A	a	
 5cez	D	E	B
 6mg7	H	L	G
-6y0e	B		
 4krm	D		C
 7sp7	C		A
 5f97	F		B
 7cwl	I	K	C
 3p0y	H	L	A
 6mns	A	B	Q
-6ehv	X	x	
-2mmx		A	
 6avr	H	L	B | A
 6ibb	D		C
 7jtr	D	d	C
 4gxu	U	V	I
 7q9f	J	K	C
-2kqn		B	
 5esz	A	B	C
-4hk0	C	D	
 6vrk	B	C	A
-7t0i	D	C	
 4xzu	E	F	G
-7nsl		E	
 7jvc	H	L	A
 7mw6	F	G	B
 5f8q	C		A
 6i8s	F	J	B
 7n9b	F		C | B
-2kqm		A	
-6ani	I	M	
 7d0d	G	F	B
-7rth	B	A	
-2q1e		D	
 6ea5	M	N	B | C | D
 7wdf	D	E	C
-5n4g	H	L	
 4cad	H	G	I
 6um6	K	L	I
-6e8v	c	d	
-6fys	E		
 7wd0	c	d	B
 5tzt	H	L	C
 4kkb	C	D	A
-2uyl	Y	X	
 4q5z	U	V	G
 5my6	B		A
 6w05	H	L	P
 7cn2	I	i	F
-4jm4	H	L	
 1e6j	H	L	P
 4u6h	A	B	E
 6s3d	C	D	M
 7m2j	A	B	C
 7wlz	P	O	B | A
 7czs	I	M	B
-5ivz	B	A	
 7e3l	H	L	C
 1jp5	a	A	C
 6mek	F	E	C
 3mob	H	L	P
-6gc2	H	L	
 6muf	D	E	B
 1bgx	H	L	T
 5lxa	H	h	A
 5udc	B	C	A
 4pir	F		E
-3chn	A	L	
 4glr	J	K	B
 4leo	A	B	C
 6vy5	H	L	A
@@ -7853,102 +6638,57 @@ pdb	Hchain	Lchain	antigen_chain
 6b3s	C	D	B
 2oqj	B	A	C
 4q6i	B	A	K
-4j1u	D	C	
 6svl	H	L	Q
-6z3x	B		
-1mak		A	
 6a0z	H	L	A
-4jzn	C	D	
-4hkb	E	F	
-6nou	A	a	
-5i8e	C	D	
-6au5	D	C	
 6e63	H	L	P
 6chb	J	K	G
 3ve0	A	B	J | J | I
 4pgj	A		B
 7r89	C	D	B | A
-7v0v	A		
-5drn	A	B	
 6vcb	N		A | B
 4wv1	B	A	C
-4d9l	H	L	
 5tlj	D	C	X
-5ibt	H	L	
-3chn	A	L	
 6cuf	m	n	d
-6xxn	E		
 5wi9	H	L	A
-3r0m	B		
 3qxt	B		B
-6b6z	B	A	
-2qtj	C	O	
 6x1u	H	L	D
-4kvc	H	L	
 2kh2	B	b	A
 7seg	H	L	C
 7jmp	H	L	A
 7p5y	J		D
-6dyx	D		
 7rk2	C	c	B
-4ma1	E	F	
 4s1d	O	P	P
-3cm9	B	M	
 1fbi	H	L	X
 7mw2	F	G	B
-3cm9	C	N	
-2v7n	B	A	
 1c08	B	A	C
-6ffj	E	e	
 6flb	H	L	G
 6a4k	I	M	B
-5cey	B	A	
-6iyn	A		
-5t93		A	
-6qf6	B	b	
 6h70	C		B
-5nlw	A		
-6umi	H	L	
 5w	C	D	A
-7v0v	A		
-6nov	C	D	
 6vn0	I	K	F | D
 7pi2	E	F	D
-7tus	G	H	
 5w9j	B	C	A
 7r74	B		C
-1igf	J	M	
 6w0d	A	B	C
 6cwg	D		C
 6pxr	H	L	A
 7k8w	H	L	A | B
-6wgk	A	B	
 6z43	Y		B
 4utb	I	M	B
 7cwl	H	L	A
-1hq4	B	A	
-1qbl	H	L	
-6qkd		O	
 1jtp	B		M
-5chn	A	B	
 6oz3	H	L	G
 5fxc	H	h	P
-5sv4	B		
 5ggr	H	L	Z
 7k90	M	N	A
 2vyr	E		A
 7e5s	P	N	A
-4fqq	B	A	
 7mzh	B	C	A
 7sht	H	L	B
-5xhg	B	A	
-4ut7	H	L	
 5h35	H	I	D
 1nl0	H	L	G
 7pqq	B		A
-4jdv	A	B	
 3ezj	H		G
-4zd3	H	L	
 7f5h	D		B
 1a3r	H	L	P
 5vk2	D	E	c | C
@@ -7956,58 +6696,40 @@ pdb	Hchain	Lchain	antigen_chain
 7spa	B		A
 3g9a	B		A
 6xpy	B	C	A
-1fgv	H	L	
 3lhp	H	L	S
 6uym	H	L	E
-3iu4	H	L	
 5tjw	K		A
 6udj	H	I	J
 5mub	R	S	T
-6q1a	H	L	
-4fnl	I	M	
 6m58	C	D	B
 7e8f	C	B	R
 6ad7	C	D	A
 5yoy	Q	N	L
 5hd8	C	D	A
-5ocl	C		
 5y2l	I	J	B | A
 7kr5	O	P	F | E
 6h7k	C		A
 6whc	N		A | B
-3dwt	D		
-6ltg	A	B	
 6ywc	D	E	F
 6r0x	A	B	E
 6s3t	R	Q	B
 5v6l	I	M	Q
 1mhp	H	L	A
-6mxr	A	B	
-7jkb	A		
 6ran	C		B
-2kqn		B	
-6ias	H	L	
 6vo0	G	J	C
-6tul	H	L	
 6xkp	M	N	B
 6fzq	H	h	P
 6mhg	F	R	E
-4qt5	H	L	
 4jo1	H	L	P
 2wzp	J		H
-6ss0	I	M	
 6pi7	C	B	A
 7d5u	D		A
-1pew		A	
-1bfo	B	A	
 7dd8	A	B	C | D
 7zmq	C		B
 6os9	D	d	A | B
 6xli	A	B	E
 4g80	E	F	T
 7pg8	B	A	E
-3chn	B	M	
-5icy	D	C	
 7paf	B		D
 6mpg	5	6	2
 6mqs	C	D	F
@@ -8015,42 +6737,25 @@ pdb	Hchain	Lchain	antigen_chain
 6mtj	D	E	B
 4grw	F		C
 7xji	N		A | B
-7lvu	A		
-39	H	L	
 7mdp	H	I	A
-4x7s	H	L	
 7swd	I	i	B
-5c9k		F	
 6ayz	B	D	A
 4uih	F	G	C
-6q1g	H	L	
 6uqr	C	c	D
 6niu	H	L	Z
-1mak		A	
-4imk	A	D	
 6lxj	E	F	B
 6cwd	G	g	H
 1ahw	E	D	F
 6cue	H	L	D
 5y9f	X	W	G
-6vrt	H	L	
 7uar	F	G	C
 5gzo	C	D	B
 6pzy	I	L	F
-6x9x		B	
 5mu2	K	L	U
-4llv	H	L	
-5jpj		B	
 3lqa	H	L	G | C
-7omn	C		
-6fys	H		
-5whj	H	L	
 6e63	B	C	A
-4s11	A		
 6i07	B	b	D
 3lh2	K	O	V
-3oaz	M	K	
-1zvo	C	B	
 6xcm	H	L	C
 6iw2	K	L	J
 7ws1	G	F	B
@@ -8063,12 +6768,7 @@ pdb	Hchain	Lchain	antigen_chain
 7jv6	F	G	E
 7nd4	D	E	A
 3pnw	W	V	X
-6vor	C	D	
-3q6f	H	G	
-1lgv		A	
-7lsb	B	D	
 5u4l	B		A
-5ezj	A	B	
 4ydk	H	L	G
 7nir	F		A | B
 6rvc	F		C
@@ -8083,45 +6783,31 @@ pdb	Hchain	Lchain	antigen_chain
 4kjq	E	F	B
 6udj	A	R	P
 4kkc	C	D	A
-2gjz	B	A	
 5zxv	C	D	B
 5a1z	K	L	C
 2r4r	H	L	A
-3q6f	F	E	
 6ii8	H	L	C
 7n9a	A		E
 6wf0	H	L	B | A
 6rpj	D		C
-7jlk	H	L	
 6o3a	B	A	E
-7lyv	C	D	
-4jy6	B	A	
-5xqy		H	
 7zfe	W		A
-4qhk	I	J	
 7t3d	O	Q	G
 5uk2	G	g	A
-1g9e	A		
 2x6m	A		B
-4poy	A		
 7czy	H	K	A
 2vyr	G		C
 5vl3	A	B	R
-2mmx		A	
 6zwk	D		J
 3rhw	F	N	B
-6iyn	A		
 1f58	H	L	P
-6pil	A	a	
 7r7n	H	L	E
 6vi4	D		A
 7q9g	H	L	A
 5nhr	A	B	D
-1ivl		A	
 5i8o	H	L	H
 5boz	J		D
 6cm3	M	L	F
-3dvi		A	
 5w3p	H	L	P
 2aep	H	L	A
 6bpc	B	C	A
@@ -8131,7 +6817,6 @@ pdb	Hchain	Lchain	antigen_chain
 7vnc	V		C
 5u1f	H	L	D | A | C
 5zia	O	P	Q
-1ad0	B	A	
 7uar	H	L	B
 6opq	H	L	A
 6cbv	H	L	B
@@ -8139,32 +6824,25 @@ pdb	Hchain	Lchain	antigen_chain
 7cn2	M	m	A
 7mjh	E		B
 2i5y	R	Q	P
-3tnm	H	L	
 1qd0	A		A
 5ku2	7		3
 6osy	C	D	B
 7sq1	H	L	E
-5e99	H	L	
 6t9e	A	B	C
 6oge	E	D	A
 7su0	H	L	C
 5lgh	H	L	L
 6elu	H	I	G
 6vo1	G	J	C
-6xvi	B		
-6tcm	H	L	
 7a3u	H	L	A
 4why	M	N	B
 7c2s	I	M	B | A
 7lcn	B	D	A
-3cdf		A	
-4ocw	H	L	
 7k90	O	P	C
 3idj	B	A	C
 7bsc	H	L	A
 7r24	C		A
 7sc1	M	N	B
-3chn	C	O	
 4ubd	Y	X	V | M
 3rkd	D	C	B
 5w1k	B	A	P
@@ -8173,119 +6851,87 @@ pdb	Hchain	Lchain	antigen_chain
 7mjt	A	B	C
 2h2s	C	D	A
 7ej5	J	N	C
-4aix		C	
 1xgr	B	A	C
 6xc7	H	L	A
 7m8l	G	J	A
 6snd	H	L	P
-3o11	H	L	
 7mw5	D	E	A
 1jtt	A		L
 7lex	G	I	A
-1b6d		B	
 7lxw	H	L	A
 6o3b	B	A	C
 4bz2	H	L	A
 7ew1	E	e	D | B
-3bdx		C	
 6u02	H	L	A
 7d30	A		B
-1iai	H	L	
 4p2c	J		E
-1i3v	A		
 7nvo	n		e
 5f3b	E	F	D
 1i9r	K	M	B
-4rfe	H	L	
 7nft	C		A
 6ous	Q	R	F | E
 4hih	B	A	A
 7zfc	H	L	E
-6qn7	A	B	
 7dk7	a	b	A
 7mtb	H	L	G
-5c9k		C	
 6iw2	Q	R	P
 6ug9	H	L	H
 6jhs	E	D	C
 7rbv	H	L	B | C
-5hcg		L	
 7a3q	I	M	B
-6h3h	A	B	
 7sn3	F	G	B
-1ad9	H	L	
 6x1w	H	L	A
 6j11	F	G	B
 3v6o	C	E	A
 1uwg	H	L	H
 1flr	H	L	L
-3cm9	B	M	
 7sem	B	C	F
 4iof	C	D	A
 1oau	H	L	H
 7l09	H	L	T
 6bb4	J	N	R
-6tco	H	L	
-6iyn	A		
 3h3p	I	M	T
 5ukb	b		B
 7s4g	H	L	J
-6o41	H	L	
 3v6o	D	F	B
 3eff	B	A	M | N
 4jpv	H	L	G
 5f9w	B	C	A
 5cws	B	A	E | C | D | F
 7ley	H	I	C
-6dcv	H	L	
 7k93	I	i	C
 7z1c	F		A
 2bfv	H	L	H
-5ds8	A	B	
 5dmj	E		D
 6nqd	G	H	F | E
-5ocl	D		
 7php	N		A
 6do1	E		A
 1svz	b	B	D
-7lud	H	L	
 6x87	E	F	X
 6h0e	C	D	G
 1fl3	A	B	A
 6gk4	F		D
 5m94	B		A
 6q23	H	L	A
-4nyl	E	F	
 7n28	S	U	G
-5y2k	G	H	
 1ymh	D	C	F
-2xza	H	L	
 5lx9	H	h	A
-7m74	N		
 7qez	E	F	A
 3zdx	H	L	A | D
-6ic3		E	
 2fl5	H	L	H
-6dl8	A	B	
 2xxm	B		A
 7ri2	B		A
 6b5r	H	L	A
 7lvw	L		C
 4o5i	O	P	C
 5i6x	B	C	A
-7t0j	F	E	
 6c5w	C		B
-6mfj	H	L	
 5f8r	C		A
 6id4	H	L	A | B
 7pbz	F		C | B
 4g6f	H	L	P
 7wig	S	s	A | B
 3uaj	H	L	A
-5bzd	B	A	
-6xvi	D		
-6k6a		B	C
-4gmt	I	M	
 6mwx	K	L	J
 7zr7	H	L	B
 7s4g	A	B	K
@@ -8295,38 +6941,27 @@ pdb	Hchain	Lchain	antigen_chain
 7tca	D	E	C
 4lhq	D		C
 7zmm	G		D
-5aze	H	L	
 7kh0	N		A | B
-5drn	H	L	
 4wuu	E	D	A | C
 6wtv	H	I	G
 7whi	D		B
 7mfr	Y	X	Q
-3u36	A	B	
 6hjx	H		C
-6k2i	A		
 1tet	H	L	P
 7dx4	H	L	E
 7ra8	H	L	A
 5fv2	B		V
 4gft	B		A
-7eh3	A		
-6xvi	C		
 7l2c	H	L	A
-5u3p	H	L	
 5ldn	H	L	A
 7l0n	A	B	R
 6opq	M	O	E
-1rzi	D	C	
 3p9w	F		E
 7shy	E	F	B
-2kqn		B	
 1p84	J	K	E
 1c12	B	A	A
 4h88	H	L	A
-3eyq	D	C	
 5uoe	P	Q	C
-4nhg	D	B	
 4u6v	H	L	A
 4lgp	D		C
 7swo	H	L	A
@@ -8342,28 +6977,17 @@ pdb	Hchain	Lchain	antigen_chain
 5mu2	O	P	W
 7rsn	H	L	A
 6crq	J	L	F
-1dee	B	A	
 7chy	H	L	I
-6ugs	A	B	
 3t3p	E	F	C
-6y1r	D		
 6olp	H	L	F | E
 4xmm	H	L	D | C
-5grw	A	a	
 6okp	Q	R	F
-6o41	D	C	
-5f6h	I	J	
 1bj1	H	L	W
 4tnw	F	N	B
-3bqu	D	C	
 5h8o	A		B
 7v3h	G	H	A
-3j7e	B	A	
 5vl2	C		C
-5t1l	B	A	
 3nfp	A	B	K
-2a6k	B	A	
-1za6	F	E	
 5j57	B		A
 7dm2	H	L	A
 5bk3	C	D	D
@@ -8371,41 +6995,28 @@ pdb	Hchain	Lchain	antigen_chain
 7dur	N		A | B
 6ukt	F		B
 7d77	S	s	A | B
-2bx5		I	
 7kml	I	M	B
 5dum	H	L	A
 7bsd	H	L	I
 7ps2	A	B	G
-1mcb		B	P
 4ubd	C	D	B | I
 6orn	A	B	G
 6mco	D	E	B
 6sc8	B		A
 7zf8	H	L	E
-4xcy	J	K	
 7e86	A	B	C
-2qtj	D	O	
 5w1k	D	C	E
-1rih	H	L	
 3ztj	G	H	B | A
-1mcq		A	P
 3stb	B		C
 6oao	D	d	C
-7nsl		C	
 5mwn	D		B
-1fve	B	A	
-4zg1	D		
 7rd3	H	L	D
-5xp1		H	
 6z43	Z		C
-6iyn	A		
-1mhh	D	C	
 5w3e	E	G	B | A | C
 6raf	C		B
 5vl3	E	F	T
 5uqy	D	C	A
 7lf8	H	L	A
-6rlm	I	J	
 6b3d	H	L	H
 4rbp	H	L	H
 7qn8	K		B
@@ -8413,14 +7024,9 @@ pdb	Hchain	Lchain	antigen_chain
 6nv0	H	L	A
 6lxk	H	L	A
 6iek	B	C	A
-2aj3	F	E	
-7cea	A	B	
 2kh2	B	b	A
 5uk4	a		A
-4k3h		E	E
-1g9e	A		
 6mui	C	D	B
-6ikm	R	r	
 7l7e	T	U	b
 6mtj	H	L	G
 7a4d	D		F
@@ -8435,22 +7041,16 @@ pdb	Hchain	Lchain	antigen_chain
 7ral	H	L	B
 7k8u	H	L	A | B
 4rrp	J	D	P
-3cm9	A	L	
-7eh3	A		
 4idj	H	L	A
 6hxw	C	D	B
-1bvl	A	B	
 7bue	J	K	C
 7rlv	E	F	Q
 2brr	H	L	P
 5a2j	H	h	P
-4aj0		A	
 7czv	H	K	A
 6q1z	H	L	A
-7kbm	A	a	
 4rnr	C	D	D
 3zdx	E	F	C
-1xf2	B	A	
 6umx	H	L	A
 6pv8	F	G	D | E
 7qn8	M		D
@@ -8463,12 +7063,10 @@ pdb	Hchain	Lchain	antigen_chain
 7dkj	C	D	A
 7czr	H	K	A
 2kh2	B	b	A
-6eyn	D	C	
 6fxn	F	G	B
 5xqw	H	L	H
 6oik	H	h	A | B
 6xlq	B	C	A
-4qgy	A		
 2y5t	A	B	E | G | F
 7nll	A		D
 7ra3	E	e	A
@@ -8484,35 +7082,28 @@ pdb	Hchain	Lchain	antigen_chain
 4xaw	H	L	P
 7tcc	D	E	A
 6orp	D	E	B
-6c6x	H	L	
 3hmx	H	L	A
-2ig2	H	L	
 7qic	B		A
 7ljr	S	T	A
 5uk1	H	h	C
-5vm4	J		
 6awn	B	C	A
 6b3s	F	G	E
-6btj	A	B	
 7rkv	D	H	B
 3bn9	D	C	B
 6v8z	C	F	A
 5gkr	A	B	T
 5tqq	I	M	B
 2jb6	H	L	H
-2qtj	D	N	
 5gzo	H	L	A
 6qex	C	B	A
 2kh2	B	b	A
 1oax	H	L	H
-4nhg	I	F	
 3ujj	H	L	P
 6oao	F	f	E
 6ey0	F		B
 6tgg	H	h	P
 4rau	Q	P	R
 6phd	H	L	C
-5wcd	H	L	
 7che	H	L	R
 6p62	F	G	E
 4y5x	G	H	I
@@ -8526,32 +7117,22 @@ pdb	Hchain	Lchain	antigen_chain
 7bel	E	F	X
 6bck	H	L	G
 7dwt	H	L	A
-6w51	S	T	
 6m87	D	C	D
 6e4y	H	L	P
 2xzq	H	L	P
 6nmr	A	B	E
 7wrz	H	L	R
-5kg9	A	B	
 5ijk	B	D	Y
 7q0i	H	L	C
 4qti	H	L	U
 4g80	A	B	S
-5w6c	H	L	
 6fyt	I		B | A
 7kn5	F		B
 6mpg	Q	R	C
-5tpl	H	L	
-7n3h	H	L	
-1g9e	A		
-4fnl	H	L	
 3qxt	A		A
 5ku0	7		3
 6wm9	B	C	A
-5jor	B	C	
 6xw5	D		B
-2q20		A	
-3dwt	F		
 7mkl	H	L	A
 1zlv	M	K	M
 3iyw	H	L	A
@@ -8570,16 +7151,12 @@ pdb	Hchain	Lchain	antigen_chain
 4dkf	H	L	A
 6ug7	H	L	H
 6h7j	C		A
-5jw5	H	L	
 3qwo	H	L	P
 4gms	J	N	E
 6uum	B	A	A
 5uqy	P	O	M | F
 6n4r	L	K	C | D | H
 4xgz	A	B	a
-6a0x	G	H	
-2iqa	B	A	
-5jny	A	B	
 7jx3	H	L	R
 7nvn	N		E
 7kex	G	J	A
@@ -8588,49 +7165,33 @@ pdb	Hchain	Lchain	antigen_chain
 7o06	A		C
 7mww	H	L	E
 6wez	H	L	B | A
-7lmr		B	B
 5t5n	M	L	C
 7dge	C		A
-3chn	B	M	
-6and	H	L	
 5vyf	B	A	C
 6cue	M	N	C
 6nc2	H	L	B | A
-6u85	H	L	
 6vca	K	J	C
-2q76	B	A	
-6pxg	E	F	
 5f6j	H	F	E
 7l7e	H	L	S
-4m3j	B		
-2uyl	W	V	
 4kzd	H	L	R
 6pzw	J	G	B
 5dmj	G		F
 5vj6	H	L	E
 5nbl	E		C | B
-5nb5	I	M	
 7n8h	E	D	A
 5kov	K	k	H
 7a4d	G		K
-6f0d	B		
 5nbm	E		C | B
-1aif	H	L	
 6dzv	B	C	A
-6qn8	E	F	
 6e5p	S	T	C
 6jht	E	D	C
 6bzu	C	D	I
 5tkj	A	B	C
-6g8r	A	a	
-3zhl	A		
 3wsq	H	L	A
 5kn5	D	E	F
 6cse	H	L	M
 7m7h	E	F	B
 7k8t	O	P	A
-3mcg		1	
-6qnk	D	C	
 5zia	D	E	F
 5xf1	H	L	B
 5cba	A	B	E
@@ -8640,22 +7201,15 @@ pdb	Hchain	Lchain	antigen_chain
 2ajx	H	L	L
 2kh2	B	b	A
 7cm4	H	L	A
-1ieh	A		
 6vzi	D	E	B
 6uoe	H	L	P
-6phg	A	B	
 7k9h	H	L	B | A
 2ez0	E	F	B
-5n2k	L	K	
 4fqv	J	N	D | C
-3bjl		A	
-2mkw		A	
 2kh2	B	b	A
-5da4	B		
 7te6	G	H	F | E
 6djp	E	F	B
 6cvk	A	a	C
-3cfj	B	A	
 5xcs	A	B	C
 7rah	B	A	E
 7zmo	K		A
@@ -8666,7 +7220,6 @@ pdb	Hchain	Lchain	antigen_chain
 6feq	D	C	B
 7paf	C		A
 2c1p	B	A	B
-6iyn	A		
 4kkc	E	F	B
 6kz0	H	I	G
 4xmk	H	L	P
@@ -8674,7 +7227,6 @@ pdb	Hchain	Lchain	antigen_chain
 6cwt	C	D	F
 7ey5	B	C	A
 6snh	H	L	X
-1qbm	H	L	
 4hkx	A	B	E
 3hr5	B	A	S
 5v8m	S	U	G
@@ -8682,36 +7234,27 @@ pdb	Hchain	Lchain	antigen_chain
 7pry	C	D	I
 6xun	A	B	F
 6ck9	H	L	G
-1jv5	B	A	
 6xcm	N	S	B
-2vyr	I		
 7zmr	C		B
 7k8y	G	I	B | D
 6vo3	I	K	D
 7nda	H	L	C | A
-3c08	H	L	
-3tnn	E	F	
 3j69	7		3
 6war	D		C
 6jep	K	I	F
 5udd	M	S	F | E
 4kdt	A		D
-7tus	E	F	
 7kbb	A	B	E | C
 5x2p	J	K	C
-2fjf	H	L	
 7pi3	R	S	O
 7nx8	H	L	E
 5sx4	H	L	N
-7vsw	B	A	
 3dvg	B	A	Y | X
 7cqd	I	M	B
 1i8i	B	A	C
 3cfi	L		K
-6dbd	B		
 7uap	M	N	B
 6idi	H	L	D
-4x0k	H	L	
 6wvz	H	L	M
 3phq	B	A	B
 7n4m	H	L	A
@@ -8722,23 +7265,14 @@ pdb	Hchain	Lchain	antigen_chain
 4xvu	K	L	G
 7wgt	H	L	A
 4rgn	B	C	A
-6tkb	H	L	
 1i8k	B	A	C
-6o3k	H	L	
 7tyy	N		A | B
-4kuz	H	L	
 4plk	H	L	A
-7nsl		A	
-6z1o		D	
-1oau	K		
 4uif	G	H	A
 7sn3	D		A
 3rhw	I	O	D
-5jqd	D	A	
-6a	H	L	
 7sod	H	L	A
 6oca	D		B
-4lve		A	
 7rga	C		C
 7a3p	H	L	A
 6vbq	E	F	J
@@ -8746,7 +7280,6 @@ pdb	Hchain	Lchain	antigen_chain
 1ic4	H	L	Y
 7lex	D	E	B
 7d5q	D		B
-1maj		A	
 2kh2	B	b	A
 7cwu	M	R	C
 5udd	L	R	D | H
@@ -8760,106 +7293,67 @@ pdb	Hchain	Lchain	antigen_chain
 7fjn	I	J	A
 6n81	H	L	A
 6fe4	I		D
-2kqm		B	
 4rrp	G	A	M
 6pb0	N		A | B
 2zpk	I	M	Q
 7ll1	H	L	A
-5m2w	B		
-3nn8	D	E	
-1u0q	B		
 4rdq	G	F	E
 2pcp	D	C	C
 6dc9	H	L	P
 7kf9	G	J	A
-2x1p	D		
-6rcs	A	B	
 6tou	A	a	G
 6xm2	F	E	I
-7v0v	A		
 3j5m	L	K	I
 7mlh	C	A	F
-2kqn		A	
-7xod	T		
-3s34	H	L	
 6azm	B	A	E
 3ijs	D	C	D
-3clf	H	L	
-5fwo	A		
-2o5y	H	L	
 7sob	G	I	A
 5czx	H	L	A
 7k61	M	m	C | B | D
 7r23	B		A
 5b8c	E	D	F
 4ala	H	L	C
-1vhp	A		
 6oao	H	h	G
-5u0u	A	a	
 6mco	H	L	G
-2adi	B	A	
-2hwz	H	L	
-6vi2	B	A	
-1dba	H	L	
-3j2x	D	C	
-5cp7	B	C	
-5xqy		B	
 5tkj	G	H	I
-3j2y	H	G	
 7dh5	N		A | B
 6a79	H	L	A
 7v68	S	s	A | B
 4qww	D	C	B
-7kbp	C	c	
 7q9j	E	F	B
 6veq	I	J	K
 7kf1	D	E	F
 7p16	B		A
-3cm9	A	L	
 5aco	G	J	C
 7ckw	N		A | B | G
 7mmn	H	L	I
-7tqa	A	B	
 7n9t	F		B
 7p5v	L		F
 7wk9	a	b	B
-6bi2	H	L	
 7kxk	J	N	C
 4x7d	C		B
-1ck0	H	L	
 7n08	C	D	G
-3eyo	B	A	
-7nx2	D	C	
 4ene	C	D	A
-7phq	A	C	
 5ugy	H	L	A
 7fiy	N		A | B
 7ns6	S		M
 7e9g	F		S
-1igf	H	L	
 7q0i	A	B	D
 4g3y	H	L	C
 7can	A		B
 7f53	N		A | B
-4tpr	H	L	
-6xxp	A		
-1mcc		A	P
 6o25	A	B	D | G
-4odw	H	L	
 7nd7	J	K	C
 6rlo	A	B	I
 4odv	H	L	L
 6ss6	I	M	B
 6udk	D	E	G
 7q9f	E	F	B
-3j2x	F	E	
-2mkw		A	
 7kcr	H	L	C | A | E
 7mjk	H	I	C
 7k84	B		A
 7rky	D	d	A | B
 6pbw	D	C	E
-1ol0	A		
 1s3k	H	L	H
 4m1c	E	F	B
 6v8x	G	H	E
@@ -8870,86 +7364,60 @@ pdb	Hchain	Lchain	antigen_chain
 7lsf	H	L	E
 6bzw	C	D	I
 7k5x	N	n	G | F | H
-6uup	D	d	
 7sg4	H	L	A
-4py7	A	B	
-3wbd	B	b	
 7shu	E	F	B
 7kzb	A	B	C
 6chb	M	N	F
 1um5	H	L	H
-7tqa	H	L	
-6ic3		H	
 7x7e	B		C
 5b3j	H	L	D
 6x7w	A	C	D
 6qv1	E		B | A
-5ysl	G	H	
 4lvh	H	I	G
 5uk0	I	i	E
-4unu		B	
 6h6y	H		D
 5a7x	H	G	E
 7apj	B		A
 7m6e	F	G	B
-5nml	D		
 7zmv	G		A
 2q8a	H	L	A
-6tkf	H	L	
 1kb9	J	K	E
 6vmk	M	L	W
-7kkj	A		
-4llv	A	B	
 6p4b	B	A	D
 6d2p	H	L	C
 7qn9	L		C
 3ncy	P	S	B | A
-2kqm		B	
 6u59	H	L	A
 7d3m	H	L	1 | 3
-5xp1		C	
-5tr8	H	L	
-5dxw	A		
 3cxh	U	V	P
 5v8m	R	T	F
 6nc2	S	X	N | G
-3juy	D	d	
 5ihl	E		D
 5iq7	H	L	P
 7f6z	H	L	R
 6svl	A	B	C
-5vm4	F		
-2kqn		B	
-6l8t	A	B	
-1cic	B	A	
 4lhq	B		A
 6zh9	H	L	E
 6blh	H	L	G
 3eo1	K	J	L
 4r0l	H	L	D
-6pyc		H	L
 5jsa	E	F	C | D
 7dzy	H	L	B
 6h7n	D		B
-3j2x	H	G	
 3pho	B	A	A
-6v4r	H	L	
 2kh2	B	b	A
 6ujc	E	F	B | A
 6ous	W	X	L | K
 7omm	C		A | B
 5tok	F		C
-7kqy	B		
 5wux	C	D	G
 4eiz	C		B
 6xc2	X	Y	Z
 2wub	R	Q	C
 3hae	O	N	J | M
-4qth	A	B	
 7k8v	M	N	C
 2vdk	H	L	A
 6u59	K	J	G
-4ncc	H	L	
 7z0x	H	L	R
 3v52	H	L	P
 7a5s	I	M	B
@@ -8957,14 +7425,11 @@ pdb	Hchain	Lchain	antigen_chain
 3j70	M	N	P
 7nvm	N		E
 6ba5	F	E	O
-6k2i	A		
 7mnl	H	L	A
 6jjp	D	E	F
 5mu0	A	B	Q
-5fv1		L	V
 4y5v	D	E	F
 4bfb	E		B
-6z3k	G	I	
 6bfq	H	L	K
 1ngx	B	A	B
 7sg6	H	L	A
@@ -8974,37 +7439,26 @@ pdb	Hchain	Lchain	antigen_chain
 1lo2	H	L	H
 7azb	B		A
 5udd	O	U	I
-1pw3		B	
 1k	H	L	P
-7mfa	G	I	
-3hc0	H	L	
-4jzn	A	B	
 7sfw	Q	R	H
 7n5h	H	L	A
-6ol6	A	B	
 7rfb	H	L	D
 6qtl	C		A
 6osy	P	O	K
 6v4n	H	L	N
 6mn7	G	g	A
 6j15	H	L	D
-5acm		B	A
 4jpw	H	L	G
 7qjj	B		A
-5v7r	H	L	
 6q0o	Z	B	A
 7m7b	H	L	A
 7p40	F	B	A
-6iyn	A		
-4rqq	B	A	
 4yxk	H	L	A
 6nfn	H	L	L
-4hkb	G	H	
 7tfn	I	J	B
 4s10	A		C
 4nnp	X	Y	B
 1kcs	H	L	P
-4pfe	A		
 6vn7	N		A | B
 6lhp	H	L	C | B
 4okv	A	B	F
@@ -9012,18 +7466,14 @@ pdb	Hchain	Lchain	antigen_chain
 1a2y	B	A	C
 6mhg	I	T	E
 7te9	M	N	B
-6okq	D	C	
 3bae	H	L	A
-4nkm	A	B	
 5xcq	A	B	C
-1yzz	B		
 3hr5	H	L	R
 6i8h	B		A
 4xnz	E	F	D
 4dgi	H	L	A
 6x5b	H	L	A
 6s8d	Y	U	E
-6fpv	B		
 7nd0	H	L	A
 6i53	G		A | E
 4rau	E	D	F
@@ -9031,7 +7481,6 @@ pdb	Hchain	Lchain	antigen_chain
 7zfa	J	K	C
 6ct7	H	L	S
 7mnn	H	L	A
-6dwi	P	O	
 7vad	H	L	A
 7p40	I	H	G
 2g5b	D	C	J
@@ -9040,17 +7489,12 @@ pdb	Hchain	Lchain	antigen_chain
 2or9	I	M	P
 3jwd	P	O	B
 6o42	H	L	G
-3cdf		F	
-7c95	D	C	
 5uk4	c		C
 7p5y	H		B
 6uda	K	L	I
 6q23	E	F	C
-4uim	C	D	
 6ey6	M		E
 6x87	A	B	X
-7phq	K		
-3cmo	H	L	
 1nby	B	A	C
 3o2d	H	L	A
 4r4n	N	O	M | a
@@ -9058,80 +7502,59 @@ pdb	Hchain	Lchain	antigen_chain
 5dq9	C	D	C
 4wv1	E	D	F
 6d01	G	H	J
-6mg4		A	
-5jr1	H	L	
 5gir	H	L	C
 5grj	H	L	A
 2fx8	I	M	Q
 7a4y	B		E | D
 7t5f	C		A
-6ks2	D	C	
 4yxh	H	L	A
 7pqy	B	C	A
 6apd	F	G	C
-6ltg	C	D	
 4mhh	G	I	C
 7ljd	N		A | B | G
 1f3d	H	L	L
 5igx	H	L	G
 7wq3	S	s	A | B
-2qtj	A	L	
-6wzn	A	a	
 1hh6	B	A	C
-6ck8	A		
-4u05	B		
 1etz	B	A	B
-5nlu	A		
 2y07	H	L	P
-7djx	A		
 7n8h	M	L	K
-4at6	O	P	
 5t3z	H	L	G
 4x7d	D		A
 7whj	E		B
 7zrc	H	L	C
 7kpg	H	L	S
-4x0k	A	B	
 5mje	B		A
 1g7m	B	A	C
 7nll	C		B
 6wxl	H	L	B | A
-3uls	B	A	
 5wk3	W	V	D
-1d5b	B	A	
 7vdm	S	s	A | B
 7nx9	A	B	E
 2pcp	B	A	B
 4tuo	C	D	D
 7eh5	F	Q	C
-2imm		A	
 2oqj	H	G	I
 2yk1	H	L	H
 7wgd	H	L	A
 5x8l	G	L	B
-4fqq	H	L	
 4dgv	H	L	A
-7t0j	D	C	
 7amp	H	L	B
 7l5b	H	L	A
 7tfo	H	L	A
 1ndm	B	A	C
 6b08	C	B	A
 7u2l	E	e	A | B
-6kx0	A	B	
 6xc4	H	L	A
-6anp	H	L	
 3u30	F	E	D
 7t5f	E		D
 6dcq	H	L	B | A
 7n0u	H	L	C
 7faf	g	f	B
-1ek3		B	
 1ncd	H	L	N
 7rt9	C	D	Z
 3etb	H	h	L
 3j3o	H	L	1
-4qhk	K	L	
 6fy1	H	L	G
 7tyh	N		A | B
 1g9m	H	L	G
@@ -9146,23 +7569,17 @@ pdb	Hchain	Lchain	antigen_chain
 1qyg	H	L	H
 7bua	H	L	A
 6ule	A	B	I
-6xv8	C		
 6u55	A		B
 4rzc	E	F	E
-4nkm	E	F	
 6xq2	F	E	D
 3jba	H	L	A
-7a4y	C		
 7orb	C	D	X
 6x04	L		K
-5jo4	C	D	
 6vy2	H	L	A
 4hij	D	C	D
 7ll1	J	K	G
 7pg8	U	S	W
-6xrj	A	B	
 3j8z	I	M	B | A
-6azx	A	B	
 5yd5	C	c	D
 7l2f	H	L	A
 7mfu	B		A
@@ -9170,65 +7587,48 @@ pdb	Hchain	Lchain	antigen_chain
 4nhh	O	Q	C
 7vla	S	s	A | B
 1za3	H	L	R
-6pyc		L	L
 7tpr	E		C
 6mw9	O	P	N
 5n09	I	M	B
 4ris	H	L	P
-5nml	E		
 4ut9	H	L	A
-4fqc	H	L	
-6wiy	H	L	
 6mlm	E	I	A
 5mhg	H	L	H
 7pi2	H	I	G
 4o9h	H	L	A
-2kqn		B	
 7wkx	A	C	F
 6o2a	C	D	G | N
 5y2m	I	J	D | A | C
 6bft	A	B	G
 7kbt	E	F	A
-4xcn	G	I	
-3i2c	H	L	
 5ujz	G	g	A
 6mui	G	H	F
 1fe8	H	L	A
 5mp1	C	D	B
 6urm	D	E	C
 7s4s	H	L	A
-5gz0	D	C	
 6erx	D	E	A
 3d0v	B	A	C
 3ztj	I	J	D | C
-1opg	H	L	
 4jg0	H	L	P
-3j2z	F	E	
 3wxw	H	L	A
 7q9m	E	F	B
 6mnf	M	K	M
 5vxl	B		A
 1ggi	J	M	Q
 6ml8	H	L	A
-1mck		A	P
 7ly3	F	E	B
 6bli	A	B	C
 4u6v	K	M	B
 6lpb	N		A | B
 4p2c	K		F
-6grz		B	
 6n7j	H	L	C
-3cmo	Y	X	
 3eo1	E	D	F
-5c9k		B	
 2h2p	C	D	A
-2a1w	I	M	
 2bjm	H	L	H
 4nc0	B		A
 5vl3	C	D	S
-3b9v	A		
 5hj3	A	B	P | O
-3cm9	B	M	
 4mxw	H	L	A
 1y18	F	E	E
 4m1d	I	M	Q
@@ -9249,39 +7649,30 @@ pdb	Hchain	Lchain	antigen_chain
 1bzq	M		C
 7mxe	M	O	C | P
 7bu8	J	K	C
-6zqk	C		
 7ns6	T		I
 7lo6	L	K	A
 4plj	H	L	A
 3mug	J	I	I
-4hqq	H	L	
-4lci	H	L	
-5feh	D	C	
 4kk6	E	F	B
 5wdf	A	B	Q
 6e1k	F	E	A
-6obz	A	B	
 7czz	I	M	B
 5fec	H	L	I
 7n0x	H	L	G
 3jbq	h	l	B
-4iml	H	L	
 7oan	G		B
 7kd6	O	P	Q
 6i07	A	a	C
 5a8h	L	K	G
-6df0	H	L	
 6mpg	W	B	U
 5thr	N	K	E
 7pqz	H	L	E
 6mn7	H	h	D
 6jb2	A		B
-5jo5	H	L	
 3nig	E	F	C
 6w1c	I	M	F | B
 6ea5	H	L	F | A
 7whk	E		B
-6ikm	D	d	
 7d4g	N	G	B
 3dus	D	C	C
 7qcq	A		B
@@ -9292,19 +7683,15 @@ pdb	Hchain	Lchain	antigen_chain
 7deu	B	b	A
 7o31	H	L	P
 3ri5	H	L	A
-1g9e	A		
 6u0n	H	L	A
-4z0b	H	L	
 4kjw	C	D	A
 5dfz	E		C
 6svl	G	I	J
 4fqi	H	L	B | A
 4r4n	C	D	B | p
 7k7i	M	N	C
-1q9l	D	C	
 1op9	A		B
 7db6	E	e	A | B
-5xhf	B	A	
 7whj	F		B
 6wps	F	G	E
 7a0y	E	F	B
@@ -9315,9 +7702,7 @@ pdb	Hchain	Lchain	antigen_chain
 6zwk	B		H
 6qd8	Q	Y	B | A
 1kno	F	E	F
-5y2k	E	F	
 6gdg	E		D | B
-3lrh		C	D
 6x5n	H	L	R
 7mep	N	K	D | B
 4cdg	D		B
@@ -9331,40 +7716,25 @@ pdb	Hchain	Lchain	antigen_chain
 4hkz	B	A	H | E
 4lvh	B	C	A
 5i4f	A	a	a
-2mmx		A	
 6wzt	H	L	A
 5w6d	H	L	G
 6xlz	H	L	P | A
-6eyn	B	A	
 2kh2	B	b	A
 7bep	D	F	C
 6y54	O	P	P
 1n8z	B	A	C
-1fn4	D	C	
 4jn2	H	L	L
-5w05	H	L	
-6umh	H	L	
 5eul	V		Y | E
-5c9k		D	
 7zwm	B	C	A
-5ihz	C	D	
-6ffj	A	a	
-3lmj	H	L	
 6yxk	A	B	C
 3wfd	H	L	B | C
-6dwi	N	M	
 7ld1	M	N	C
 7kfe	G	I	B
-1rzi	P	O	
 3opz	H	L	A
 6sc7	C		A
-6oed	C	D	
 6ous	S	T	H | G
-5i2i	B	A	
 7rqr	A	B	C
-5awn	H	L	
 5hhx	H	L	A
-6qd6	F		
 7ben	G	I	C
 3j8d	d	D	F
 2g5b	H	G	L
@@ -9376,50 +7746,37 @@ pdb	Hchain	Lchain	antigen_chain
 7s1m	N		A | B | G
 4uih	D	E	A
 7kde	H	L	G
-3aaz	H	L	
 6x1u	A	B	C
 6wha	E	e	B | C
 7lcv	A	B	C
-4bjl		B	
 5c0n	C	D	B
 7lk4	D	C	S
 6h6z	D		A
 7zr7	F	G	C
 1g7h	B	A	C
 43ca	D	C	C
-7jlk	A	B	
 4krp	B		A
 6sc5	C		A
 7wwl	H	L	C
 1r3l	B	A	C
 2xqb	H	L	A
-7rth	L	K	
-6ao0		L	
 5toj	D		A
 6udj	N	O	G
 4hem	F		C
 6k4z	B	b	b
-6cnw	A		
 5wdu	D	E	G
-6foe	A	B	
 7zr8	H	L	A
-3g6a	B	A	
 7lf2	F	H	B
-4nkd	A	B	
 3ab0	B	C	A
 7rd5	B	A	F
-4k3h		C	D
 5wt9	H	L	G
 5ja8	D		C
 7q0h	H	L	E
-6ayn	B	A	
-4nhg	M	K	
 3whe	S	T	D
 7z1a	E		C
 4nco	D	C	A
 5mv3	F	G	H
 4ydl	B	C	A
-3nz8	H	L	
 3fku	T	t	L | K
 5ja8	B		A
 7ly2	F	C	B
@@ -9430,70 +7787,45 @@ pdb	Hchain	Lchain	antigen_chain
 7mtb	H	L	G
 6n5d	C	D	A
 4dqo	H	L	C
-5wcc	A	B	
 7ld1	P	O	A
 6i04	H	L	A
-2bx5		C	
 4wfh	G	F	B
 7lg6	K	N	F | G
-4at6	J	K	
 6nfu	A	B	C
 7s8n	E	e	B | C
-4gw1	D	C	
 7lkg	D	E	F
 6qx3	O		A | B
-6hkg	A	B	
 6ce0	D	E	B
-5i1c	H	L	
 7v3h	K	L	B
-5tdp	D	C	
 7kde	Q	R	C
 4k9e	H	L	C
 4lst	H	L	G
 6dwa	H	L	H
 6hxw	H	L	A
-4uv4	H	L	
-7wpe	W		
 7mta	H	L	G
-7lka	A	B	
 5kaq	Q	R	A
 2bob	A	B	C
-2ai0	I	M	
-7ps3	H	L	
-1hzh	K	M	
-3u79		F	
 7rco	F	E	A
 3b2u	Q	R	P
 3sge	H	L	K
-4r4b	F	E	
 6r8x	C	B	A
-1mak		A	
 6pci	P	S	C | F
 6jhq	D	E	C
 7l1v	H	h	A | B
-5vm4	I		
 7rm0	A	B	P
-1l7i	H	L	
 3eyu	H	L	Q
 6fxn	O	P	L
 6ogx	C	D	G
 6t3j	A	B	E
-4r96	D	C	
 7wpf	U	V	C
 7c61	H	L	A
-6tcn	B	A	
-5ilt	H	L	
 7rta	H	L	N
-7v0v	A		
-3iy4	B	A	
 7ej4	H	L	A
 5ush	D	E	A
 7nft	D		B
 6zlr	B	C	A
 6ywd	A	B	C
-3cm9	A	L	
 7ce2	Z	B	A
-7xod		S	B
 5ukr	H	L	G
 7pi3	K	L	H
 3pnw	Q	P	R
@@ -9504,48 +7836,34 @@ pdb	Hchain	Lchain	antigen_chain
 7czp	H	L	A
 4xp6	H	L	A
 5yoy	H	E	C
-1g9e	A		
 1mlc	D	C	F
 6ayz	R	C	M
 1egj	H	L	A
 3uyp	A	a	B
 1jto	B		M
 2qr0	L	K	I
-6xja	H	L	
-7jo8		A	
-6t2j	B		
-7lmo		B	B
 6pzf	H	L	A
 6mph	M	N	C
 4zto	H	L	P
 4g6j	H	L	A
 6xox	N		A | B
-6xxn	D		
 5w9k	E	F	D
-5ibu	H	L	
-5f6h	K	L	
 2qad	D	C	A
-6uup	C	c	
 6ssi	J		E
 6y54	M	N	N
-2mkw		A	
 7luc	D	E	C
 2kh2	B	b	A
 5usl	H	L	X
 4n9o	B		A
 7jgj	H	L	A
-6xxn	A		
 7s6j	F	G	E
 6e5p	H	L	A
 7m6e	H	L	A
 7sfw	S	T	K
 7wi0	C	E	A
-7kfg	A	B	
 5hi5	C	D	A
 1t03	H	L	B
-2mmx		A	
 2fjh	B	A	W
-6qd6	I		
 7ly2	N	O	J
 4am0	H	L	R
 5vl2	G		G
@@ -9553,17 +7871,12 @@ pdb	Hchain	Lchain	antigen_chain
 6s8d	P	O	C
 6lgw	C	D	F
 4zso	D	C	F
-6eyn	H	L	
 3jbd	7		3
-6z1z	B		
 5x2o	H	L	A
-1h8o	B	b	
 7kej	I	L	C
-3qxu	B		
 7a3p	I	M	B
 3jab	H	L	C
 4y5v	A	B	C
-3cdc		A	
 7ly2	H	L	A
 7kf9	I	L	C
 6osy	F	E	B
@@ -9573,27 +7886,18 @@ pdb	Hchain	Lchain	antigen_chain
 5utz	F	G	E
 7ej5	H	L	A
 7oan	H		C
-2qtj	D	N	
-6psc	A	a	
 7faf	H	L	C
-1vhp	A		
 6wik	D	C	A
 3pjs	D	C	K | L
 5uhy	H	G	A
-5yax	A	a	
-5cck	H	L	
 5vn8	F	J	D
 7w9f	A	B	E
-7kza	H	L	
-7n07	H	L	
 6ewb	J	K	D
 6p91	H	L	a | A
 6cue	7	8	2
 6db9	H	L	R
 7bxa	H	L	P
 1frg	H	L	P
-1t04	B	A	
-4nyl	H	L	
 3lrs	C	D	D
 6lhq	H	L	A | C | B
 4dke	I	M	B
@@ -9601,10 +7905,8 @@ pdb	Hchain	Lchain	antigen_chain
 6h3u	I	M	A
 6yax	I	M	B
 3ld8	C	B	A
-4qhm	G	H	
 7tht	H	L	C
 4xh2	G	I	g
-3utz	C	D	
 4q5z	Q	R	E
 7a0w	C	D	A
 7p00	H	h	A | B | G
@@ -9614,116 +7916,78 @@ pdb	Hchain	Lchain	antigen_chain
 6wtu	H	I	G
 7ws0	I	H	C
 5bop	A		B
-6dwc	H	L	
-6grz		A	
 7lf1	F	H	C
 6pds	H	L	G
-1ub6	A	B	
-3zhk	B		
 3mxw	H	L	A
 7ept	N		A | B
 2ck0	H	L	P
-5euk	B	A	
 5w6d	D	E	B
 7tcc	F	G	B
 1zvy	A		B
 1kxq	F		C
-5vlv	A		
 1p4b	H	L	P
-2a9m	H	L	
-1h3p	H	L	
 4m48	H	L	A
-3qpq	D	C	
 6ssi	I		D
 7oao	F		E
 5ea0	H	L	P
 2xv6	D		C
 4f15	E	F	D
-7m1c	H	L	
 5ywo	N	M	C
 5bk2	C	D	B
 4qww	F	E	A
 2itc	A	B	C
 6x87	M	N	X
-6qn8	C	D	
 7tpr	F		A
-7v0v	A		
 7f4f	S	s	A | B
 3j8v	I	M	B | A
-5vr9	A	B	
 6jfi	K	I	A
 7bw0	N		A | B | G
 6fy1	Y	Z	X
 7e9b	H	L	C
-4uik	H	L	
 7lbf	F	E	A
 7czy	J	N	C
 1ibg	H	L	H
-3tpk	A		
-1vhp	A		
 4grw	E		D
-5gs0	H	L	
-7bm5	B	A	
 7rly	C	D	P
 3t77	B	A	B
-6bhz	H	L	
 7tb8	F	G	B
 4ht1	H	L	T
 5czx	C	D	B
-6z3x	A		
 6rag	C		B
 7x7d	B		A
-7kba	H	L	
 7f55	N		A | B
 7f23	E		A | B
-6p9i	C	D	
 2oqj	K	J	L
-6xvi	A		
-5i76	B	A	
-7mfa	C	D	
 6ban	B	A	M
 6zdh	G	I	C
 7sp8	B		A
 7mtb	H	L	G
 6ch8	D	E	B
 5t5n	O	N	D
-5gs1	J	j	
 6pze	H	L	A
 2fee	J	O	A
 2g2r	H	L	L
 2h9g	H	L	S
-1vhp	A		
 4xcn	H	L	H
 6ubi	D	E	F
 3cxd	H	L	P
-6ck8	C		
 5a7x	D	C	A
-4yhy	B	C	
 5anm	D	C	E
-4nzu	H	L	
 7lxz	M	L	K
 1u93	B	A	C
 6vo3	G	J	C
-6p9j	H	L	
 1v7n	I	M	X
-4llu	C	D	
 6vmk	E	D	F
 7s2s	A		D
-1ieh	A		
 7mmo	D	E	F
 7lja	E	D	A
 7nvm	n		e
 5k9o	A	B	F
-5uko	H	L	
 7rai	I	M	C
 3zkn	H	L	A
 7cyh	E	D	A
-7nk6	F		
 4hg4	N	O	C
-3cm9	B	M	
 6nf2	S	T	Q
-6xul	J	K	
-2kqn		B	
 3mug	F	E	C
 6fy0	I	M	A
 6mi2	D	E	F
@@ -9731,11 +7995,9 @@ pdb	Hchain	Lchain	antigen_chain
 6opp	G	I	D
 2fjg	H	L	W
 7tyf	N		A | B | G
-6dez	H	L	
 7wu2	N		A | B
 1kxv	C		A
 6c9u	H	L	A
-3qhf	H	L	
 2v17	H	L	A
 6s8j	Y	U	E
 7jhh	H	L	A
@@ -9743,39 +8005,26 @@ pdb	Hchain	Lchain	antigen_chain
 7cx2	N		A | B
 4qhu	H	L	C
 7rlv	C	D	R
-4r96	B	A	
 7msq	D	E	B
 3bgf	H	L	S
 3ifl	H	L	P
 6x58	C	D	F
-6nb5	I	M	
 6nfn	D	C	C
 3d9a	H	L	C
-5nhw	H	L	
 7d8b	B		A
-3cm9	A	L	
 7k9z	H	L	E
-2qtj	C	O	
-4k3h		B	A
 7k63	N	n	G | F | H
 5o0w	G		C
-2ojz	I	M	
 7e3l	F	G	B
 1i9j	H	L	H
 7p77	D		C
 5vig	H	L	Z
 6sne	B	A	O
 4ckd	J	N	A
-6yhq	H	L	
 7kxj	H	L	A
-6oed	A	B	
-4g6k	H	L	
-6vos	H	L	
-2qtj	A	L	
 2zpk	H	L	P
 5y9f	Z	Y	H
 7chc	H	L	R
-6rbb	K		
 7e7x	H	L	A
 3ulv	H	L	A
 6chb	I	L	F
@@ -9783,37 +8032,26 @@ pdb	Hchain	Lchain	antigen_chain
 7k90	H	L	B
 4nco	H	G	E
 5vn3	M	O	J
-4hdi	H	L	
-5n2k	N	M	
 6sge	B		C
 4d3c	H	L	A
 7bu7	B		A
-5bk5	B	A	
 4rau	H	G	I
-3chn	A	L	
 6vmk	Z	Y	a
-3eo9	H	L	
 7a4d	C		E
 5uk4	q		Q
 6n4r	J	I	A | B | F
 6x19	N		A | B
-7kkz	H	L	
 4py8	I	J	B | A
-7o85		N	M | O
-6zqk	A		
 6weq	G	H	B
 4rzc	H	L	H
 6ey0	E		A
 6mek	B	D	A
 7wvm	A	B	E
 6krz	H	I	C
-5muq	H	L	
-6z1z	A		
 7f4i	N		A | B
 1fl6	H	L	H
 7kqb	K	J	C
 4xcy	E	F	A
-7bm5	D	C	
 5aco	H	L	A
 7ny5	I	H	G
 1hez	B	A	E
@@ -9821,31 +8059,20 @@ pdb	Hchain	Lchain	antigen_chain
 7bub	G	I	B
 5x8m	B	C	A
 7rw2	I	K	C
-3f12	B	A	
 7s4g	C	D	G
-6fg2	F	G	
-6dbd	C		
 3nif	E	F	C
 5xxy	H	L	A
 7l06	G	E	B
-6k2i	A		
 4xx1	M	O	J
 6war	H		G
 3d0l	B	A	C
 6jfh	M	N	C
-2bx5		H	
-2qtj	D	N	
 3p0g	B		A
-5iop	B	A	
 5mu2	I	J	T
-6peh	A	B	
-3v6f	E	F	
 2otu	B	A	P
 7ebz	E	F	B | A | C
-5vsh	C	D	
 7fcp	H	L	A
 4j4p	H	L	A
-3upa		B	
 6y6c	D	d	A
 5wdu	T	S	Q
 7rdw	G	I	N
@@ -9853,17 +8080,11 @@ pdb	Hchain	Lchain	antigen_chain
 7p5w	K		E
 1r0a	H	L	B
 7vyr	H	L	R
-5iv2	B	A	
-2kqm		A	
 6df2	H	L	D
 5a2l	H	h	P
 7kzx	D	C	B
-5fhb	H	L	
-5vz1	D	C	
 5vkd	H	L	A
 7l3n	D	E	B | C
-1sbs	H	L	
-6iyn	A		
 3eyf	B	A	E
 7bbj	M	N	B
 7evw	N		A | C | B
@@ -9873,15 +8094,11 @@ pdb	Hchain	Lchain	antigen_chain
 1hh9	B	A	C
 6ot1	S	T	P
 7vab	N		A | B
-5b3c		A	
-6ikm	E	e	
-5m6i		A	
 5t1d	H	L	B
 5nbm	F		D | A
 7my2	D		C
 3fo9	B	A	B
 6waq	A		B
-2kqn		B	
 1xiw	D	C	A | F
 6eqi	B		C | A
 5j56	B		A
@@ -9898,25 +8115,16 @@ pdb	Hchain	Lchain	antigen_chain
 5y0a	F	G	B
 6wmw	H	L	B
 7lkg	A	B	C
-4p49	A	a	
 2kh2	B	b	A
 6b7z	C	D	A
-4f33	B	A	
-4xbp	E	F	
-3dwt	G		
 6mdt	H	L	G
 7cqc	H	L	A
-5da4	C		
 7vv5	S	s	A | B
 2fbj	H	L	H
-6a0x	C	D	
 7jw0	G	F	E
 2vdl	H	L	A
-1ae6	H	L	
 7jwp	O	P	X
 6nfc	K	N	B | F
-3qxw	B		
-4ub0	H	L	
 6pe9	K	M	J
 6cue	h	l	d
 6ccb	D	E	C
@@ -9925,9 +8133,7 @@ pdb	Hchain	Lchain	antigen_chain
 6wzk	C	D	F
 6wtu	K	L	J
 5aaw	H	h	I
-7rth	H	G	
 4r4n	W	X	V | i
-2kqn		A	
 6c5h	H	L	H
 5any	I	M	B | A
 7z1b	F		A
@@ -9937,56 +8143,39 @@ pdb	Hchain	Lchain	antigen_chain
 7ki6	H	L	A
 4ubd	G	H	F | A
 6vbo	H	L	C
-1gig	H	L	
 2ltq	C	B	A
 6ad8	C	D	A
-6xv8	D		
 7wd9	E	F	B
 3dsf	H	L	P
 5usi	H	L	X
 7zf9	H	L	E
-3j7e	D	C	
 6dzl	H	K	E | B | F
-6gxx	H	L	
 6wix	D	E	B
-5mud		B	
-7mfa	H	L	
-2z4q	B	A	
 7x9e	A	B	E
 7a69	C	B	A
 7vv3	S	s	A | B
 7lf2	K	L	J
-3j93	H	L	
 5ig7	A	B	C
 2ltq	C	B	A
-5ocl	H		
 5wi9	F	E	B
 7pg8	N	M	Q
-4evn	O	P	
 5f7y	D		B
 7ps7	A	B	E
 3a6c	H	L	Y
 1fl6	B	A	B
 7mzj	C	D	B
 5v8l	I	M	D
-1za6	H	G	
-5dd1	H	L	
 6vi1	J	I	Q
 5xf1	C	D	A
 6w16	H	L	F
-1ohq	B		
 7ly2	G	I	B
-1xf4	B	A	
-2adj	B	A	
 7mfr	B	A	P
 7nx8	A	B	E
 1ine	H	L	H
 6h5n	C	B	A
-2gfb	F	E	
 6gwn	B		A
 7v5n	B	A	D
 6nc3	H	L	B | A
-5acm		A	
 1mvf	B		D
 2yss	B	A	C
 7s0c	H	L	A
@@ -9998,15 +8187,10 @@ pdb	Hchain	Lchain	antigen_chain
 1otu	E	F	B
 6xmi	E	D	F
 7rso	G	J	C
-4m5y	H	L	
-7wpf	Z		
 7e7y	C	D	E
 1r3k	B	A	C
-3kym	L	K	
 2ez0	C	D	A
 6u0l	I	J	B
-4nrz	H	L	
-6ca6	H	L	
 3q3g	D	C	G
 4jzj	A	B	D
 7l0n	C	D	S
@@ -10018,24 +8202,17 @@ pdb	Hchain	Lchain	antigen_chain
 6ii9	M	N	C
 1wc7	B	A	A
 6o2a	A	B	F
-2vyr	K		
 6zwk	C		I
 1lo3	H	L	H
-4xbp	C	D	
 7wr8	A	B	R
 2dqu	H	L	H
 1z3g	I	M	B
-5xqy		E	
 3j70	R	S	U
 6xq4	E	F	D
 5kvf	H	L	E
-6fys	B		
-1dql	H	L	
-1igy	D	C	
 7qn8	L		C
 7jv4	H	L	A
 4kfz	D		B
-4gw4	H	L	
 6mph	H	L	D
 6o3g	E	F	G
 7qu2	A	B	C
@@ -10044,7 +8221,6 @@ pdb	Hchain	Lchain	antigen_chain
 5w9o	H	I	G
 4wff	E	D	A
 7kxj	J	N	C
-3upa		A	
 4hii	D	C	C
 6z7w	H	G	O | P
 6vyv	K	O	E
@@ -10053,9 +8229,6 @@ pdb	Hchain	Lchain	antigen_chain
 7lfa	H	L	C
 7ps5	H	L	E
 3wlw	C	D	A
-1q9o	B	A	
-5ijv	H	L	
-4nm4	I	M	
 6orp	J	K	I
 3whe	5	6	J
 5mub	L	M	N
@@ -10064,31 +8237,18 @@ pdb	Hchain	Lchain	antigen_chain
 6sni	H	L	X
 3fo2	B	A	A
 7lex	K	L	M
-1fgn	H	L	
 5ush	H	L	X
-5i8e	A	B	
 6ubi	A	B	C
-5ggu	A	B	
-1ncw	H	L	
-4d9l	J	N	
-6vl9	A	B	
-6k2i	A		
 7sp6	C		A
 1a6w	H	L	H
-3esu	F	f	
 6whk	C	B	A
-7lyw	C	D	
-1qp1		C	
 6cnj	G	F	C
 1mex	H	L	H
-3u0w	H	L	
-1dvf	B	A	
 5esv	C	D	F
 5tlk	F	E	Y
 7dst	E		C
 7sq1	A	I	G
 7t0r	H	L	A
-3t0w		B	A
 7wuj	S	s	A | B
 4fqy	H	L	B | A
 7r8a	C	D	B | A
@@ -10106,67 +8266,44 @@ pdb	Hchain	Lchain	antigen_chain
 5mo9	H	L	X
 2ltq	C	B	A
 7lcn	H	L	C
-4k3d	I	M	
 6oan	B	b	A
 6qup	B		A
-4nkd	E	F	
 7v2a	E	D	A
 5f3h	G	H	K
 7jv4	D	E	B
 5yd3	G	g	H
 3kj4	H	L	A
 5hvh	B		A
-2kqm		B	
-6dlb	H	L	
-1rzf	H	L	
-5id0	D	C	
-1b6d		A	
 7tee	H	L	D
 3fku	X	x	F | E
-6k6a		A	D
-4org	A	B	
 1tzg	I	M	Q
 5f7k	D		B
-6ute	G	H	
 6y1m	H	L	L
 7kqb	H	L	A
 7xod	R		B
 6vmk	i	h	j
 7tzg	A	a	D
-1lgv		B	
 6nqd	C	D	B | A
 7or9	H	L	E
-43c9	H	G	
 5ado	H	L	L
-5t4z	A	B	
-1ieh	A		
 5t3z	D	E	G
 7pgb	f	g	e
 5w9p	F	G	J
 7kfy	H	L	A
 7bnv	H	L	A
 1xgq	B	A	C
-3l7f	E	D	
-2fjf	X	W	
-2c1o	B	A	
 1qle	H	L	B
 5cjs	F	E	K | J
 6ws6	A	B	A
 5i5k	H	L	B
-5i8k	H	L	
-6ffj	G	g	
 4c58	B		A
 1kb5	H	L	A | B
 6osy	R	S	Q
-6wkl	A	B	
 7rku	J	K	B | C
 6x04	H		G
 5o04	C		A
-7dc7	A	B	
 6gjq	F		E
 5w1k	I	H	J
-2gki	B	b	
-4kq3	H	L	
 7ki0	N		A | B | G
 1lo0	Y	X	Y
 1nc2	B	A	B
@@ -10174,15 +8311,10 @@ pdb	Hchain	Lchain	antigen_chain
 4ksd	B		A
 6cxc	X	Y	D | C
 4qkx	B		A
-6dbe	B		
 7kfb	I	L	C
 5xhv	H	L	E
 5v7j	D	E	B
-3piq	A	B	
-7u0c	A	B	
 7k7r	E	D	F
-6fpv	A		
-3chn	A	L	
 2kh2	B	b	A
 7rxj	A	B	G
 4i0c	C		B
@@ -10198,39 +8330,28 @@ pdb	Hchain	Lchain	antigen_chain
 7ckx	N		A | B | G
 4mhj	W	V	S
 2kh2	B	b	A
-4nko	F	E	
-4n1c		A	C
-6wgj	G	H	
-6x9x	A		
 7qny	H	L	E
 4fqv	H	L	B | A
-4kte	H	L	
 3ixt	H	L	P
 6ss6	H	L	A
 7zfb	C	D	F
 2osl	H	L	P
 3wlw	H	L	B
-7kx4	B	C	
 7t6b	E	e	A | C
 6okp	K	L	E
 5jxe	G	F	A
 3eo1	B	A	C
 6dw2	B	A	B
-3cdf		B	
 6xbl	S	s	A | B
 7rk2	D	d	A
-4isv	B	A	
 7e88	D	E	F
 7p78	B		A
-6qn8	H	L	
 6cdi	H	L	D
 6weq	K	L	D
-3cm9	B	M	
 1u8o	B	A	C
 7d3k	H	L	2
 7kde	M	N	E
 5iml	B		A
-4hh9	D	C	
 6bb4	H	L	P
 7jvc	F	G	E
 2fjh	H	L	V
@@ -10243,9 +8364,6 @@ pdb	Hchain	Lchain	antigen_chain
 7pgb	i	k	h
 2w9e	H	L	A
 7kr5	H	L	B | A
-2h3n		C	D
-6p4y	H	L	
-6vrq	A	B	
 1zmy	A		L
 5tsj	1		J | H
 1zlu	M	K	M
@@ -10256,10 +8374,8 @@ pdb	Hchain	Lchain	antigen_chain
 7zmv	E		D
 3lrs	E	F	F
 6uye	H	K	B
-5f6h	O	P	
 4ttd	H	L	A
 7mmn	M	G	K
-5dd6	A	B	
 6z06	H	L	A
 3pnw	N	M	O
 6vbg	C		A
@@ -10269,7 +8385,6 @@ pdb	Hchain	Lchain	antigen_chain
 7lrt	F	G	B
 3oko	B	A	B
 6eyo	H	L	A
-1mf2	H	L	
 7sg5	H	L	A
 5mv4	L	M	N
 7o30	B	A	Q
@@ -10281,9 +8396,7 @@ pdb	Hchain	Lchain	antigen_chain
 2hfg	H	L	R
 5u3o	H	L	A
 7swd	H	h	D | E
-1mci		B	P
 4x7e	C		A
-5jmr	B		
 7zmp	C		A
 6q0i	H	L	A
 3qa3	D	C	G
@@ -10295,39 +8408,25 @@ pdb	Hchain	Lchain	antigen_chain
 5veb	H	L	Y
 7p60	H		D
 7e3k	F	G	B
-1mcw		M	
 5f93	D		B
 6cse	A	B	C
 6sc7	B		A
-7nis	F		
 3idy	B	C	A
-5b3c		G	
 6iw2	N	O	M
-6xv8	B		
 6bzv	C	D	J
-3hi5	H	L	
 6bpe	H	I	G
 7f7e	C	L	E
 5dtf	A	B	B
-2bx5		K	
-5xp1		G	
-3piq	E	F	
 6feq	F	E	A
 3mod	H	L	P
 3thm	H	L	F
-7mfa	M	N	
-1ngy	B	A	
 7llk	G	H	E
 1xfp	A		L
 6u02	D	C	B
-6ca7	H	L	
 5a3i	G	H	E
-5obf	H	L	
 4yfl	H	L	G
-6iyn	A		
 5d1z	D	C	I
 7tb8	H	L	A
-1dqq	B	A	
 7mdw	A		R
 4nbz	D		C
 2ajv	H	L	L
@@ -10335,28 +8434,19 @@ pdb	Hchain	Lchain	antigen_chain
 1nmc	H	L	N
 5cus	I	M	B
 7sp7	B		A
-4zyk	H	L	
 6w1c	L	P	H
 7dk6	a	b	A
 5mub	F	G	H
-2bx5		F	
-5nml	I		
 1u8m	B	A	C
 4tuk	H	L	I
 2vxs	H	L	B
 2itd	A	B	C
 7p5w	J		D
-3v6f	C	D	
-2fjf	P	O	
 4g7v	H	L	S
-6iyn	A		
 6qfa	L		C
 6u54	A		B
 5occ	H	L	A
-7ryv	I	J	
-7mx8	H	L	
 7l1u	H	h	A | B
-5gs1	D	d	
 5fcu	H	L	G
 7x7d	C		D
 6cez	H	L	P
@@ -10368,36 +8458,28 @@ pdb	Hchain	Lchain	antigen_chain
 7mw5	H	L	C
 6w4s	H	L	F
 5k9q	G	I	D | C | E
-1qlr	D	C	
 7e9h	D	d	A | B
 7pi3	B	C	A
 1op5	M	K	M
 2kh2	B	b	A
 7np1	I	M	B
-1c5d	H	L	
 5f9a	C		A
 7prz	H	L	E
 6xey	J	K	C
-2kqm		A	
 6rqm	B		A
 7te8	C		C
 6k68	F	G	I
 2b2x	H	L	A
 7shz	E	F	B
 6rty	B		A
-2mkw		A	
 3ze2	E	F	A
-3mlt	I	G	
 6uul	A	B	E
 7zf5	B	C	A
-7cu7	H	L	
-4qhk	M	N	
 5kel	C	D	A
 3ze0	H	L	A | D
 6ot1	Q	R	P
 6oan	D	d	C
 4u1g	E	F	D
-2mmx		A	
 5y9f	N	M	B
 5o0w	F		B
 7a25	D		A
@@ -10407,36 +8489,23 @@ pdb	Hchain	Lchain	antigen_chain
 7qnw	H	L	E
 2uud	J	K	T
 6udk	H	L	K
-3u9u	C	D	
-6ztf	A	B	
 5t3x	H	L	G
-3tnn	A	B	
 5uk4	s		S
 4jqi	H	L	A | V
-2qtj	A	L	
-2rcj	R	S	
 4hjj	H		A
-3upc	D		
 6pzz	I	G	C
-4k07		E	
 3etb	G	g	K
-6jri	H		
-2bx5		G	
-5n2k	P	O	
 3i02	B	A	A
 5mv3	O	P	Q
 7qnd	M		D
-6apc	H	L	
 7mno	K	M	B
 7l56	F	G	C
 5wux	A	B	F
 7jtf	A	B	E
 7uar	D	E	A
 5hdb	E	F	C
-1rei		A	
 2j6e	I	M	B
 1k4c	A	B	C
-6qf6	A	a	
 6y9a	H	L	A | B
 5w9j	E	F	D
 6mb3	B	M	E
@@ -10450,63 +8519,43 @@ pdb	Hchain	Lchain	antigen_chain
 7c2s	G	H	B
 5m15	C		A
 6a67	C	D	B
-4r7d	M	N	
 7e5r	M	U	A
 6obg	C		A
 7czw	H	L	A
 6fy2	X	Y	Z
 7rgp	N		A | B
-1lmk	A	a	
 2mpa	H	L	P
 6zfo	B	C	A
-7ke1	C	D	
 7e5s	R	O	A
-5bvj	F	E	
 5ihl	G		F
 7klg	I	M	B
 4wfe	E	D	A
-3upc	J		
 4uuj	A	B	C
 5ec1	A	B	C
-7lyw	H	L	
 6ieb	H	L	A
 7rah	D	C	E
 7m3i	H	L	R
 7wka	c	d	C
-2mmx		A	
 6gkd	B		A
-3tnn	C	D	
 6nfn	R	Q	Q
-1bbj	H	L	
 4hcr	M	N	B
-7v0v	A		
 7kbk	C		A | B
 6adb	C	D	A
 6iw2	E	F	D
-1oaq	H	L	
-7aql	C	c	
 1m7d	B	A	A
 4ios	E		A
 3l5x	H	L	A
 7akj	H	L	A
-7t0k	F	E	
-1dqq	D	C	
-2ak1	H	L	
 7rby	B		A
 1zls	H	L	H
 5n09	H	L	A
 2r1y	B	A	B
-3dwt	H		
 7kf1	G	I	J
 4fqr	s	t	S
 6uyn	H	L	B | A
-2qtj	D	O	
-5whz	H		
 2kh2	B	b	A
-4pfe	B		
 7pgb	p	q	o
 6ch8	Q	R	G
-2gsg	B	A	
 6x3s	K	L	D
 5u3d	B	A	E
 6nf2	E	F	G
@@ -10520,7 +8569,6 @@ pdb	Hchain	Lchain	antigen_chain
 4yc2	H	L	G
 7vug	S	s	A | C | B
 6yxf	H	h	A
-5niv	B	A	
 7u2e	H	L	A
 3fn0	H	L	P
 7ll2	I	J	C
@@ -10529,7 +8577,6 @@ pdb	Hchain	Lchain	antigen_chain
 4pp1	D	C	B
 3k7u	A		C
 6gs7	H		A
-7v0v	A		
 6mqe	A	B	D
 2vxq	H	L	A
 4j8r	D	C	J
@@ -10546,23 +8593,15 @@ pdb	Hchain	Lchain	antigen_chain
 7m8l	I	L	C
 3whe	U	V	E
 4nzt	H	L	M
-1vhp	A		
-4gmt	H	L	
 1jrh	H	L	I
-4wuk	H	L	
-1mch		A	P
 4nc1	C		A
 4xvj	H	L	A
-6q1k	H	L	
 6nha	H	L	A | B
 7u2d	H	L	A
 6pi7	F	E	D
-6k2i	A		
 4ios	F		C
 7mkm	H	L	A
-7zff	H	L	
 6b3k	H	L	R
-4ygv	A	B	
 3w14	C	D	E
 5aum	H	L	C
 7tpg	H	L	B
@@ -10575,32 +8614,23 @@ pdb	Hchain	Lchain	antigen_chain
 7dk4	e	f	C
 6idk	I	J	E
 5w9k	B	C	A
-4k3h		F	E
 4rgn	D	E	A
 5xcv	A	B	C
 7kgv	C	E	B
-4dcq	B	A	
 5kem	I	J	F
 6lz2	D		C
 4q5z	I	J	A
 4rav	A	B	E
 4xvu	I	J	H
-2ymx	H	L	
-2hff	H	L	
 3gi8	H	L	C
-5uby	H	L	
 6uyd	H	L	E
 5lhr	B		A
-1a7r	H	L	
-5u15	A	B	
 5bk2	H	L	A
 6bzu	A	B	J
-1bjm		B	
 7klg	H	L	A
 7zmn	K		B
 6xw7	C		A
 7ndc	F	G	A
-4ebq	H	L	
 7p7a	D		E
 7qia	B		A
 7e88	A	B	C
@@ -10610,18 +8640,15 @@ pdb	Hchain	Lchain	antigen_chain
 7qbe	E		A
 7d8b	D		C
 7s8h	H	L	a
-6wos	H	L	
 5tzu	H	L	C
 5w9i	C	D	A
 6kn9	F	f	C
 4zff	A	B	C
 6gff	N	M	J | G | H
-1g9e	A		
 7cjf	A	B	C
 7m8l	M	P	D
 5jw4	W	X	L | K
 4z7q	H	L	A | D
-6b6z	D	C	
 6wzt	E	D	B
 5m94	D		C
 6orq	H	L	G
@@ -10630,8 +8657,6 @@ pdb	Hchain	Lchain	antigen_chain
 6ul6	B		A
 7tbf	H	L	A
 5wdf	H	L	P
-4lve		B	
-1shm	D		
 7p40	C	D	E
 4k8r	D	C	B
 2j5l	C	B	A
@@ -10641,18 +8666,12 @@ pdb	Hchain	Lchain	antigen_chain
 7v26	e	f	E
 3lhp	I	M	T
 7lx5	C		B
-3j7e	F	E	
 5w9m	H	I	G
-6dn0	C	D	
-7t0k	H	L	
-3cm9	B	M	
-2qtj	D	N	
 5i8c	A	B	C
 4lcu	A	B	C
 5aaw	B	b	J
 6n2x	M	K	M
 2vxs	I	M	A
-6w51	M	N	
 7rdw	H	L	M
 6nfc	J	M	G
 7mly	F	K	D | E
@@ -10668,7 +8687,6 @@ pdb	Hchain	Lchain	antigen_chain
 5mv3	A	B	X
 6pef	A	B	C
 6ww5	E	F	A
-6e9h	A	B	
 5w1m	D	C	T
 7tet	M	N	D | C
 6nf5	Q	R	M
@@ -10678,14 +8696,10 @@ pdb	Hchain	Lchain	antigen_chain
 6nf2	N	M	A
 7ki4	H	L	A
 7lwd	H	L	A
-4jy6	D	C	
-3bd5		B	
 6cm3	K	J	D
 7kn7	H	L	A
 7lf2	D	E	A
-3mme	A	B	
 6b0g	D	C	E
-5jo5	C	D	
 5lwy	H	L	A
 7t4q	F	G	C | E
 5v8l	G	K	C
@@ -10696,9 +8710,7 @@ pdb	Hchain	Lchain	antigen_chain
 6bpc	E	F	D
 6fy2	H	L	P
 6by2	A	B	C
-5hcg	H		
 3eyf	D	C	F
-6k2i	A		
 6fgb	H	L	A | B
 6n35	M	K	M
 7x8s	N		A | B
@@ -10706,37 +8718,27 @@ pdb	Hchain	Lchain	antigen_chain
 7rm1	C	D	P
 3ghe	H	L	P
 7d3r	H	L	1 | 3
-6bpd	A	B	
 5czv	H	L	A
 4kk6	C	D	A
-6tkd	H	L	
-4llv	E	F	
 2vyr	H		D
-1emt	H	L	
 6ye3	A	B	C
 4jfz	H	L	P
 2qr0	T	S	U
-4aiz		B	
 6cde	Q	R	C
 7cwn	G	F	A
 6zwk	E		K
 7mxl	H	L	C
 5lsp	S	T	P
 7vyr	A	B	C
-4r7d	O	P	
 4ydi	H	L	G
-6u3z	C	D	
 5j74	B	b	b
 5utf	D	E	B
-6iyn	A		
 3w11	C	D	E
-4nki	H	L	
 6do1	C		A
 7ki6	D	C	B
 6cnk	K	J	E | D
 5mub	O	P	Q
 5vnw	C		B
-6mee	A	B	
 4gxu	Q	R	E
 5mub	U	V	W
 7l5j	W	L	B
@@ -10744,13 +8746,10 @@ pdb	Hchain	Lchain	antigen_chain
 7f0t	E		A | B | D
 4nm8	J	N	F | E
 1z3g	H	L	A
-1nqb	A	a	
 3ghb	H	L	P
 2r0w	H	L	Q
 1kxv	D		B
-6sxi	A	B	
 7rks	H	L	R
-1a4j	H	L	
 3o6m	H	L	C
 6b20	F		A
 1dqj	B	A	C
@@ -10766,9 +8765,7 @@ pdb	Hchain	Lchain	antigen_chain
 6o3l	H	L	D
 5yd5	A	a	B
 1yee	H	L	H
-3lrh		I	J
 6b14	H	L	R
-4f57	H	L	
 2vdq	H	L	A
 1dbj	H	L	H
 7t0r	C	B	D
@@ -10781,48 +8778,34 @@ pdb	Hchain	Lchain	antigen_chain
 6itq	D		D
 6m0z	H	L	A
 6pv7	F	G	D | E
-3qyc	A		
 6ym0	H	L	E
-6tcp	H	L	
-1eeu		B	
 4pp1	F	E	A
 6os0	D		A
-1rz8	B	A	
 7whk	D		C
 7m7w	E	F	R
 6zwk	A		G
 6o9h	A	B	C
 7dfa	H	L	A | V
 7mzf	H	L	A
-5m2w	A		
 6qtl	H		H
 6wmw	M	N	B
 7e8f	D	E	R
-4n1e		F	K
 7whz	C	E	A
 7km5	D		A
-5vzx	E	I	
-7jkm	K		
 1kn2	H	L	L
 5dhx	B	b	C
 7e5r	W	R	B
 5bjz	C	L	A
-3umt	A	a	
 6uyg	A	B	E
 2fl5	F	E	F
 7neq	F	E	A
 6ncp	C	D	E
 4xmp	H	L	G
-3cm9	B	M	
 5mp2	D		B
 6ztr	H	L	I
-6al4	B	A	
-6qf6	C	c	
 7u8j	H	L	B | A
 6mug	H	L	G
-4unt		B	
 6nb3	D	E	A
-3cm9	A	L	
 7lm8	H	L	A
 6o2b	C	D	G | E | J
 7z1c	E		C
@@ -10830,13 +8813,11 @@ pdb	Hchain	Lchain	antigen_chain
 6nip	A	B	E
 7pry	A	B	I
 7n0i	K		E | F
-4lex	H	L	
 5uk4	d		D
 6n1v	3	4	F
 4w2o	C		D
 6e5p	O	P	C
 7lxy	F	C	B
-1b4j	H	L	
 7kqk	H	L	P
 6ot1	F	I	E
 6jb5	A		B
@@ -10844,17 +8825,14 @@ pdb	Hchain	Lchain	antigen_chain
 4tnw	Y	g	T
 5a1z	G	H	A
 7wef	C	L	E
-5xhg	D	C	
 4z5r	B	A	N
 4olw	H	L	G
 7lpn	D		C
 4r4n	Q	R	P | b
-3cm9	C	N	
 6qv2	F		D
 2bse	D		B
 7ceb	C	D	B
 5omm	C		A | B
-7kgu	H	L	
 7d0b	H	L	A
 6o2b	A	B	F
 6s3d	E	F	O
@@ -10862,24 +8840,18 @@ pdb	Hchain	Lchain	antigen_chain
 4plk	I	G	F
 7pry	F	G	E
 6vl8	H	L	C
-7u0b	H	L	
 6zg3	J		F | D
-5kmv	E	I	
 6xp6	J	I	D | E | F
-6ugt	A	B	
 7mem	G	J	C
 7mxe	A	B	J | F
 5eoq	H	L	A
 6dbf	B		A
 5mub	A	B	X
-1mch		B	P
 7zfa	Q	R	A
 6dwi	J	I	J
 7d5z	D	C	A
 7s8l	E	e	B | C
-6nex	H	L	
 7si0	K	L	H
-1g9e	A		
 4zfo	H	L	K
 7o9s	H	L	A
 6ui1	C		A
@@ -10887,12 +8859,6 @@ pdb	Hchain	Lchain	antigen_chain
 6wg2	H	L	P
 7rm1	A	B	P
 7nki	F		A
-2bx5		B	
-2a6j	B	A	
-1shm	B		
-2qtj	B	M	
-1dqm	H	L	
-2qtj	D	N	
 6j15	A	B	C
 4dk3	A		C
 7rxi	H	L	A
@@ -10900,12 +8866,10 @@ pdb	Hchain	Lchain	antigen_chain
 6z2m	F		E
 7qu1	A	B	C
 6ldx	H	L	B
-2kqm		A	
 7qji	B		A
 3ab0	E	F	D
 7jvc	C	D	B
 5a7x	P	O	E
-1ar2		A	
 6zbv	B		A
 6xgc	H	L	D | C
 6e62	H	L	P
@@ -10918,38 +8882,29 @@ pdb	Hchain	Lchain	antigen_chain
 6o2a	H	I	K
 7wph	E	D	A
 5uwe	H	L	G | N
-6obz	H	L	
 7nd8	H	L	B
 7k63	M	m	C | B | D
 7p60	G		B
 6lxk	E	F	D
 5hvg	B		A
-4qf1	A	B	
-1igt	D	C	
 6nnj	U	V	G
 6x3s	J	I	B
 1u91	B	A	C
 2jel	H	L	P
-4yhn	A	B	
 4rdq	M	L	C
 6mam	A	B	J | I
 2qr0	B	A	D
-2rcj	A	D	
 7rxl	H	L	E
 5kve	H	L	E
-3qxu	D		
 3det	C	D	A
 3ria	I	O	D
 5usl	B	C	A
 7lj4	G	F	B
 7c2t	K	L	B
 7cmv	E	e	A | B
-5xqy		G	
 7fg3	D		A
-6okq	F	E	
 1nsn	H	L	S
 3tyg	H	L	A
-4aeh	H	L	
 7akj	G	F	C
 7zmt	K		B
 5tlk	B	A	X
@@ -10957,37 +8912,25 @@ pdb	Hchain	Lchain	antigen_chain
 7lf1	P	R	J
 6ldw	H	L	C
 3idi	B	A	C
-4jfx	B	A	
-2rcj	B	C	
 5mp2	C		A
 7zwm	G	H	F
 7p5w	H		B
 2r0l	H	L	A
 6iuv	C	D	B
 6uuh	C	D	D
-4rfe	E	F	
 7czx	H	K	A
-2g75	A	B	
 5x2q	H	L	A | B
 4q0x	H	L	E
 7pi7	E	F	D
-1lmk	G	g	
 7q9m	H	L	C
 6xob	S	T	K
-6y1k	H	L	
 6vy2	I	M	C
-3iy6	B	A	
-1maj		A	
 6mam	E	F	H | G
 4tsb	H	L	A
 7pg8	L	J	C
 2a9n	H	L	H
 2qr0	F	E	C
 2nxz	D	C	A
-1pg7	Z	Y	
-4n1e		E	K
-6h3h	C	D	
-6qd6	D		
 3ijy	B	A	B
 7r40	E	G	C
 7f9z	E	e	A
@@ -10995,7 +8938,6 @@ pdb	Hchain	Lchain	antigen_chain
 6tyl	C		A
 7urq	H	L	A
 6d0u	E	F	A
-5icz	D	C	
 6sc6	C		A
 6cdi	q	r	d
 7m7h	C	D	A
@@ -11009,9 +8951,7 @@ pdb	Hchain	Lchain	antigen_chain
 6wg2	I	M	P
 5nj3	C	D	B
 6oz6	E		A
-5xqy		D	
 7buf	G	I	B
-6ol7	M	N	
 5o03	C		A
 7sob	H	J	D
 4zyp	J	L	C
@@ -11022,120 +8962,81 @@ pdb	Hchain	Lchain	antigen_chain
 6xmi	B	A	C
 4plk	J	K	E
 7t3d	H	L	B
-3cdc		B	
-6c6x	A	B	
 7n8i	H	L	A
 7ora	D	E	C
-7djy	D		
-7nk1	F		
 7czt	I	M	C
 6zer	F	G	D
-6b0w	H	L	
 1p2c	B	A	C
 6j7w	B		D
-1a0q	H	L	
-5m6a		A	
 6eti	F	E	A
-3kyk	H	L	
 7q9p	H	L	A
 7k8m	A	B	E
-4npy	B	A	
 7bz5	H	L	A
-2bx5		O	
 6i3z	H	L	A | B
 7nk8	F		A | B
 4dkf	I	M	B
 6w03	D	E	B
-3gje	B	A	
 5da0	B		A
 5f7m	C		A
 4zto	I	M	Q
 5wdu	L	K	F
 5x2m	J	K	C | D
-3iy7	B	A	
 3ghb	I	M	Q
 2wzp	D		B
-3cm9	C	N	
-6o89	H		
 7k39	H	G	A | B
 7aej	D		A
-4aq1	D		
-6wkm	H	L	
 3k3q	A		C | B
 7p78	D		C
 5ob5	H	L	A
 7bel	H	L	R
-3u46	H	L	
-3cm9	B	M	
 4z7n	H	L	A | D
 5m2m	F		A
 1qfu	H	L	A
 6p50	H	L	C
 2kh2	B	b	A
-2qtj	C	O	
-1it9	H	L	
 4p59	H	L	A
-5u0u	E	e	
 6war	F		E
-3lve		A	
 6vi0	K	J	I
 6bpa	E	F	D
-7xod	Z		
 6cyf	F	E	B
 1t66	D	C	C
 5udd	K	Q	C | B
 6rcu	B	C	A
-7mf9	C	D	
 1jto	A		L
 7s11	J	N	E
 4tnv	I	O	D
 7ew7	E	e	A | B
-7rth	m		
 6ch7	D	E	B
 4oqt	H	L	A
 2i9l	B	A	I
-6ss0	H	L	
 6vmj	J	I	X
-1wz1	H	L	
 6ehg	C		B | A
-2a6j	H	L	
 6vy4	C	D	B
 6xw5	C		A
 7zr9	F	G	B
-2fjf	V	U	
 4x7e	D		B
 7lm8	M	N	A
 7pi7	B	C	A
 5my4	B	A	C
 1osp	H	L	O
-1rhh	D	C	
 7lia	B	C	A
 6m87	B	A	B
-5uix	H	L	
 2arj	H	L	Q
-6ehy	B	b	
 7r6x	H	L	R
-6srv	H	L	
 5kw9	H	L	A
 4odx	A	L	Y
-3inu	M	N	
-1b0w		B	
 3vg9	C	B	A
 6fe4	H		C
 5sx5	J	K	M
 4nhc	H	L	P
-5u4r	H	L	
 3w12	C	D	E
 7wvm	C	D	F
-5v7u	H	L	
 7kfw	F	G	E
 6x96	H	L	A
 6i2g	A		B
 4fqr	k	l	K
-5t1m	B	A	
 6p3r	C	D	E
 6vpx	P	Q	D | C | B
-4xbg	E	F	
 6vpx	M	O	J | E | F
 4zs6	H	L	A
 5aaw	A	a	C
@@ -11145,38 +9046,26 @@ pdb	Hchain	Lchain	antigen_chain
 6fyu	C		B | A
 3ma9	H	L	A
 3ezj	D		C
-3chn	D	N	
-7eh3	A		
-4f33	H	G	
 7dk2	G	H	I
-7on5	A		
 4hlz	K	L	F | E
 7zmm	E		C
 6li3	N		A | B | G
 7sfv	M	N	B
-4jvp	B		
 7czz	J	N	C
 7ll1	E	F	C
 6gjq	D		C
-1qp1		B	
 6nb7	G	I	C
-8fab	D	C	
 5tpw	H	L	A | B
 6s8i	Y	U	E
-6y1r	C		
 1pkq	B	A	E
-6be2	H	L	
 3i02	D	C	D
 3opz	J	N	C
-2rcs	H	L	
 7e32	E	e	A | B
 6uta	H	L	E
 7cak	E	D	A
-3chn	D	N	
 6zer	B	C	A
 6wit	H	L	I
 6vo0	I	K	D
-4k07		J	
 4nm8	I	M	D | C
 6vy2	J	N	E
 7v61	I	M	D
@@ -11184,50 +9073,34 @@ pdb	Hchain	Lchain	antigen_chain
 6fn4	C	B	A
 6d9w	H	L	A
 7rw2	G	J	B
-7dr4	E	F	
 1oaz	H	L	A
 7e8c	O	Q	A
-1qp1		A	
 7p5y	I		C
 5t6l	A	B	G
 1cz8	Y	X	V
-2fjf	N	M	
 6orn	F	I	K
-3cm9	D	O	
 3c6s	H	G	H
-3j2z	H	G	
-5hyq	D	C	
 7mxd	J	K	F
 7r8l	C	D	E
 6bfq	E	F	J
-1fvd	B	A	
 3bt2	H	L	U
 1rzj	H	L	G
 2kh2	B	b	A
 6a67	H	L	A
-1fn4	B	A	
 5dq9	H	L	H
-6j9o	H	L	
-5vh4	H	L	
 7dty	N		A | B | G
-6iyn	A		
 6omm	E	e	A | C | B
 7m7w	H	L	R
 3lrs	H	L	L
-1a6u	H	L	
-2kqn		B	
 6dca	H	L	P
 6do1	F		B
 6ozc	O	Q	E
-1igc	H	L	
-3qpq	H	L	
 4kuc	H	D	A
 6xq0	E	F	D
 6mb3	D	O	E
 7tyn	N		A | B
 6lfm	S	s	A | B
 6i8s	H	L	D
-3esv	G	g	
 7si2	H	L	A
 7ezv	M	N	A
 5e7f	C		I
@@ -11237,56 +9110,32 @@ pdb	Hchain	Lchain	antigen_chain
 7sbf	E	e	A | B
 7cwt	G	F	B
 2kh2	B	b	A
-7t0i	F	E	
-5xhf	D	C	
-4od3	H	L	
 7e39	C	B	A
 6weq	E	F	A
 7nx3	E	D	A
 4ocm	F		E | D
 6gk8	H	L	I
 7e5r	O	E	C
-2mkw		A	
-6ss5	H	L	
 6idk	M	N	F
-5ff6	D	C	
-2vxu	I	M	
 7evy	E	e	A | B
-7nsl		D	
-32c2	B	A	
 5j1s	C		A | B
-6jri	C		
-2mmx		A	
-7dun	H	L	
 6n1v	1	2	E
 7o3b	A		G
 6wo5	G	I	F
 5dmg	E	F	X
-2mmx		A	
-5ysl	E	F	
-6qnk	B	A	
 5td8	E		C | A
-4k07		C	
 7lfa	B	D	A
-7ul3	H	L	
 7rdw	U	V	D
-4r26	H	L	
-2fjf	K	J	
-1q9l	B	A	
 7rkv	G	L	C
 7c2l	J	N	C
 1kxq	H		A
 6xm2	D	C	J
-3b5g		B	
 5lhn	B		A
 7lzp	B		A
-4d9l	I	M	
 6app	A		B
 7mw4	F	G	B
 7mfu	E		D
 7lop	W	V	Z
-5wuv	H	L	
-2op4	H	L	
 6mft	A	B	C
 4olx	H	L	G
 7piv	N		A | B
@@ -11294,9 +9143,7 @@ pdb	Hchain	Lchain	antigen_chain
 5wnb	H	L	B
 7jwp	C	D	R
 1uj3	B	A	C
-3chn	B	M	
 7lr4	A	B	C
-5nml	A		
 6i8s	E	I	A
 6aod	B	A	C
 7m6h	D	F	B | C
@@ -11304,7 +9151,6 @@ pdb	Hchain	Lchain	antigen_chain
 7chs	H	L	E
 1a3l	H	L	L
 5tzt	A	B	D
-3eak	A		
 6cm3	R	S	A
 4xak	D	E	B
 3p11	H	L	A
@@ -11314,7 +9160,6 @@ pdb	Hchain	Lchain	antigen_chain
 6tko	H	L	B | A
 6was	H	L	J
 6h7n	C		A
-5vnv	A		
 2kh2	B	b	A
 7dfc	H	L	A | V
 4jn2	B	A	A
@@ -11322,163 +9167,102 @@ pdb	Hchain	Lchain	antigen_chain
 7epx	I	M	B
 6fla	H	L	I
 3hnt	H	L	H
-3ujt	I	M	
 7crh	N		A | B
-5ocl	F		
 6bsp	A	B	D
 7m7i	E	F	B
 3ixx	I	J	E | B
-6iyn	A		
-4w70	A		
-5e2t	H	L	
 6txz	H	L	A
 5u3l	H	L	P
 5d72	M	N	B
 1za3	B	A	S
 6v4o	H	L	N
-7n04	H	L	
-3okd	B	A	
 2g5b	F	E	K
-1mcb		A	P
-4a6y	H	L	
 2kh2	B	b	A
 6v8z	P	Q	M
 7wea	H	L	A | C
-7djy	C		
-3cm9	A	L	
-6mfj	A	B	
 5mp1	J	K	I
 2ltq	F	E	D
 1jnh	F	E	F
 7vnb	A		B
-5ik3	C	D	
-5dqj	A	B	
-7kbp	D	d	
 7nj7	F		A
 7cac	E	D	B | A
-2vq1	B	A	
 6k5a	E	F	B
 1yei	H	L	L
-4at6	C	D	
 7llk	K	L	I
 2r8s	H	L	R
 6mv5	H	L	P
 6edu	P	Q	F | B
-4lrn	H	L	
 4jzo	G	H	L
 7cdi	H	L	E
 5ken	Q	P	K
-3dif	D	C	
-7k3q	H	L	
-7bm5	K	J	
 7kew	G	J	A
-5u0r	H	L	
 1ndg	B	A	C
-7v0v	A		
 5t80	H	L	G
-3esv	F	f	
 3qum	H	L	P
 7cws	L	C	Q
-6dl8	H	L	
-4gay	H	L	
 6gk4	C		A
-6arp	D	C	
-4w2p	D		
 2xtj	D	B	A
 2eiz	B	A	C
 1r3j	B	A	C
 7czw	J	N	C
-1uwe	H	L	
 7kd6	U	V	W
 5hys	E	F	J
 7w1s	B		A
 7cw3	k	l	f | e
 6h7l	D		B
 1tjg	H	L	P
-4jvp	A		
 7kqe	J	M	C
 1afv	K	M	B
 1qfw	I	M	B
-4k3h		D	D
 5uk4	f		F
-5ir3		A	
-4uim	H	L	
 2hjf	A	B	C
 6vo3	H	L	A
 6x8s	H	L	P
-6dc7	I	M	
 7lx5	A		B
-4poz	D	C	
 6b70	E	F	B
-3zhd	B		
-4qlr	A		
 1acy	H	L	P
-6ugv	A	B	
-3piq	J	K	
-4q2z	H	L	
 4r4n	J	K	I | v
-2vxv	H	L	
 4rx4	A	D	E
 6h6z	C		A | B
 7a17	F		E
-2kqm		A	
-7wpv	H	L	
-6rlm	M	N	
-3eak	B		
 7r8o	M	N	E
 7kfe	H	J	C
 6ks1	H	L	A
-2qtj	B	M	
-6bi0	H	L	
 5dfv	C	D	A
 7rxj	H	L	I
 5y7z	C		A
 6uud	H	L	A
 7kf1	H	L	V
-4unt		E	
 6be4	H	L	H
-5b3c		E	
 7vl8	S	s	A | B
 6x3t	J	I	B
 6wtu	E	F	D
 4s1d	E	F	E
-4k07		G	
 1tjh	H	L	P
 5t5b	H	L	E
-1nld	H	L	
 5boz	L		F
 7tzg	B	b	C
 5g64	I	M	B
 3ffd	A	B	P
 7ls9	D	F	B
-5tfs	H	L	
 6vmk	c	b	d
 7zmr	K		A
 7x7o	G	I	A
-3okm	B	A	
 5lxg	H	L	A
-6qd6	G		
 6eqc	D	d	A
-3qxw	C		
 3bn9	F	E	A
-2kqm		A	
 3c6s	F	E	F
-5m76		B	
 7nd9	H	L	B
 6b3s	H	L	A
 1lk3	H	L	A
-1ieh	A		
 4krm	J		I
 3wxv	H	L	A
 3t3m	E	F	C
-3cm9	D	O	
 5mo3	H	L	A
 6x1t	G	I	R
-1mcs		B	P
 6cuf	H	L	D
 7p77	X		E
 7rd5	D	C	E
-7lk9	H	L	
 3ztj	K	L	F | E
 6z43	X		A
 6nc2	O	T	I | C
@@ -11487,11 +9271,9 @@ pdb	Hchain	Lchain	antigen_chain
 7mlh	E	D	B
 6b0n	H	L	G
 3ijh	D	C	C
-3mj8	B	A	
 6csf	H	L	M
 4rnr	A	B	B
 6bp2	H	L	A
-6hud		B	
 6txz	K	O	D
 7the	B	C	A
 3k81	B		C
@@ -11503,59 +9285,40 @@ pdb	Hchain	Lchain	antigen_chain
 6pdx	M	N	B
 5f7n	D		B
 3qum	K	M	Q
-3qo1	B	A	
-3bd3		A	
-5jrp	H	L	
-4r7n	S	T	
-4r7n	G	H	
-4qth	H	L	
-7kgu	B	A	
 5w9h	H	I	G
 2dqj	H	L	Y
 7n28	X	Y	F
-5od0	H	L	
 6wo5	A	B	E
 4nhh	I	F	D
-6axp	D	C	
 1fsk	I	H	G
 7pgb	A	B	C
-5tdp	B	A	
 6bkb	H	L	E
 6udk	A	B	G
-7obf	A		
 6erx	O	P	L
 7mxd	C	D	A
 5u3n	H	L	A
 4y7m	B		D
-5ocl	A		
 4o5i	M	N	A
 5t5f	H	L	A
 3vi4	F	E	B
 2a0l	F	E	B
-6e9i	C	D	
-1bey	H	L	
 2nz9	F	E	B
-3c5s	D	C	
 7bel	A	B	R
 6ev2	C	D	C
 5x2p	H	L	A | B
 6qpg	P		J | K
-4yny	C	D	
 5thr	P	Q	C
 6sc5	B		A
 7fjs	C	A	B
 6xbj	S	s	A | B
 5alc	H	L	L
 7te6	C	D	B | A
-3cfc	H	L	
 1dee	F	E	H
 7b18	D		A
-4nko	D	C	
 1baf	H	L	L
 7x7d	F		E
 7rai	H	L	A
 7syy	H	L	A
-6k2i	A		
 4wen	B		A
 1s78	D	C	A
 7bxa	B	C	A
@@ -11563,81 +9326,56 @@ pdb	Hchain	Lchain	antigen_chain
 7zf4	F		E
 7ldd	K	J	D
 5kel	M	O	F
-3kym	N	M	
 7n8h	H	G	F
 4n1h	D		C
 7mxp	H	L	C
 3rvx	D	C	A
-7ryv	P	Q	
 6weq	I	J	C
-3chn	B	M	
 6ey6	O		G
 7c8w	A		B
 5umn	E	F	A
-5xaj	F	D	
-1ru9	H	L	
 7czv	J	N	C
 6pdr	H	L	A
 7vne	U		A
 7ur4	F	G	B
 5nj3	E	F	A
-5ewi	H	L	
 5vak	B		A
 7cth	I	M	B
 7bwj	H	L	E
 7q4q	B	A	E
 4fqr	i	j	I
-3chn	A	L	
 1eap	B	A	B
 7tyv	H	L	C | c
 7cwn	O	M	A
 4xcn	A	B	A
 7q9m	J	K	A
-5t0y	A	B	
 7xh8	B	C	A
-6ikm	L	l	
 7kd0	C		B | A
-5x5x	H	L	
 6gs4	H		A
 2dbl	H	L	L
 7ur4	I	J	A
 3go1	H	L	P
-5k9j	H	L	
-5i1k	H	L	
 5erw	A	B	C
 6cbj	H	L	L
 4p2c	I		D
-3upc	C		
 4tnw	G	K	C
 5d1z	F	E	J
 5vxj	D		C
 6os2	D		A
 5vai	N		A | B
-6qd6	B		
 7o0s	A		B
-4trp	H	L	
 6pci	N	Q	A | D
 5vco	D	C	E
 7urs	H	L	A
-1bre		D	
 1etz	H	L	H
 7x7o	E	F	C
-3chn	B	M	
 4rfn	B	C	A
-1oay		O	
 7cn2	J	j	B
-1h8n	A	a	
 1tzi	B	A	V
-3mj8	H	L	
-1iga	A	C	
-3we6	A	B	
-3b9v	B		
 3zdy	H	L	A | D
 4xwo	Q	R	N
-2agj	H	L	
 6xqw	H	L	E
 6wxl	F	E	D | C
-7aql	B	b	
 7tdn	H	L	B
 7ecy	E	F	C | A
 6qv0	F		D | C
@@ -11646,7 +9384,6 @@ pdb	Hchain	Lchain	antigen_chain
 7r98	D		A
 4rau	W	V	X
 6ea7	M	N	B | C | D
-1a7o	H	L	
 6x1s	C	D	J
 1u8q	B	A	C
 3pjs	B	A	M | N
@@ -11654,19 +9391,15 @@ pdb	Hchain	Lchain	antigen_chain
 4kfz	C		A
 7tc9	H	L	B
 3iu3	H	L	I
-5jmr	A		
-5f89	H	L	
 7zml	E		B
 6txz	I	M	B
 4rau	T	S	U
 5whk	H	L	A | B
 7kdd	D	E	A
-4aj0		D	
 7n08	A	B	E
 2gsi	B	A	W
 7lfd	H	L	A
 7cwu	J	F	A
-5tdn	D	C	
 7t3d	K	N	F
 2wuc	H	L	A
 6gci	B		A
@@ -11680,24 +9413,17 @@ pdb	Hchain	Lchain	antigen_chain
 7cwo	H	L	A
 6pz8	H	L	B
 3iu3	C	D	J
-4dka	B		
 6o9h	H	L	D
 6xsn	H	L	C
-5gs1	F	f	
-5icy	B	A	
 5dhv	A	B	N
 7oap	F		E
-1moe	A	a	
-1sjv	A		
 5th9	J	N	C
 7rdw	Q	R	C
 6mb3	J	S	E
 7q9p	J	K	C
-4xbg	C	D	
 3j70	A	B	D
 6ad8	E	F	B
 7zmv	F		B
-6z1o		C	
 6x1s	H	L	I
 3mlw	I	M	Q
 6mzj	D	C	B
@@ -11705,9 +9431,7 @@ pdb	Hchain	Lchain	antigen_chain
 5iq9	H	L	P
 3rvw	D	C	A
 7f46	H	L	B | C
-2gcy	B	A	
 7e6p	H	L	A
-4zg1	A		
 6mi2	A	B	C
 7jv5	N		A | B | G
 7qji	F		E
@@ -11719,11 +9443,8 @@ pdb	Hchain	Lchain	antigen_chain
 4xph	H	L	A
 7sob	C	B	A
 4r4n	T	U	S
-7vsu	B	A	
 3efd	H	L	K
 3j8w	G	K	C
-3rpi	A	B	
-7nc0	H	L	
 3be1	H	L	A
 4zpv	H	L	R
 6y97	H	L	A | B
@@ -11743,45 +9464,27 @@ pdb	Hchain	Lchain	antigen_chain
 5esz	H	L	G
 3ria	G	K	C
 7p5y	G		A
-7lyw	A	B	
-1wtl		A	
 5jds	B		A
-2mmx		A	
 7k7i	H	L	A
-1wcb	B	A	
 2qr0	N	M	O
-3s96	C	D	
 1mfb	H	L	H
 7mfg	E	F	D | C
 6pcu	I	H	G
 6n81	C	D	B
-1bww		A	
-1hzh	H	L	
 4zpv	A	B	S
-1f8t	H	L	
 7wec	G	J	B
-4r7n	K	L	
 6iw2	B	C	A
-2qtj	C	O	
-7djy	A		
-3ntc	H	L	
 6woz	H	I	G
 1ce1	H	L	P
 4wht	X	Y	x
 3ze0	E	F	C
 7ey0	A	B	R
-6q19	H	L	
 3mls	H	L	P
-1axt	H	L	
 7nqk	B		A
 6umj	H	L	H
-5od8	A	B	
 7vgx	S	s	A | B
 7kde	O	P	G | B
-3ls5	H	L	
 7mlu	G	J	B
-6swr	A		
-6e9q	A	B	
 2xra	H	L	A
 3sqo	H	L	A
 7z1a	B		A
@@ -11800,31 +9503,22 @@ pdb	Hchain	Lchain	antigen_chain
 7x7e	A		D
 5hm1	C		F
 7rbt	N		A | B
-4m93	H	L	
 5d1x	B	A	E
-7r63	C		
 7a5r	H	L	A
 1fbi	Q	P	Y
 6v7z	E		C | D
-3j30	H	G	
 2jk5	A	B	C
 7f3q	C	B	A
 6zxn	E		B
 3h0t	B	A	C
 6p65	H	L	A
-1g9e	A		
-7kzc	H	L	
 6vlr	D	K	H
 4ubd	K	L	J | E
-6mee	C	D	
 4jkp	H	L	G
-3vfg	H	L	
 4qo1	A		B
 6nfn	F	E	E
 4xbe	H	L	P
-4hwe	H	L	
 7teq	H	L	B | A
-6ele	H	L	
 6cxg	M	K	C
 2kh2	B	b	A
 5gs0	D	C	A
@@ -11833,44 +9527,27 @@ pdb	Hchain	Lchain	antigen_chain
 5gzn	C	D	B | G
 5gs0	F	E	B
 2ypv	H	L	A
-4llw	C	D	
 5if0	A	B	I
-5iie	H	L	
 4xgz	S	T	s
 7a0w	E	F	B
-5ezl	A	B	
 7ns6	O		N
-6pk8	D	d	
 6tyl	I		F
 7pgb	a	b	d
 6avq	H	L	B | A
-2w9d	H	L	
-7nsl		B	
-7nkc	F		
 4etq	A	B	X
-5i1a	H	L	
 6h3u	H	L	B
 7kpb	H	L	A | C
-3a	H	L	
 5vm0	A		A
-6rlm	O	P	
-4aix		D	
 7dq7	H	L	B
 7eyc	A	B	Q
-5gry	A	a	
 7xic	H	I	A
 1gc1	H	L	G
-3fo0	H	L	
 3zdz	E	F	C
-2kqm		B	
 5o8f	N		I | D
-4ouu	H	L	
-6e9u	A	B	
 7n0i	L		G | H
 5o04	D		B
 7cr5	H	L	A
 6p60	J	K	L
-5gs1	P	O	
 7m3n	H	L	A
 6dc9	I	M	Q
 7ew5	K	L	G
@@ -11880,27 +9557,18 @@ pdb	Hchain	Lchain	antigen_chain
 1kxt	D		C
 3eoa	B	A	J
 6mwc	G	H	F
-6hud		A	
-6ehw	B	b	
-5wtg	D	C	
 1mfd	H	L	H
 6j6y	B	C	A
 7dv4	D		C
 5cbe	A	B	E
-4nm4	H	L	
 7lf1	K	L	M
-3cm9	A	L	
-6vun	A	a	
 6mpg	q	r	V
-2gsg	D	C	
 7kn7	B		A
 7ezv	H	L	A
 7cwn	H	N	C
 1yqv	H	L	Y
 5csz	A	B	E
-3kym	B	A	
 1i9r	X	Y	C
-5tf1	H	L	
 7kf1	A	B	C
 7b	A	B	D
 7zxf	D	E	A
@@ -11913,9 +9581,6 @@ pdb	Hchain	Lchain	antigen_chain
 1xf2	H	L	T
 3j1s	H	L	A
 5vco	B	A	F
-6phh	C	D	
-6p79	H	L	
-7nsl		F	
 7k93	E	e	A
 6vbp	C	D	E
 7or9	A	B	E
@@ -11924,76 +9589,48 @@ pdb	Hchain	Lchain	antigen_chain
 6fax	H	L	R
 7b17	B		A
 3sdy	H	L	B | A
-1jgv	H	L	
 7q6e	H	L	A
 1i8m	B	A	D
-3n9g	H	L	
 6db5	I	M	Q
 1mh5	B	A	B
 6x97	J	K	G
 6vyv	I	M	F
-6swr	D		
 5kzp	E	I	B
 2kh2	B	b	A
 6dfh	H	L	A
 1ztx	H	L	E
-6dcv	B	A	
-7v0v	A		
 6azz	F	E	D
 77	N	n	A | B
-6ikm	B	b	
 5ken	G	H	F
 2fjg	B	A	V
-6wt3	H	L	
 5u68	E	e	A
 7fg2	D		A
 7lxy	N	O	J
-3qhz	I	M	
 5f7m	D		B
 5ghw	H	L	P
-5m6a		D	
-6azk	B	A	
-4k3g		B	B
 7qnc	G		D
 6jsz	D		A
 7z1b	D		C
 7s0d	H	L	C
 7niw	C	B	A
-5vm4	A		
 6dzl	I	L	D | C
-4xbg	G	I	
 7n9v	H		K
 3hae	I	G	D | F
 6cvk	B	b	D
-7t0h	H	L	
-1mcn		A	P
 7czs	H	K	A
 5bo1	H	L	B
 5u68	G	g	C
-5gks	A	B	
 7zmt	C		A
 6orn	O	P	R
 5kel	P	T	G
-7nk2	F		
 7ndd	F	G	A
 6b73	D		A
-2omb		A	
-3auv	D	d	
 7a25	E		B
-5u15	H	L	
-1i3v	B		
-2w0k		A	
 7qbg	G		A | D
-1t04	D	C	
-1lo4	H	L	
-5waw	H	L	
-4m5y	I	M	
 7p5w	G		A
-3chn	A	L	
 6a9k	B	A	B
 5jw4	Q	R	F | E
 7kdu	C		B | A
-2omb		B	
 6xey	H	L	A
 6mtp	H	L	P
 3nh7	I	M	B
@@ -12004,24 +9641,19 @@ pdb	Hchain	Lchain	antigen_chain
 1yym	H	L	G
 7aue	S	s	A | B
 6hhc	H	L	A
-4xcn	C	D	
 5udc	H	L	F
 7mxp	I	K	A
 6q20	H	L	A
-2kqn		A	
-1vge	H	L	
 7whz	H	L	A
 5uhy	J	I	C | E
 7mfg	J	K	I | G
 7whj	D		C | A
 6oy4	D	C	A
-5a16	C	D	
 7e7y	A	B	R
 7e3k	H	L	C
 7raj	H	L	A
 7lss	H	L	B
 5wnb	I	M	A
-2d03	H	L	
 4ut9	K	O	C
 5kov	Q	q	N
 7fae	e	d	B
@@ -12031,17 +9663,11 @@ pdb	Hchain	Lchain	antigen_chain
 7myz	H	L	C
 3ri5	J	M	E
 7a0x	E	F	B
-4xml	H	L	
-6q	C	D	
 6um7	B	C	I
 7bua	G	I	B
-5w1g	H	L	
-6k64		B	H
 6was	A	B	G
 7ljc	N		A | B | G
 6n1w	q	r	2
-2bmk	H	L	
-2kqn		A	
 4ffv	D	C	B
 6x3w	J	I	B
 7klw	C		A
@@ -12049,27 +9675,20 @@ pdb	Hchain	Lchain	antigen_chain
 7s0e	H	L	A
 6id4	C	D	E | F
 6oca	C		A
-2a1w	H	L	
-2a6d	H	L	
 7cho	B	C	A
 7q0g	H	L	E
-5chn	H	L	
 7jwp	A	B	Q
 6lz4	A	B	C
 7dcc	A	F	K
 3rhw	J	M	E
-6umh	h	l	
 6uj9	H	L	A | C
 4m1c	C	D	A
 7tcc	H	L	B
-2w0l		A	
-5cd3	A	B	
 5myx	B	A	E
 4ogy	H	L	A
 7ew3	S	s	A | C | B
 7p79	D		E
 6m47	H	L	A
-3cfk	D	C	
 3mug	L	K	I
 7rlz	D	C	R
 7n5h	J	K	C
@@ -12077,71 +9696,52 @@ pdb	Hchain	Lchain	antigen_chain
 5d1x	C	D	E
 7tyv	D	E	A | a
 2qsc	H	L	P
-3oaz	H	L	
 5wob	I	J	A
 6cdm	A	B	C
 3jbf	7		3
 2xv6	B		A
 3i9g	H	L	L
 3mlv	N	M	Q
-2a77	H	L	
 7dpm	J	K	L
 1cf8	H	L	H
 5h32	G	H	A
 7rkm	D	d	A | B
-6qd6	E		
-6p3b	H	L	
 6ey6	I		A
 6mjz	H	L	C | A | B
 1bql	H	L	Y
 5cd5	C	D	A
 6x04	F		E
-1t4k	D	C	
 5tlj	B	A	X
 7pi3	M	N	H
 4xwo	O	P	M
 5f97	E		A
 6wfz	H	L	P
 4xh2	J	K	j
-43c9	F	E	
 5udd	N	T	G
-3cm9	D	O	
 6umg	h	l	c | r
 6xc3	H	L	C
-7mf9	H	L	
 6e5p	M	K	M
-5jny	C	D	
 4dke	H	L	A
 7ul3	C		A
-3auv	B	b	
 4k2u	I	M	B
 7cvz	Q	R	H | G
 6o24	A	B	I
 2qad	H	G	E
-7np9	C		
-7t0g	H	L	
-3l1o	H	L	
 6idg	H	L	A
 7kn6	C		A
 5mv4	A	B	X
 1kir	B	A	C
 6dbg	C		B
 6d6u	K	L	D
-7ws7	K	J	
 7ch4	H	L	R
 2kh2	B	b	A
 7rd4	A	B	I
-3qeh	G	H	
 5uk4	h		H
 2zjs	H	L	Y
 7m51	H	L	A
-3auv	E	e	
-1i3g	H	L	
 6az2	C	E	D
 7neh	H	L	E
 6nmr	F	G	I
-1nbv	H	L	
-2mkw		A	
 3ria	F	N	B
 5uek	H	L	A
 7n9v	L		A
@@ -12154,30 +9754,23 @@ pdb	Hchain	Lchain	antigen_chain
 6qb6	H	L	A
 1bzq	N		B
 3zkm	H	L	A
-2mmx		A	
-6wk4	A	B	
 6woz	K	L	J
 7kfb	G	J	A
 5xcr	A	B	C
 7c4s	J	K	B
-7f2s	A	B	
 1xcq	F	E	P | N
 7kji	A		B
 3hfm	H	L	Y
-6ic3		D	
 4c59	B		A
 6wh9	E	F	D
 2ny7	H	L	G
 6w7s	H	L	A
 5vl2	D		D
 4xgz	E	F	e
-2gfb	P	O	
-3chn	C	O	
 7ar0	B		A
 2hlf	E	F	B
 7ws4	I	H	C | A | B
 5ojm	O		E
-5xrq	H	L	
 7e8c	K	I	B
 7mlu	F	K	E
 7n0v	H	L	C
@@ -12185,16 +9778,13 @@ pdb	Hchain	Lchain	antigen_chain
 6xq4	C	B	A
 1yuh	H	L	H
 6wh9	H	I	A
-3l7e	H	L	
 7s6d	E	G	A
 7k7y	H		G
 2x7l	A	B	O
 6bf7	E	F	B
-2aj3	B	A	
 6gkd	N		L
 6vi1	L	K	R
 6ui1	D		A
-5i1h	H	L	
 6a78	H	L	A
 6zcz	F		E
 6gff	L	K	I | C | D
@@ -12204,21 +9794,15 @@ pdb	Hchain	Lchain	antigen_chain
 6qx4	D		A
 7z0y	H	L	R
 6dfi	H	L	E
-5nm0	A		
 7a0y	C	D	A
-4k23	H	L	
-2bx5		L	
 7kc1	H	L	B | A
 3ngb	B	C	A
 7det	D	d	C
-5jpj		A	
 7ns6	U		K
 6wds	H	L	C | A | B
 2ibz	X	Y	E
-6y1r	E		
 4tsa	H	L	A
 3g6j	H	G	D | C
-6qkd	J		
 5hi3	H	L	B
 4kuc	F	E	I
 1p2c	E	D	F
@@ -12227,34 +9811,22 @@ pdb	Hchain	Lchain	antigen_chain
 5njd	R	Q	C | D
 3bpc	B	A	B
 3o6l	H	L	C
-3j7e	H	L	
-2fjf	D	C	
-6ol7	P	O	
-6dsi	A	a	
 7lqv	Y	Z	C
 7e88	G	H	I
 4rdq	O	N	D
 6a9k	H	L	H
-6iyn	A		
 7rkx	D	d	A | B
 6gkd	T		R
-5c9k		E	
 6xgc	M	N	B | A
 5yd4	C	c	D
-6apq	A		
-4jpi	A	B	
 7rnn	C		D
 2c1p	H	L	H
 6k5d	C	D	A
 7sfv	Q	R	H
-6dzn	H	L	
-4x8j	H	L	
 7x2c	E		A | B
 4nx3	B	A	D
-5nm0	C		
 2ltq	C	B	A
 3b2u	H	L	A
-4rfe	C	D	
 7kfb	H	K	B
 4zff	H	L	D
 7mtb	H	L	G
@@ -12262,17 +9834,12 @@ pdb	Hchain	Lchain	antigen_chain
 7ew5	Z	a	V
 6m3c	K	J	G
 6j11	D	E	C
-1mak		A	
 6v4n	A	B	I
 5wk3	Q	P	A
 2ny6	D	C	A
 4i9w	E	D	A
 6xsk	G	J	D | C
-6sm2		B	
-6hdb	A		
-4hdi	B	A	
 7stz	H	L	C
-2rcj	Q	T	
 5b71	D	C	F
 4grw	H		B
 7o2z	H	L	P
@@ -12280,138 +9847,88 @@ pdb	Hchain	Lchain	antigen_chain
 7lez	D	E	B
 7d00	J	N	C
 6p95	F	G	b | B
-1ieh	A		
 7qn5	F		C
-4zg1	B		
 5c8j	G	H	K
 1bzq	L		A
-6ncp	A	B	
 4ene	E	F	B
 4i3r	H	L	G
-5tdo	B	A	
 7a6f	C	B	A
 7kmg	A	B	C
 2x89	C		E | G
-2kqn		A	
 4plj	D	C	B
 6krz	D	E	A
-3upc	I		
 7cvs	C	D	A
 3qxv	B		B
 6cnk	G	F	C | B
-7v0v	A		
 7lzp	C		A
 5mv3	L	M	N
 7kew	I	L	C
 7r6w	H	L	R
-4x7t	H	L	
-7pij	H	L	
-7o85		B	A
 5ifj	A	B	C
 5a1z	I	J	E
 7b18	I		C
 4xpa	H	L	A
-4hxa	H	L	
 6vc9	H	L	A
-3vg0	H	L	
 7eyc	H	L	P
 6jhr	E	D	C
 2fx8	H	L	P
 7wph	H	L	B
 3ogc	A	B	C
-1maj		A	
 4i18	H	L	C
 4oii	I	M	B
 7tty	H	L	A
 6rlo	G	H	L
 6xpr	B	C	A
 6h06	A	B	K
-7o85		K	J | L
 4xwo	W	X	T
 3d85	B	A	C
-1t3f	B	A	
 3cvh	H	L	A | C
 7m8l	O	R	F
 7wk8	C	D	A | B
 6bah	B	A	C | E
 4z8f	H	L	E | A
-5x4g	A	B	
 5c3l	D		C | A | B
 6lfx	A	a	a
-5jof	A	B	
 6mej	H	L	C
-5wb2	A		
-4xce	C	D	
 6hjx	G		B
-6ikm	O	o	
 7b27	D		a
-6my5	A	B	
 5dhy	H	L	M
-1j05	B	A	
 5j3h	C	D	E
-2v7n	F	E	
 6udk	O	P	R
-3chn	C	O	
 7whk	F		C
-5etu	D	C	
 2vxt	H	L	I
 6q0e	H	L	A
 6mb3	G	Q	E
 6sne	D	C	J
 4mxw	W	V	X
 5m95	B		A
-5ir1	B	A	
 7me7	A		R
-2iqa	H	L	
 6b3j	N		A | B
-1rul	H	L	
-5c9k		H	
 6ch9	D	E	B
 5tru	H	L	C
 5kan	H	L	B | C
-5zmj	H	L	
 3cfb	H	L	L
-4nkm	G	H	
 7joz	N		A | B
 6h1f	A		B
-6ezw	B		
 7ngh	D		B
-7v0v	A		
 4n9g	M	N	Z
 4hg4	L	M	B
-6dba	B		
 4xgz	U	V	u
 5vn8	I	K	E
-2kqn		A	
-1kcv	H	L	
-4k3g		A	
-2omb		D	
 7ew5	W	X	S
 1y0l	F	E	F
-3juy	F	f	
 6b0h	B	A	J
 3lrs	A	B	B
-6e8v	Y	Z	
 3fku	S	s	J | I
-5yfi	H	L	
-6dbd	A		
-4hkb	A	B	
 3gbm	H	L	B | A
 7r4i	D		A
 5i74	B	C	A
 7q9i	H	L	A
-6pxg	A	B	
-2kqm		B	
-6nov	A	B	
 7rly	E	F	R
-6ugt	H	L	
-1u0q	A		
-5hdo	B		
 4nj9	H	L	H
 7kf9	H	K	B
 7p78	Y		E
 4bz1	H	L	A
-3hc4	H	L	
 7e8f	H	L	A
 7jwq	C	D	P
 6gju	B		A
@@ -12424,19 +9941,14 @@ pdb	Hchain	Lchain	antigen_chain
 4xrc	B	A	D
 6w2c	B	C	A
 3qxv	D		D
-1mam	H	L	
 6svl	K	M	N
-5f6h	M	N	
 7kmk	H	L	A
-6rcq	A	B	
 1hi6	B	A	C
 5npi	B	b	E
 3jcb	C	B	A
 6phc	A	B	I
-2x1p	A		
 3uyr	H	L	P
 7cz0	G		C
-4r7n	C	D	
 5tl5	H	L	A
 4lgr	B		A
 7dss	A		1 | 3
@@ -12447,29 +9959,17 @@ pdb	Hchain	Lchain	antigen_chain
 7qjj	G		E
 6gju	C		A
 7jmw	H	L	A
-6ugu	A	B	
-6k2i	A		
-3b9v	D		
 7oay	F		E
 7zml	K		C
 6tnp	I	G	I
-4k7p	Y	X	
-1h8o	A	a	
 6ieb	E	F	B
-4ztp	H	L	
 4xgz	G	I	g
 5gmq	B	C	A
-6k2i	A		
 7kbb	H	L	D
 5mhr	R	Q	A
-5lz0	B		
-3u1s	H	L	
 6y1n	H	L	L
 6df1	H	L	A
-4w68	B		
-7nj4	F		
 5ovw	G		C
-1bfo	F	E	
 1zwi	A	B	C
 2x7l	E	F	R
 5mv4	F	G	H
@@ -12481,28 +9981,19 @@ pdb	Hchain	Lchain	antigen_chain
 6hf1	C	B	A
 5kel	H	L	B
 7olz	C		A
-1mie	H	L	
 6ukt	E		A
-6azk	D	C	
-4ouo	A	a	
 7lki	D	E	F
 7cwn	L	J	C
 4pir	I		C
-5i16	B	A	
 3s37	H	L	X
-6uga	H	L	
-5vsi	H	L	
-5xp1		B	
 7kfw	H	L	A
 6u9s	A	B	C
 5jw4	O	P	D | C
-2o5z	H	L	
 4liq	H	L	E
 7si0	E	F	B
 6nfn	N	M	M
 4yhm	H	L	H
 7o30	H	L	P
-2kqn		A	
 6mlm	F	G	B
 7nqa	C		B
 7mzn	H	L	A
@@ -12510,24 +10001,18 @@ pdb	Hchain	Lchain	antigen_chain
 4fg6	E	F	B
 4pgj	C		D
 4zs7	H	L	A
-1mcc		B	P
 5ukb	c		C
 3rif	F	N	B
-6gfe	K	M	
 1him	L	H	P
-5mth	A	B	
 7epb	C		A
-43c9	D	C	
 6h06	C	D	G
 7fau	D		C
 7kn4	H	L	A
 4yfl	F	I	E
-1q0y	H	L	
 6ozc	P	R	F
 7tm0	L	M	C
 6pzw	K	I	D
 1tqc	B	C	A
-4hbc	H	L	
 6bft	H	L	C
 3jbe	7		3
 6ss4	H	L	A
@@ -12535,58 +10020,41 @@ pdb	Hchain	Lchain	antigen_chain
 7djz	A	B	C
 6n4y	F		A
 5tok	E		A
-6dwi	F	E	
-3gnm	H	L	
-4r7n	Q	R	
-3u79		B	
 7d3s	N		A | B | G
 5wdu	H	I	A
 5jw4	U	V	J | I
 1nd0	B	A	A
-2kqm		B	
-6qu9	A	B	
 6wx2	A	B	C
 6kx1	A	B	C
 6n1w	H	L	D
 7ndd	D	E	C
-7bm5	H	L	
 7sbu	H	L	A
 7mw2	D	E	A
 5nbw	B	A	A
 7nks	C	D	B
 6p65	F	G	E
 6ldw	B	A	D
-5myo	D	C	
 7jwp	G	H	T
-2zkh	H	L	
 6yax	H	L	A
-6ele	A	B	
-2mkw		A	
 6obd	H	L	F
 6kva	H	L	B
 6nz7	G	I	F | E
 5g5x	B		A
 4jo3	H	L	P
-5cex	D	C	
 7pi2	K	L	J
 7n0s	F		C
-1a7n	H	L	
-6ck8	B		
 7rlv	A	B	P
 5ggr	A	B	Y
 5nj6	H	L	A
 5vj6	M	N	B
-6qn7	H	L	
 6f5g	B		A
 6ze1	B		A
 1axs	B	A	B
 6xcj	H	L	G
 6uig	B	C	A
 5bk1	H	L	A
-6idh	H	L	
 7p6k	H		D
 4xwo	C	D	A
-7bm5	I	G	
 7cwu	H	L	B
 7stz	I	M	D
 7lab	Y	X	B
@@ -12597,13 +10065,8 @@ pdb	Hchain	Lchain	antigen_chain
 4nby	B		A
 6nfv	A	B	C
 5ogi	B	b	A
-6xv8	A		
-1uwe	Y	X	
-4k3h		H	G
-5ezi	H	L	
 5hdq	H	L	A
 4pp2	B	A	F
-1mqk	H	L	
 7f4h	N		A | B
 7ps1	A	B	E
 5a8h	R	Q	M
@@ -12611,31 +10074,24 @@ pdb	Hchain	Lchain	antigen_chain
 6h2y	H	L	D
 7ws5	G	F	B
 7km5	C		B
-1mcw		W	
 1j1x	H	L	Y
 5mhr	M	L	D
-3dif	B	A	
 5fgb	E	B	G
 7f1g	D		A
 7zfa	O	P	B
 1xgy	H	L	P
-4at6	G	I	
 2gsi	H	G	Z
 7m2i	A	B	C
 6p67	E	F	G
 3mnw	B	A	P
-7jxd	C	D	
 5hhv	H	L	A
 7vqx	N		A | B
 6d6t	J	I	B
 7cwm	H	L	A
 5wtt	H	L	P
-4jj5	B	A	
-3j2z	B	A	
 6h7o	C		A
 5x8l	F	K	A
 6um5	K	L	I
-6mh2	B	A	
 6b0a	H	L	A
 4f2m	A	B	E
 1c1e	H	L	H
@@ -12648,55 +10104,37 @@ pdb	Hchain	Lchain	antigen_chain
 7wk9	c	d	C
 5viy	J	I	D
 4dw2	H	L	U
-6wju	H	L	
-3mug	B	A	
 5k9k	H	L	F
-6vrp	A	a	
 7kgj	B		A
 7e8c	N	P	B
-4nhg	A	C	
 6qtl	G		D
 7l7e	C	D	b
 6wwc	D	H	F
 1hin	H	L	P
 6de7	H	L	G
-6oc7	H	L	
 6bt3	B	A	N
 5m95	D		C
 7laa	H	L	A
 2xzc	H	L	L
-2bmk	B	A	
 3ngb	J	K	I
-7kqy	F		
 7f54	N		A | B
-6al4	F	E	
-6u50	C		
 7l8p	H	L	A
 2htk	E	F	B
-5gs1	N	M	
-7bnp	A		
 7nrh	H	L	A
 6k0y	A	B	C
 7jie	C	D	B
-5hdo	A		
 7p5y	K		E
-3qeh	A	B	
 7s0b	C	D	E
 7tfo	P	Q	C
 6mw9	C	D	B
-3chn	A	L	
 7dk6	c	d	B
 1a4k	H	L	H
-4k07		I	
 7n65	C	D	A
-5mx3	A	B	
-7mu4	H	L	
 7rai	J	N	E
 7a17	D		C
 6gkd	P		O
 6o25	I	J	L | C
 1lo3	Y	X	Y
-7vsw	N	M	
 4jlr	H	L	S
 6phb	D	C	I
 3ejy	C	D	A
@@ -12704,57 +10142,38 @@ pdb	Hchain	Lchain	antigen_chain
 6opo	O	K	J
 1tqb	B	C	A
 4tqe	H	L	A
-4yhn	F	L	
 2j4w	H	L	D
 4hc1	H	L	A
 6m0f	H	L	A
-6wgj	C	D	
 5utz	H	L	D
 2q8b	H	L	A
 3l5y	H	L	A
 5o05	C		B
-7a4y	A		
 6x98	H	L	A
-6ehy	A	a	
-2qtj	A	L	
 5k59	E	F	B
-7mfa	Q	R	
 6y54	H	L	L
-5ywf	D	C	
 3ulv	D	C	A
 6sc8	C		A
 2kh2	B	b	A
-4zg1	E		
 7ej5	I	M	B
 7jie	E	F	A
 5x2m	H	L	A
 7czs	J	N	C
-6a76	H	L	
-3lrg		A	
-4fqh	A	B	
 3g6j	F	E	B | A
 4f9p	C	c	A
 5g5r	B		A
 3hi1	H	L	G
 7e5y	C	B	A
-3g5z	B	A	
-7rdk	B	A	
 7phu	B	C	A
 7vne	W		C
 4ios	D		H
 2xqy	J	K	E
 7ctu	A	B	C
 5v8l	H	L	A
-7eh3	A		
-4r7d	K	L	
-5vh4	A	B	
 6mu7	H	L	G
-1mcd		B	P
 6vl8	A	B	E
-4xpb	H	L	
 5sx4	J	I	M
 7zf5	G	I	A
-7t62	B	b	
 3ldb	C	B	A
 5n88	H		E
 5f7y	C		A
@@ -12763,33 +10182,22 @@ pdb	Hchain	Lchain	antigen_chain
 6oyz	E		A
 7d4b	B		A
 5dfv	E	F	B
-4tyu	B		
-6ic3		B	
 7s8o	E	e	B | C
-3w9d	A	B	
 7v61	H	K	B
 5ken	C	D	B
-6tnp	K	J	
 7st8	H	L	S
 4o4y	H	L	A
 4hjg	B	A	H | E
 4w2q	E		F
-7eh3	A		
 5aam	B	b	J
 4xnq	H	L	C
 3ubx	G	I	D
 1zlv	H	L	H
-6my4	H	L	
-2bx5		M	
 7a4d	H		L
 6ukt	C		A
-5nml	J		
-4dvb	A	B	
 5t5n	G	F	E
 5mp3	A	B	C
-4fq2	H	L	
 7lq7	y	z	E
-5t1k	D	C	
 5t3s	H	L	G
 7x7o	J	K	D
 6db7	H	L	P
@@ -12798,12 +10206,9 @@ pdb	Hchain	Lchain	antigen_chain
 7t3d	P	R	I
 5m30	F		C
 6ocd	D		C
-6rbb	I		
 6opp	H	L	A
 6n7j	A	B	D
-3qrg	H	L	
 7l7e	E	F	G
-7lmo		A	B
 7ej4	I	M	B
 1svz	a	A	C
 4zxb	C	D	E
@@ -12822,35 +10227,23 @@ pdb	Hchain	Lchain	antigen_chain
 6q23	J	K	B
 3zks	D		A
 3ifp	A	B	Q
-3j2z	D	C	
-3kym	H	G	
-6wju	B	A	
 6azm	D	C	F
 7mem	I	K	F
 3iyw	K	M	C
 7f9y	N		A | B | G
 5ds8	H	L	P
 6rps	N	M	B
-4dvb	H	L	
 5e7f	A		G
 6zrv	B		A
-5mth	H	L	
 4jlr	A	B	C
-7zf6	H	L	
-4laq	H	L	
 6xkr	H	L	P
 3or6	A	B	C
 2x7l	J	K	Q
-1dqd	H	L	
-7ooi	B		
-3q6f	D	C	
 5c8j	E	F	J
 7pg8	R	P	T
 6x97	E	F	C
-3r06	H	L	
 7uds	F	G	A | a
 2kh2	B	b	A
-6vu2	H	L	
 7k75	C	D	F
 3gkz	a	A	A
 5wob	O	P	D
@@ -12858,13 +10251,11 @@ pdb	Hchain	Lchain	antigen_chain
 1v7n	J	N	Y
 4rqs	D	C	G
 6vvu	E	F	C
-5m7q	A		
 1xcq	H	G	S
 6pb1	N		A | B
 7m6i	M	N	A
 7lqw	H	L	C
 7sjs	H	L	C
-6qkd	H		
 6nf5	H	L	A
 4mhj	R	Q	O
 7nvl	n		e
@@ -12872,53 +10263,37 @@ pdb	Hchain	Lchain	antigen_chain
 7bue	G	I	B
 7lu9	i	j	B
 7s6c	E	G	A
-3qnx	B	A	
 7cyp	E	D	A
 7kmd	A	E	T
 6cue	Q	R	C
 3ixy	G	H	A
-5ijv	F	E	
 7pnq	H	L	A
 4xwo	K	L	H
 4hlz	G	H	B | A
 6hjy	G		B
-1t4k	B	A	
-4kph	I	M	
 7rga	D		D
-1ad0	D	C	
-3u36	E	F	
 5tq2	H	L	A | B
-3chn	A	L	
-3eyv	B	A	
-6dg2	A	B	
 7l2d	H	L	A
 2p7t	A	B	C
-1wc7	H	L	
 7v3j	H	L	A | C | B
 5i6z	B	C	A
 5uk0	G	g	A
 7jwp	E	F	S
 7rxd	N		R
-3mck	H	L	
 5u3m	H	L	A
 4nc1	F		B
 7np1	H	L	A
 5jz7	H	L	B
 6ukj	H	L	A
-7mf9	G	I	
 7r40	H	L	A
 4ocn	C		B | A
 7l7e	M	N	S
 6cdi	5	6	2
-1a5f	H	L	
-7ke1	A	B	
-6fg2	H	L	
 1nmc	B	C	A
 3kj4	C	B	D
 7rkf	D	d	A | B
 7dcx	E	H	K
 5ywp	R	Q	A
-5nyx	M	N	
 3ux9	B	b	A
 3hpl	A	B	C
 7ean	H	L	A
@@ -12926,20 +10301,15 @@ pdb	Hchain	Lchain	antigen_chain
 7jvp	N		A | B | G
 3u30	C	B	A
 7k45	H	L	B
-5nml	B		
 3whe	W	X	F
-6wyt	H	L	
 7lj4	E	D	A
-4zg1	C		
 7rm0	G	H	S
-6ol5	H	L	
 7wea	G	I	B
 5o03	D		B
 7qic	C		A
 7dk7	e	f	C
 1yy9	D	C	A
 6ulf	A	B	P | K
-2kqn		A	
 5vqm	H	L	A
 1fsk	L	K	J
 7l6v	D		A
@@ -12947,7 +10317,6 @@ pdb	Hchain	Lchain	antigen_chain
 5c1m	B		A
 5vk6	A	B	C
 7s4g	E	F	I
-5drw	A	B	
 5dur	B	D	A
 7f15	B	b	A
 7pc2	K	L	A
@@ -12967,11 +10336,9 @@ pdb	Hchain	Lchain	antigen_chain
 6x5m	h	l	r
 2zch	H	L	P
 6t3j	H	I	J
-6pzh	B	A	
 7ul2	D		R
 7kyl	H	L	E
 2f58	H	L	P
-6p9i	A	B	
 2exy	E	F	B
 7v3h	I	M	C
 3sm5	I	M	C
@@ -12979,20 +10346,15 @@ pdb	Hchain	Lchain	antigen_chain
 6dwi	D	C	D
 7rqr	H	L	P
 6cw3	C	D	F | E
-2orb	H	L	
 5uem	H	L	G
 6ewb	G	I	C
 7teb	H	L	D
-3cle	H	L	
-4xce	A	B	
 3ra7	I	M	M
-5mtl		D	
 3ztn	H	L	A | B | A
 2boc	A	B	C
 7jx3	C	D	R
 1ngp	H	L	H
 7rq6	J	K	C
-4xcc	H	L	
 2nr6	F	E	B
 7n9b	D		A
 6war	J		I
@@ -13002,67 +10364,46 @@ pdb	Hchain	Lchain	antigen_chain
 6vmk	o	n	p
 3g5v	B	A	C
 5mu0	I	J	U
-1uwe	V	U	
 7jwp	M	N	W
 4dvr	H	L	G
-3bkc	H	L	
-2gjz	H	L	
 7x6o	I	K	G | E
 7s8h	B	C	A
 5ocy	H	L	C
-5uy3	A	B	
 6ir1	B		A
 7e72	A	B	E
 7ps4	B	C	A
 7k8z	H	L	A
 6cyf	M	L	I
 5jyl	D	d	C
-3upc	B		
-2kqn		B	
 7w2z	S	s	A | B
 5tbd	E	F	I
-6xrj	C	D	
 5b3j	E	F	C
-4ktd	H	L	
 5k9k	A	B	I
-1za6	B	A	
 5w9l	E	F	D
 6p8d	D	E	F
 6a3w	A	B	C
-1mcq		B	P
 6oyh	F		B
 7ws3	E	D	A
 7k3b	H	G	A | B
-1yc8	B		
 2j6e	H	L	A
 3zkm	C	D	B
 6v8x	K	L	I
 7lvw	G		A
 2bse	E		A
 6xm2	H	G	K
-3iy5	B	A	
-5mvg		B	
 7eya	H	L	R
-1oau		M	
 7n28	J	K	F
 6qd7	X	Z	F | E
-5tlj	H	G	
 6xjz	C	D	B
 7v35	N		A | B
 3lev	H	L	A
 6u1n	H	L	C | R
 6v6w	F	H	C
 7pr0	C	B	A
-3zhk	A		
 7zwm	D	E	A
-5b3c		F	
-6lun	A	B	
-7rdl	D	C	
 6qv2	E		B
 4rau	N	M	O
-2kqn		B	
 2r29	H	L	A
-5mvj	C	D	
 7kew	H	K	B
 6wex	H	L	F | E
 7spa	C		A
@@ -13070,12 +10411,10 @@ pdb	Hchain	Lchain	antigen_chain
 3cfd	B	A	B
 7so9	E	D	A
 4qci	H	L	C
-2mmx		A	
 4r9y	H	L	B | D
 6p67	A	B	K
 4edx	H	L	V
 7u8m	T	U	G
-3cm9	D	O	
 7kr5	M	N	D | C
 2kh2	B	b	A
 1mhp	X	Y	B
@@ -13084,7 +10423,6 @@ pdb	Hchain	Lchain	antigen_chain
 7np1	J	N	C
 3idm	B	A	C
 3v0w	H	L	H
-3chn	D	N	
 5c7k	A	B	C
 7k4n	C	D	B
 7p77	Y		C
@@ -13100,43 +10438,26 @@ pdb	Hchain	Lchain	antigen_chain
 1kel	H	L	H
 3zlq	C		A
 7wpe	U	V	A
-7r63	B		
 1riv	H	L	H
-6rnn	H	L	
-5i30	H	L	
-3cm9	B	M	
 5mu0	G	H	T
 5dfw	H	h	A
 7tfo	I	J	B
 7tyv	G	K	B | b
 4ybq	D	C	B
-5f88	B	A	
-4qhk	O	P	
 3ulu	H	L	A
-3chn	D	N	
-1b0w		A	
-7aql	A	a	
 6u8k	H	L	A
 3zdz	H	L	A | D
-6ikm	J	j	
-4yhy	H	L	
 7zf3	A	B	E
-4nhh	E	G	
 1ors	B	A	C
 5d1z	B	A	I
-5i0z	B		
-5cd3	C	D	
 3hns	H	L	H
 4w6x	B		A
 6l62	H	L	A
 7bem	H	L	E
 7jx3	A	B	R
 7tpj	H	L	B
-4m3j	A		
 7chb	H	L	R
 2pw2	B	A	C
-6ute	A	B	
-5vsh	E	F	
 5vjq	G	H	L
 3t65	B	A	B
 7nx0	D		C
@@ -13144,7 +10465,6 @@ pdb	Hchain	Lchain	antigen_chain
 6nmv	H	L	S
 7oxn	H	K	A
 5w23	I	M	B
-1yc7	B		
 5cjx	D	E	X | Y
 5cjq	H	L	B | A
 2kh2	B	b	A
@@ -13152,78 +10472,53 @@ pdb	Hchain	Lchain	antigen_chain
 7rxc	H	L	B
 6os1	D		A
 3cfi	I		H
-1maj		A	
 7pnm	G	D	B
 7sob	F	E	D
 5d6c	H	L	L
-4x4y	C	D	
 2cju	H	L	H
 2kh2	B	b	A
 6zec	H	L	A
-6xym	A		
-3nz8	A	B	
 7pnq	X	Y	C
 7we8	H	L	A | C | B
-1lhz		A	
-1lil		B	
 7cak	G	F	B
-5iv2	D	C	
-6mnf	H	L	
 6n5d	L	N	K
 7bud	H	L	A | C
 7k9j	H	L	A
 6vlr	F	N	I | B
 6vmk	r	q	s
 5u4m	B		A
-6xul	G	I	
 4gaj	H	L	P
 7u8m	K	J	I
 5o7p	B	A	C
 7chh	G	H	B
 7bep	A	B	E
 6pcu	C	B	A
-6sm1		A	
 2r6p	D	E	A
-3chn	C	O	
 7t4r	G	H	B
 1ken	H	L	A
 6h7l	C		A
 2nlj	B	A	C
-3cm9	C	N	
 6wps	H	L	A
 6n4y	H		C
 6ymq	E	e	0
 5e1h	B		A
-3fct	B	A	
-3mcl	H	L	
-5lmw	A		
 7t4q	I	H	D | B
 6apd	D	E	A
 7b18	E		A
 7sfx	A	B	E
 4tnw	X	i	S
-6fbj	H	L	
 3drt	B	A	C
 7jks	H	L	G
-1vhp	A		
-4nry	H	L	
-6foe	H	L	
 7lxz	G	I	B
 6v4o	C	G	M
-7kba	A	B	
-5ibu	G	B	
 6niu	F	G	B
 4i2x	B	A	E
 7kfv	C	D	B
-4b41	A		
 7r4i	E		B
-3r06	F	E	
 6cm3	T	U	C
 7m1h	F		A
-1a8j		H	L
 6bfq	C	D	G
 7niv	C	B	A
-5gzr	H	L	
 6sne	F	E	N
 1u8k	B	A	C
 4hg4	V	W	G
@@ -13232,14 +10527,10 @@ pdb	Hchain	Lchain	antigen_chain
 2osl	A	B	Q
 5ucb	H	L	B
 3o45	H	L	P
-5nm0	D		
 4ydl	H	L	G
 2uud	H	L	S
 7mlv	H	I	C
 7bc6	B		A
-7k8n	A	B	
-4org	C	D	
-3wii	H	L	
 7dw9	S	s	A
 7m7j	C	D	A
 4uta	H	L	B
@@ -13251,25 +10542,18 @@ pdb	Hchain	Lchain	antigen_chain
 7f1o	E		A | B
 6oz6	G		C
 7lf0	D	E	B
-7om5	A		
 6aj9	D	E	A
 6gjs	C		A
 4pp2	D	C	E
 7zmm	K		A
 4fqk	E	F	C
-3bjl		B	
 7cj2	C	D	A
 6nmr	J	K	M
 4yga	F		E
-4unt		G	
 7q6e	E	F	B
-1fl5	H	L	
 6nnj	H	L	G
 6bf7	C	D	A
-5itf	B	A	
 5tru	h	l	c
-3fzu	C	D	
-2kqm		A	
 7whi	E		C
 7bsd	A	B	G
 3fo2	H	L	H
@@ -13277,7 +10561,6 @@ pdb	Hchain	Lchain	antigen_chain
 6ocb	H	L	A
 7ps0	B	C	A
 6bfq	A	B	I
-1k6q	H	L	
 3duu	D	C	D
 3wd5	H	L	A
 7nil	F		A
@@ -13287,24 +10570,19 @@ pdb	Hchain	Lchain	antigen_chain
 7nx7	A	B	E
 6s8j	P	O	C
 7r1z	E		A
-6ca6	B	A	
 7mbx	N		A | B | G
 6uda	G	H	E
 2eh8	H	L	P
 7n28	C	D	A
-5tqa	A	B	
-5wk2	H	L	
 4ios	G		B
 6vmk	K	J	N
 6k5f	E	F	B
 6pz8	D	K	F
-1eeq		B	
 7rlz	A	B	P
 1i7z	D	C	C
 6w0c	A	B	C
 6cde	3	4	1
 7ldj	E		B
-7lk9	C	D	
 1f3d	K	J	J
 4m62	I	M	T
 4z5r	M	L	E
@@ -13314,65 +10592,45 @@ pdb	Hchain	Lchain	antigen_chain
 7mxe	R	W	J
 7nkt	B		A
 7te9	H	L	D
-3hmw	H	L	
-5dk3	B	A	
 7jr7	C	D	B | A
-7n6p	A	B	
 5w9j	H	I	G
-1bm3	H	L	
-6e8v	U	V	
-7nka	F		
 5vxk	B		A
-2qtj	B	M	
 4xzu	A	B	M
 7m3i	A	B	C
-6ol7	I	F	
 2or9	H	L	P
-5id1	B	A	
 6oyh	H		D
 1t66	H	L	L
 7vuh	N		A | B
 6mwn	C	D	B
 3hzy	B	A	A
 6hjy	F		A
-4yny	A	B	
 4wht	U	V	u
 4w2q	C		D
 3lh2	I	M	T
 7lly	N		A | B
 7qjj	F		E
-6zqk	B		
 4n8c	I	M	Y
 7pi3	Y	Z	V
 7mzm	H	L	A
 6mtq	H	L	T
-1a4j	B	A	
 4n90	H	I	T | C
 6xy2	H	L	A
 6dzm	G	H	D | A
 2b4c	H	L	G | C
-4r97	C	B	
 7b2m	D		B | A
 5mp1	H	L	A
 6j7w	A		C
 7sob	M	L	K
 5fyl	H	L	G
 7ws2	E	D	A
-6anp	B	A	
 5xct	A	B	C
 6co3	H	L	Q
 3bkj	H	L	A
-2z91	C	D	
 6okn	A	B	R
 5foj	A		B
 6xun	H	L	E
-3cm9	D	O	
 2kh2	B	b	A
-3j2y	D	C	
-7rth	D	C	
-3bd4		A	
 6p8n	H	L	C
-7ryv	H	L	
 7kxj	I	M	B
 3r08	H	L	E
 7mlz	H	L	A
@@ -13394,23 +10652,16 @@ pdb	Hchain	Lchain	antigen_chain
 5m2i	J		E
 6xw7	G		E
 6b73	C		B
-1ieh	A		
-5c6w	J	j	
 2fx8	K	O	S
 7lrt	H	L	A
 4ma7	H	L	A
 3j6u	H	L	C | A
 7llk	C	D	A
 6m58	H	L	A
-2x1q	A		
-5adp	H	L	
 7l6v	C		A
 7kex	H	K	B
 6w00	H	L	P
 6w52	H	L	B | A
-1il1	A	B	
-1mce		A	P
-1mak		A	
 5wko	G	H	V | S
 7ur4	H	L	C
 5hbv	D	C	B
@@ -13418,18 +10669,15 @@ pdb	Hchain	Lchain	antigen_chain
 7rqq	H	L	P
 6qv1	F		D | C
 7l2f	I	K	B
-2rcj	N	O	
 6xxv	D	E	F
 6lyn	A	B	C
 4kze	H	L	R
-1rmf	H	L	
 7ndc	D	E	C
 4xwg	H	L	A
 5w1k	G	F	E
 7mly	G	J	B
 7vfb	B		A
 7b3o	H	L	E
-5cip	A	B	
 6a3w	J	K	L
 7k7y	F		E
 5i9q	B	C	A
@@ -13447,32 +10695,22 @@ pdb	Hchain	Lchain	antigen_chain
 6cde	5	6	2
 6idi	I	J	E
 7wuh	H	I	E
-1g9e	A		
-1g9e	A		
 2r9h	C	D	A
 6tyl	E		A
 7wui	S	s	A | B | G
 7v26	c	d	C
 6a96	O		E
-6gzp	A		
-1lmk	E	e	
 5e08	H	L	N
-2qtj	A	L	
 6lnt	P	Q	E | B
 6dkj	H	L	C
 5uoe	S	T	D
-5ik3	A	B	
-6z3k	Q	R	
 7coe	B	C	D
 4u6g	A	B	C
 5a8h	P	O	M
-7v0v	A		
 7cec	F	G	B
-2vq1	F	E	
 7jr7	E	F	B
 2kh2	B	b	A
 3s35	H	L	X
-3juy	B	b	
 6gjq	B		A
 5dmg	H	L	P
 6myy	H	L	A
@@ -13481,20 +10719,13 @@ pdb	Hchain	Lchain	antigen_chain
 6mtn	D	E	B
 1g9n	H	L	G
 5thr	O	L	F
-1fvc	B	A	
 7kzx	F	E	A
 6pbv	D	C	I
 6cuf	q	r	d
 1cu4	H	L	P
 6yxm	H	L	B
 1yeg	H	L	L
-5ijv	D	C	
 7pg8	F	D	H
-6qkd		M	
-6lcs	A	B	
-3eyo	D	C	
-5nb5	H	L	
-1mak		A	
 1cft	B	A	C
 6ban	H	G	P
 6az2	A	F	B
@@ -13508,53 +10739,36 @@ pdb	Hchain	Lchain	antigen_chain
 7s6c	H	F	B
 7sla	B		A
 7li6	B	C	A
-4w81	A		
-4x4y	A	B	
 4xnz	B	C	A
-2kqn		A	
-4aix		B	
 4lu5	I	M	A
-1rzg	A	B	
 7ldd	I	i	C
 5x2n	J	K	C | D
-1clo	H	L	
 5f3j	D	d	B
-4gxv	H	L	
 3w9e	A	B	C
-3mnv	B	A	
 7lop	B	C	A
 6vrl	B	C	A
 5x8l	S	N	D
 7mtb	H	L	G
 4jr9	H	L	A
 3hae	T	S	P | R
-5uel	H	L	
 2wub	H	L	A
 7rsn	F	K	G
-7jxd	A	B	
 7sc1	H	L	A
-3qxw	A		
 7kbi	C		A | B
 4jm2	D	C	E
 7joo	H	L	C
 2bdn	H	L	A
 5vnw	D		A
 7wd0	a	b	A
-7vsw	J	I	
 7kkk	B		A
 7rkn	D	d	A | B
-6mty	H	L	
 7n4n	D		A
 7qiv	C		B | A
-5cgy	C	D	
 1fe8	J	N	C
 7pg8	X	V	O
 6p3s	A	B	L
 4kht	H	L	A
-5tjd	H	L	
 3dv6	B	A	B
-3o2v	H	L	
-1igi	H	L	
 3gb7	A	B	C
 7ey5	H	L	A
 6b70	C	D	A
@@ -13563,12 +10777,7 @@ pdb	Hchain	Lchain	antigen_chain
 5vaq	B		A
 2ltq	C	B	A
 3dur	D	C	D
-6ea7	Q	R	
-1lil		A	
-4hkb	J	N	
 6n16	K	J	G
-6ic3		C	
-7rth	P	O	
 1k4d	A	B	C
 6m3b	C	B	A
 6vep	U	V	W
@@ -13586,22 +10795,15 @@ pdb	Hchain	Lchain	antigen_chain
 7vmu	A	a	B
 6qtl	E		E
 3bz4	H	G	H
-2uyl	B	A	
-7jhg	N		
 3q3g	H	F	I
-5muh		B	
 7cbp	D	E	K | Q
 6v7z	F		A | B
-5weq	B	A	
 5w9o	E	F	D
 7d00	H	K	A
 6z2m	H	L	E
-2kqn		A	
-6tcp	B	A	
 4lsp	H	L	G
 4fqr	u	v	U
 2jix	D	G	E
-1fh5	H	L	
 5w1m	F	E	Q
 7n4l	H	L	A
 6cue	5	6	2
@@ -13616,73 +10818,53 @@ pdb	Hchain	Lchain	antigen_chain
 2otu	F	E	R
 7dnl	H	L	B | A
 6x96	E	F	C
-5xcx	A	B	
 6jb8	A		B
-6e64	A	B	
 4ywg	I	M	Q
 4rfn	H	L	G
 5eu7	F	D	B
 7rw2	H	L	A
-3r0m	A		
 6h3t	H	L	A
 6njm	L	K	B
-6iyn	A		
-7r9d	N		
 6xbm	S	s	A | B
 7ben	A	B	E
 7qji	C		A
 5f9o	H	L	G
-3u79		H	
 7tpr	G		C
 7p79	H		A
 6xlq	K	L	J
 7rkv	E	F	A
 6hig	H	L	B
 6pbv	B	A	G
-5ir1	D	C	
 2cgr	H	L	H
 1tzg	H	L	P
 1ott	C	D	A
-6tcq	H	L	
 7x6o	C	D	B | A
 4utb	H	L	A
 6p4b	H	L	C
-6mtx	H	L	
-6zqk	D		
 6apb	H	L	C | A
 7e9n	Y	X	C
 7mw3	D	E	A
-4r7n	O	P	
-6o3d	H	L	
 4xwo	E	F	B
 6ban	D	C	N
 7fat	B		A
 6mqr	H	L	A
 6wer	E	F	B
-1fai	H	L	
 1jnh	B	A	B
 6h7m	C		A
-7lvu	C		
 7whk	H		A
 2kh2	B	b	A
 6ssi	F		A
-3qos	H	L	
 5sv3	C		D
 7tyi	N		A | B
 6ddv	B	A	C
 3f58	H	L	P
 7sfw	O	P	E
 5y80	B		A
-1rzi	B	A	
 7k93	G	g	B
-2fjf	B	A	
 7r8o	H	L	B
 3hr5	J	Q	V
 7qbd	E		B | A
-4r7n	M	N	
 6flc	B	A	I
-4k07		A	
-5gz0	B	A	
 7q0h	A	B	E
 1kc5	H	L	P
 7cyp	I	H	C
@@ -13692,9 +10874,7 @@ pdb	Hchain	Lchain	antigen_chain
 4xgz	J	K	j
 4wht	I	J	i
 7si0	C	D	A
-6k2i	A		
 3mlz	H	L	P
-6cjk	D	C	
 6oq5	E		A
 2p49	B		A
 4laj	M		F | G
@@ -13708,54 +10888,37 @@ pdb	Hchain	Lchain	antigen_chain
 7b14	D		A
 7mxd	X	Y	F
 3or7	A	B	C
-4nko	B	A	
 3okn	B	A	A
 6ccb	H	L	G
 5j75	A	a	b
-4p48	A	a	
 3r1g	H	L	B
 6njm	P	O	D
 4jzo	C	F	K
 7rq6	H	L	A
 5h32	K	L	B
-3upc	H		
 7nks	H	L	A
 7b	H	L	C
 3u0t	D	C	E
 7shz	I	J	G
-5k8a	F	E	
-5vm4	E		
 5d9q	N	M	J
-3m8o	H	L	
 5epm	E	F	D
 7kez	H	L	V
-3u4b	H	L	
-3lrh		E	F
 6qb3	X	x	A
-1rzi	L	K	
-7jo8		B	
 6apd	N	O	A
 7vdl	S	s	A | B
 5k59	H	L	A
 7kf0	A	B	C
-7mf7	A	B	
 5e2w	H	L	P
 5wdu	O	P	F
-6xyf	A		
 2otw	D	C	F
 7m30	F	G	C | E
 3cxh	J	K	E
-6sxi	H	L	
 5e2v	H	L	P
-5lmj	D		
 5uz7	N		A | B
 6x1t	E	F	Q
 7ldd	L	l	A
-6ol6	H	L	
-4unt		C	
 2ht2	C	D	A
 4jo1	I	M	Q
-7r9d	H	L	
 6wx2	H	L	F
 6tyb	H	L	G
 7jv6	H	L	A
@@ -13764,12 +10927,10 @@ pdb	Hchain	Lchain	antigen_chain
 4xcy	H	L	H
 3mme	C	D	D
 7mxd	S	U	G
-7jmx	H	L	
 7so9	J	I	F
 6m1i	C		F | E
 5vta	K	J	A
 4nzr	H	L	M
-5t0y	H	L	
 3whe	1	2	H
 4ybq	F	E	A
 5eor	H	L	A
@@ -13777,7 +10938,6 @@ pdb	Hchain	Lchain	antigen_chain
 6w0g	A	B	C
 5uk4	g		G
 4lsv	H	L	G
-1h8s	B	b	
 3qum	D	C	Q
 6axl	D	C	G
 7doh	H	L	I
@@ -13789,56 +10949,40 @@ pdb	Hchain	Lchain	antigen_chain
 6pdx	O	P	C
 7lq7	F	G	E
 7beo	E	F	X
-6k6b		A	B
-6pk8	B	b	
 7eq1	S	s	A | Y | B
 7czu	J	N	C
 2kh2	B	b	A
 5o14	C	D	B
 1fdl	H	L	Y
 6bli	J	K	L
-4gsd	H	L	
 6x5m	H	L	R
 7zwm	I	J	F
 4q5z	M	N	C
 7ul7	E	D	c
 5f7n	C		A
 6vca	P	O	D
-1ngq	H	L	
 6h0e	E	F	J
 7det	B	b	A
 6q1z	D	C	B
 7bpk	H	L	B
 4qyo	A	B	Q
 5d96	J	I	D
-2v7h	B	A	
-4org	E	F	
 7xod	U	V	C
 7p5v	K		E
-5uxq	H	L	
 5uqy	L	K	I | N
 6elu	E	F	D
-7mf7	H	L	
-6btj	H	L	
 7b18	G		B
 4k2u	H	L	A
 4hih	D	C	D
-6rlm	A	B	
 6nm6	D	E	B
-7djy	B		
-3gk8	H	L	
 6qgx	B		A
-6jri	F		
 7cw2	U	T	E | D
 6p95	H	L	c | C
 7aqg	B		A
 7m6f	H	L	A
-3kym	F	E	
 6x9u	H	L	A | B
 5v6m	H	L	P
 7evz	E	e	A | B
-5mp6	P	Q	
-6dbe	A		
 6idl	I	J	E
 2y6s	H	L	Q
 5dtf	H	L	P
@@ -13849,26 +10993,19 @@ pdb	Hchain	Lchain	antigen_chain
 4r4h	H	L	A
 4hg4	Z	z	I
 7qez	H	L	A
-5tdn	B	A	
 3j6a	7		3
-6e9q	G	H	
 7mxp	G	J	B
-1jhk	H	L	
 6ule	C	D	I
 5otj	H	L	C
 4m62	H	L	S
 7d2z	A		B
 7m1h	G		A
-3gje	H	L	
-1cfq	B	A	
 7cwt	E	D	A
-5wb2	D		
 35c8	H	L	L
 7fej	H	L	2 | 1
 4krl	B		A
 2p42	B		A
 4f15	B	C	A
-5m6a		C	
 5mv4	C	D	E
 6xc2	H	L	A
 3moa	H	L	P
@@ -13876,32 +11013,23 @@ pdb	Hchain	Lchain	antigen_chain
 6dfg	H	L	A
 3ob0	H	L	H
 7pr0	H	L	E
-6z1o		F	
-2eh7	H	L	
 6oe5	H	L	A
 7q9i	J	K	C
 7rxp	H	L	A
 6vrh	B	C	A
 5uk4	j		J
-1ieh	A		
 1bj1	K	J	V
 6wty	E	F	D
 7q9g	E	F	B
 5w1m	H	G	S
 5c6t	H	L	A
 6cdo	A	B	C
-4aq1	B		
 7ps7	H	L	R
-3mug	H	G	
-5wl2	A	B	
-1fve	D	C	
 1op3	H	L	H
 4g6m	H	L	A
 5jw3	H	L	B | A
 4zfo	A	B	F
 6wgl	A	B	C
-6ao0	H		
-3cm9	C	N	
 4r4f	H	L	A
 7lde	K	J	D
 7jv6	C	D	B
@@ -13913,17 +11041,13 @@ pdb	Hchain	Lchain	antigen_chain
 7k9j	J	N	C
 2dwd	A	B	C
 7te8	B		D
-6qd6	A		
 6crq	D	E	A
 4hem	G		A
-3qpx	H	L	
 6w0a	A	B	C
-2kqm		A	
 1e4w	H	L	P
 6nfn	P	O	O
 7qn6	K		B
 7msq	H	L	A
-2mcg		2	
 6mn7	I	i	C
 4yhp	C	D	Q
 6phf	C	D	E
@@ -13934,9 +11058,7 @@ pdb	Hchain	Lchain	antigen_chain
 7so7	X	Y	B
 7k61	N	n	G | F | H
 7ly0	H	L	A
-1yc7	A		
 6qfc	B	b	A
-6e8v	E	F	
 4rgo	H	L	S
 7qnc	F		C
 5do2	C	D	B
@@ -13951,36 +11073,22 @@ pdb	Hchain	Lchain	antigen_chain
 7kyo	H	L	B
 6lbh	C	D	B
 1bvk	E	D	F
-5xqy		F	
-6e8v	J	K	
 7c88	H	L	M
-1a8j		L	L
-7kbp	B	b	
 4pir	J		D
-2kqn		B	
 5gux	H	L	B | C
-4unt		D	
-6p9j	A	B	
 6u02	G	F	E
 6woq	G	H	F
-1rzi	J	I	
 6m87	L	K	K
-2aj3	D	C	
 4jdt	H	L	G
 5jop	H	L	B
 6a3w	D	E	F
-2xa8	H	L	
 25c8	H	L	L
 1q1j	I	M	Q
 5w9h	E	F	D
 7l06	D	F	W
-4jdv	H	L	
-4jo4	I	M	
-4lri	C	B	
 5lbs	I	M	B
 7vne	V		C | B
 2kh2	B	b	A
-5bvj	B	A	
 6al5	H	L	A
 5vj6	O	P	A | D
 5kjr	H	L	G
@@ -13989,46 +11097,30 @@ pdb	Hchain	Lchain	antigen_chain
 6ct7	A	B	T
 7czv	I	M	B
 6uig	H	L	G
-4gw1	B	A	
 2kh2	B	b	A
-5b3c		H	
-3nzh	H	L	
-2mkw		A	
-6tcn	H	L	
 7ej8	H	h	A | B
 6hjx	I		D
 6edu	J	K	F | G
 7po5	Z	D	B
 4wht	S	T	s
 6zvf	H	L	P
-4k7p	H	L	
 6ysq	D		B
 6wwc	A	B	C
-6elj	H	L	
-7joo	K		
 7zr9	D	E	C
-4ma3	B	A	
 5ug0	D	C	A
 6cmo	H	L	A | B
 7wd8	E	F	B | A
-5uy3	H	L	
 3ifo	A	B	Q
 7xlt	H	L	B | A
-6ol7	K	J	
 4weu	E		A
-5jo5	E	F	
 7bu8	H	L	A
 6bzv	G	H	L
 4las	H	L	H
 7ckz	N		A | B | G
 5yd3	A	a	B
 7shz	C	D	A
-6n7u	A	B	
 6nbh	N		A | B
 7lm9	H	L	A
-7t0i	B	A	
-7lvu	B		
-5iop	D	C	
 4ioi	B	A	H | E
 7eaj	F	L	1 | 3
 6yx9	H	L	A
@@ -14037,17 +11129,10 @@ pdb	Hchain	Lchain	antigen_chain
 5dhx	L	l	M
 6xjq	C	D	B
 7k5x	M	m	C | B | D
-7rth	i		
-5bzd	D	C	
-1oar	J	N	
-6xul	E	F	
 7d03	H	L	A
-2mkw		A	
 6dfg	G	J	C
 7e8c	a	Z	C
-6mh2	D	C	
 5f96	H	L	G
-4unv		A	
 5sx5	H	L	N
 5b8c	H	G	I
 2ltq	C	B	A
@@ -14055,38 +11140,25 @@ pdb	Hchain	Lchain	antigen_chain
 6wj1	G	I	B | A
 6hjq	K	L	F | E
 7oly	H	L	C
-1ggb	H	L	
-2kqn		A	
 5kov	I	i	G
 7k8t	H	L	C
 6w2b	B	C	A
-6ev2	E	F	
-3mo1	B	A	
 3qa3	K	J	L
-4qlr	B		
-3chn	A	L	
 5vcn	D	C	B
 4u6h	C	D	J
 6fv0	F		A
 3qwo	A	B	C
 3iet	D	C	Q
-4jy4	B	A	
-1i9i	H	L	
-1mak		A	
 7s8m	E	e	B | C
 6iuv	H	L	A
 7s11	H	L	C
 5kzc	B	D	C
 1cbv	H	L	D
 1qfw	H	L	A
-5fv1		M	W
 6uvo	H	L	D
 6o23	C	D	E
-5ukp	H	L	
 4c57	C		A
 4bkl	A	B	E | G | F
-3v0v	H	L	
-5i0z	A		
 1xcq	B	A	P | L
 6ous	M	N	B | A
 7lop	X	Y	Z
@@ -14096,62 +11168,41 @@ pdb	Hchain	Lchain	antigen_chain
 7dpm	G	H	I
 7tn0	B	A	I
 3loh	A	B	E
-3bqu	B	A	
 5a8h	J	I	G
 6udj	D	E	P
-1mak		A	
 7wlc	H	L	E
-5itb	H	L	
 6x3u	J	I	B
 4g80	C	D	J
 7ld1	H	L	B
 6vzi	H	L	G
 2e27	H	L	H
-1c5b	H	L	
 3uc0	H	L	A
 7ksg	F		C
-6qn8	G	I	
-2rhe		A	
 7shu	C	D	A
 4y5x	D	E	F
-2adg	B	A	
 2otu	H	G	S
-2x1o	A		
 6b0e	B	A	E
-3f12	D	C	
 7ebr	E	F	C | A
 7pqz	A	B	E
 7orb	A	B	R
 7klh	I	M	B
 4xp5	H	L	A
-6nis	H	L	
-3u79		E	
 2vdr	H	L	A
-4jfy	H	L	
 7ki6	G	F	E
-6ww2	K		
 4ot1	H	L	A
-2kqm		A	
-1vhp	A		
 7ki4	D	C	B
-1maj		A	
 6y9b	I	M	A
-3q6f	B	A	
 7uap	H	L	A
 4nbx	B		A
-6wgj	A	B	
 4yaq	H	L	L
 1i8m	H	L	T
 4jfx	H	L	P
 6ir2	B		A
-3u79		D	
-6nb5	H	L	
 6pxh	H	L	B
 3eyv	H	L	H
 1mre	H	L	L
 5d72	H	L	A
 3ck0	H	L	P
-6w7y	H	L	
 6c5v	H	L	A | C | B
 1j1p	H	L	Y
 5utf	H	L	G
@@ -14161,31 +11212,22 @@ pdb	Hchain	Lchain	antigen_chain
 5mhr	I	H	B
 2kh2	B	b	A
 6u0l	H	L	A
-4s2s	H	L	
 7rg9	E	e	A | B
 6fzr	H	h	P
 5w5z	H	L	A
-6i1o	H	L	
 5nhr	H	L	C
 4q5z	W	X	H
-7mfb	H	L	
-3chn	C	O	
-1q9k	B	A	
 5e8e	B	A	H
 6gkd	C		A
 7chh	D	E	A
-6dc4	H	L	
 6nmr	H	L	S
 4ubd	O	P	N | Q
-6w73	H	L	
 1v7n	H	L	V
 6k7o	B	C	P
 4nrx	H	L	P
 4rrp	K	E	Q
 1tzh	B	A	W
-3aaz	A	B	
 6ukt	D		A
-3cm9	C	N	
 7sn3	H	L	C
 7x7e	E		F
 5j13	C	B	A
@@ -14194,56 +11236,38 @@ pdb	Hchain	Lchain	antigen_chain
 2ykl	H	L	H
 7anq	B		A
 5n7w	H	L	X
-7rtp		B	B
 6zbp	F		E
 6nc3	O	T	I | C
 4x7f	C		A
-3qxw	D		
 4wgv	D		C
 7qn9	M		D
-2kqm		A	
 1kfa	I	M	I
 7dfb	H	L	A | V
 6mhg	M	W	E
 6u0l	P	Q	C
 7sd5	H	L	A
-1for	H	L	
 2dqh	H	L	Y
 3uzv	B	b	A
 7jjo	N		A | B
 6mft	H	L	G
-2g75	C	D	
 6nc3	P	U	J | D
-6z3k	A	B	
 5mu2	G	H	S
 7jvq	N		A | B | G
-7kqy	A		
 7k8t	M	N	B
 7beo	A	B	R
 7l2e	I	K	C
 4hs6	B	A	Z
 3rhw	G	K	C
 7kkl	F		D
-5wb1	A		
-1vhp	A		
 4kjp	C	D	A
-5t1k	B	A	
-6ikm	A	a	
 7lbg	F	E	A
-3qpq	J	I	
-4odu	A	B	
-4j1u	B	A	
 7oap	A		E
 2r1x	B	A	B
-7l79	A	B	
 4hix	H	L	A
 2ltq	F	E	D
 3whe	Y	Z	G
 7m7e	C	D	A | B
 7eo0	H	L	3
-6u8c	H	L	
-1oau		O	
-1yeh	H	L	
 2b1a	H	L	P
 6fxn	M	N	J
 4lqf	H	L	A
@@ -14251,51 +11275,33 @@ pdb	Hchain	Lchain	antigen_chain
 6chb	Q	R	H
 4qnp	H	L	B
 7qbe	F		C
-1rup	H	L	
 6pe8	A	B	U
-6ev2	G	H	
 5xbm	E	D	F
 7m1h	C		A
-1kcu	H	L	
 4tnv	X	i	S
-2mmx		A	
 4xcy	A	B	A
 6z20	D		C
 6njl	N	M	B
-2mkw		A	
 6b0s	H	L	C
 6utk	H	L	G
 7bb7	G		E | C | F
-3u6r	A	B	
-6w51	Q	R	
 3bsz	N	M	E
 5fgb	C	A	F
 5w1k	Q	M	R
 7nfq	D		B
 5wdu	M	N	J
 6x1t	A	B	N
-7t0k	B	A	
 7kn5	E		A
 6mu8	D	E	B
-4hfw	H	L	
-4kmt	H	L	
 6iea	H	L	A
-6d9g	C	D	
 6ppg	B	A	G
 6vn1	I	M	B
-4pb0	H	L	
-4nhg	E	G	
 7lcn	M	S	K
 1oak	H	L	A
-1p4i	H	L	
 4lou	E	F	B
 6k68	J	K	L
-1maj		A	
 1v7m	I	M	X
-6vuo	A	a	
 3nig	H	L	A | D
-5opy	H	L	
-4wcy	H	L	
 2h32	H	A	B
 7mnm	K	M	B
 4xpf	H	L	A
@@ -14304,34 +11310,23 @@ pdb	Hchain	Lchain	antigen_chain
 3csy	C	D	N | M
 5tlk	H	G	Y
 1jtp	A		L
-1r70	D	C	
 4ojf	H	L	A
 2ltq	F	E	D
 5jsa	A	B	C
 3pnw	E	D	F
-3juy	E	e	
 1i9r	H	L	A
-3et9	F	f	
-2dlf	H	L	
 1ct8	B	A	D
-3mbx	H	L	
-3chn	C	O	
 6mph	g	i	B
-1ruq	H	L	
 7zmn	C		A
 3ze2	H	L	C
 6mlk	H	L	A
 1jgu	H	L	H
 7wsi	H	L	A
-7bg1	H	L	
-3cdy		B	
-7lsi	B	D	
 7qia	C		A
 1h8s	A	a	a
 7kqh	C	D	A
 7ew5	N	O	J
 5h37	G	H	A
-2w0k		B	
 6ieq	H	L	G
 7qn5	G		D
 6mw9	G	H	F
@@ -14341,18 +11336,12 @@ pdb	Hchain	Lchain	antigen_chain
 6d11	C	D	E
 5hvf	B		A
 7l6v	F		A
-3chn	D	N	
 2kh2	B	b	A
 5ken	N	O	M
 4why	K	L	C
-1plg	H	L	
 6f7t	B	A	D
-7tus	A	B	
-7o85		H	G | I
 5f3h	A	B	J
 6j71	B	b	A
-3cdy		A	
-1g9e	A		
 6dzz	B	C	A
 4nrx	A	B	C
 5uk1	G	g	A
@@ -14364,18 +11353,14 @@ pdb	Hchain	Lchain	antigen_chain
 7pi2	B	C	A
 7zmq	K		A
 7ndb	H	L	B
-6qn8	A	B	
 6knm	A		B
 7nk4	F		A
 6opa	K	J	G
 6o28	A	B	E
-3cm9	C	N	
-6l98		A	
 7te8	A		C
 5mu2	E	F	R
 7n0i	I		A | B
 6usf	K	M	A
-6mxs	H	L	
 7rga	A		A
 6dzl	G	J	E | A
 6vl9	H	L	H
@@ -14383,18 +11368,12 @@ pdb	Hchain	Lchain	antigen_chain
 7d0c	H	L	A
 1tzh	H	L	V
 6e3h	H	L	B | A
-4u7s	A		
 1n6q	H	L	B
 4zso	B	A	E
-7k8q	H	L	
-3cfj	F	E	
 6n51	C		A
-4r96	F	E	
-4fqq	F	E	
 7nxb	A	B	E
 7lpn	H		G
 2ht4	E	F	B
-2gjj	b	B	
 5npj	B	b	E
 5ivn	A		B
 6xc4	X	Y	Z
@@ -14402,7 +11381,6 @@ pdb	Hchain	Lchain	antigen_chain
 7jtr	F	f	E
 2i60	R	Q	P
 6ibl	D		B
-2g60	H	L	
 7e9n	P	O	B
 7s8p	E	e	B | C
 7q6e	J	K	C
@@ -14412,17 +11390,12 @@ pdb	Hchain	Lchain	antigen_chain
 7mlv	G	J	B
 7k43	H	L	A
 7lex	Q	O	N
-1vhp	A		
-4org	H	L	
 6ln2	C	B	A
 2fl5	D	C	D
 6ba5	D	C	N
-4yhl	H	L	
 6yla	B	C	A
 6snd	B	A	C
 4bh7	B	A	P
-4g5z	H	L	
-5wca	H	L	
 6wit	A	B	C
 7kc1	J	K	I | G
 7f35	D	C	C
@@ -14434,31 +11407,21 @@ pdb	Hchain	Lchain	antigen_chain
 7nx3	B	C	F
 7b18	F		B
 5l6y	H	L	C
-5bk0	D	C	
-6a0x	A	B	
 7phu	D	E	A
 6ii4	H	L	A
-6z3k	M	N	
-1rum	H	L	
 6mwv	G	H	F
 6me1	C	D	E
 2p45	B		A
 5if0	H	L	G
-6dwi	B	A	
 7sfw	M	N	B
 7qf0	H	L	A
 6mqc	H	L	C
 7tbf	D	E	A
 4ogy	M	N	B
-2cd0		B	
 7w57	E	e	A | B
 7z1b	E		C
-1maj		A	
-6z3k	C	D	
 7k9z	B	A	E
 1u95	B	A	C
-5t1m	D	C	
-1jvk		B	
 3bz4	D	C	D
 6qig	H	L	A
 1rvf	H	L	1 | 3
@@ -14480,24 +11443,9 @@ pdb	Hchain	Lchain	antigen_chain
 6s3d	H	L	P
 1fig	H	L	H
 5cjx	H	L	B | G
-5i66	A	B	
-5nyx	H	L	
 5dlm	H	L	X
-2bx5		E	
 3ze1	H	L	A | D
-3u7a		A	
-1bvl	C	D	
-7rku	H	L	
 7k65	B		A
-7n3e	H	L	
-4hjj		L	
-7aql	D	d	
-4aj0		B	
-7lmq		A	A
-4lly	A	B	
-7kbp	A	a	
-3bkm	H	L	
-4ppt	A		
 4kro	D	C	A
 4jre	B	C	A
 5t3x	D	E	G
@@ -14506,52 +11454,30 @@ pdb	Hchain	Lchain	antigen_chain
 5jmo	D		B
 7a6c	C	B	A
 5udd	J	P	A
-6x5e	B	A	
-3iy0	H	L	
-4l1h		A	
-4m6o	H	L	
 2vyr	J		A
 6bf9	C	D	A
 5ugy	J	N	E
 7n65	G	H	E
 4xgz	H	L	h
 7d68	N		A | B
-5xp1		A	
 3zkn	C	D	B
 5imo	B		A
-5dub	A	B	
 6mtt	H	L	P
 7qn7	F		C
 7eow	B		A
-1bbd	H	L	
 6uyf	H	L	E
 5vta	H	L	D
-7ah1	A	a	
-7u0c	C	D	
 7kzz	D	C	A
-2qtj	C	O	
 7nfq	C		A
-5esq	D	C	
-5gkr	C	D	
-3if1	B	A	
 4fp8	H	L	A
 6q6z	B		A
-3nn8	C	F	
 1nd0	H	G	G
 7lop	H	L	A
-4xbp	A	B	
 4xgz	W	X	w
-5xaj	H	L	
 6sc9	B		A
 6w0f	A	B	C
 6m3c	F	E	C
 6axl	A	B	I
-1yc8	A		
-4otx	H	L	
-7km6	h	l	
-4zyk	A	B	
-4lly	C	D	
-2kqm		B	
 3cfi	C		B
 7fjn	H	L	B
 7v2a	I	H	C
@@ -14564,31 +11490,21 @@ pdb	Hchain	Lchain	antigen_chain
 6x3w	K	L	D
 6xcn	B	D	A
 6x98	K	J	G
-7r63	D		
 6hjx	F		A
 5hys	H	L	I
 6xsw	G	I	J
-6oc8	B		
-1cl7	H	L	
 6x1t	J	K	P
 6pzz	H	L	A
 6y9b	H	L	C
 6vyv	L	P	H
-2rcj	E	H	
 7s7r	B		A
-6k2i	A		
-5vzr	H	L	
-3qxw	E		
 7shz	K	L	H
 6s5a	H	L	D | A
 7p60	I		F
 7l09	M	K	A
-7t0j	B	A	
-6ikm	N	n	
 7f35	B	A	A
 1otu	C	D	A
 2zuq	F	E	D
-6rnn	D	C	
 7lq7	C	D	B
 7c2l	I	M	B
 7aqy	C		B
@@ -14598,19 +11514,13 @@ pdb	Hchain	Lchain	antigen_chain
 1xf5	D	C	Q
 6o2b	H	I	K
 5cjo	H	L	A
-2mkw		A	
 6itc	C		G | A
-4x80	H	L	
 6ztr	A	B	J
 7sp8	C		A
 6vbq	A	B	I
-5m14	D		
-6c5i	H	L	
 1ua6	H	L	Y
 2dwe	A	B	C
 2kh2	B	b	A
-5yup	H	L	
-1ivl		B	
 6itq	A		A
 6osy	M	N	K
 7kgv	D	F	A
@@ -14619,46 +11529,31 @@ pdb	Hchain	Lchain	antigen_chain
 6h0e	H	L	I
 7w56	E	e	A | B
 4kk9	E	F	B
-4o5l	H	L	
 4yxl	H	L	A
 4n9g	E	F	D
 4f37	H	L	A
-6xux	A		
 3mnz	B	A	P
 6x87	K	L	X
 7tyw	N		A | B
 1ott	E	F	B
 7f5h	C		A
-5gs1	G	g	
-7lmp		B	B
 5ngv	H	L	A
 7p14	B		A
 3o41	H	L	P
-5kg9	H	L	
 7cbp	R	S	N
-4qhn	A	B	
 1ri8	A		B
-12e8	P	M	
 7a0v	D		C
 5kov	E	e	B
-2vyr	L		
 6b5p	H	L	A
-4amk	H	L	
 5h35	F	G	E
 3egs	B	A	C
 6hx4	I	M	A
 6c6y	A	B	S
-5mhs	N	G	
-5d7s	H	L	
-5tpp	H	L	
-6u8c	D	C	
 5wb9	H	L	G
 6lnt	H	L	A | D
-2qtj	D	N	
 7mw6	H	L	C
 7cn2	H	L	D
 3v4v	M	N	D | C
-3inu	H	L	
 7bue	H	L	A
 5mzv	D		A
 6vlr	C	L	A
@@ -14674,41 +11569,25 @@ pdb	Hchain	Lchain	antigen_chain
 7kde	J	I	F
 6pv7	H	I	A | B
 6j11	H	L	A
-4hxb	H	L	
 6cue	m	n	c
 6vmk	B	A	C
-5th2	D	C	
-3chn	D	N	
 5boz	H		B
-6n32	K	M	
 6vyh	D	C	A
-7o85		E	D | F
 3qa3	H	F	I
 7lr3	A	B	C
 6ssp	K		A | C | B | E | D
 5hj3	I	J	D | C
-4nyl	A	B	
 7rq6	D	E	B
 5cus	H	L	A
 6orp	H	L	G
-5f7e	H	L	
-1nlb	H	L	
 7rga	G		G
 4ybl	H	L	G
 6pe9	C	D	G
-1aqk	H	L	
-6hd9	A		
 3fmg	H	L	A
 3iga	A	B	C
 6b9j	A	B	Y
-5lmj	A		
-4nrz	A	B	
-3bdx		A	
 6ion	H	L	A
-5uxq	A	B	
 6crq	I	K	B
-6qn9	H	L	
-6bi0	I	M	
 6nb4	H	L	A
 6d01	A	B	I
 3drq	B	A	C
@@ -14718,16 +11597,13 @@ pdb	Hchain	Lchain	antigen_chain
 7rku	G	I	A | D
 6iek	E	F	D
 6bzv	A	B	I
-5acl		A	A
 7wly	P	O	B
 7pi3	I	J	H
-7v0v	A		
 7eak	F	L	A | C
 5vjq	E	F	K
 2yc1	A	B	C
 7ahv	A	B	H
 4wht	M	N	m
-4d9l	K	O	
 6s0y	A		C
 4o51	H	L	M
 7qf1	E	D	F
@@ -14740,18 +11616,15 @@ pdb	Hchain	Lchain	antigen_chain
 1clz	H	L	H
 2r2b	B	A	B
 7cws	I	H	O
-1pg7	H	L	
 5h37	I	M	C
 7a65	C	B	A
 7ey0	H	L	R
 3ijs	B	A	A
-1uyw	M	N	
 7t4r	J	I	B
 7nfd	F	E	A
 7kc1	E	F	D | C
 3cfi	F		E
 4y5v	G	H	I
-1ap2	B	A	
 5kzc	E	G	F
 7q9k	D	E	B
 3l95	B	A	X
@@ -14759,47 +11632,34 @@ pdb	Hchain	Lchain	antigen_chain
 7a3n	H	L	A
 7dk7	c	d	B
 7l1v	S		R
-7rth	k		
 4ut9	I	M	B
 3lh2	J	N	U
 6mwc	K	L	J
 7e7e	C	D	B
 7eng	H	L	B
 6fn1	C	B	A
-3cm9	D	O	
 7nez	D	C	B
 4tsc	H	L	A
 6pcu	F	E	D
-4kaq	H	L	
 6qd7	H	L	D | C
 4hgw	B	A	B
 6v8z	D	E	A
-7sn1	H	L	
 1ejo	H	L	P
 3eob	B	A	J
 2kh2	B	b	A
-5gs1	K	k	
-4x4x	C	D	
 7e53	B		A
 6ohg	C	B	A
 6mb3	A	K	E
 6mug	D	E	B
 7qn6	L		C
-1za6	D	C	
-6hud		D	
 5y9f	T	S	E
-1rzi	N	M	
 5dyo	A	B	H
-7nfa	C	A	
 4bfb	D		A
-6wgk	E	F	
 1nd0	D	C	C
 7dr4	H	L	K
 7piu	N		A | B
 3uze	A	a	C
-4r7d	G	H	
 6wzj	A	B	E
-5ud9	H	L	
 1yyl	H	L	G
 3wif	A	B	A
 6hjx	J		E
@@ -14807,20 +11667,15 @@ pdb	Hchain	Lchain	antigen_chain
 7tm0	J	K	B
 7lo8	H	L	Z
 4i18	A	B	R
-6uga	B	A	
 7zf4	H	L	E
 4xmk	I	M	Q
-4ocr	H	L	
-3uls	H	L	
 7nx0	E		B
 7nd7	F	G	B
-6qb9	X	x	
 6hco	F	E	A
 3skj	H	L	E
 6lyn	H	L	D
 6pzy	G	J	B
 6m1h	C		F | E
-6dg2	C	D	
 4kjw	E	F	B
 5w1m	B	A	R
 7seg	A	B	D
@@ -14829,15 +11684,11 @@ pdb	Hchain	Lchain	antigen_chain
 5mv4	U	V	W
 3b2u	C	D	B
 7n0i	J		C | D
-1wcb	H	L	
 4d9r	E	D	B
-4m7z	B	C	
 7ws3	G	F	B
 7ws6	I	H	C
-5mx3	H	L	
 6vgr	C	D	A
 4hg4	T	U	F | c
-2kqm		B	
 2ht2	E	F	B
 7phg	H	L	A
 7s0b	A	B	F
@@ -14845,57 +11696,32 @@ pdb	Hchain	Lchain	antigen_chain
 7dw9	N		A | B
 7u8m	N	O	C
 6x06	K		A
-6e8v	O	P	
 3c6s	B	A	B
 4qxu	H	L	K
-2kqn		A	
-7lmn		B	A
-3mlt	E	D	
-1shm	A		
 5wob	W	X	H
 4rgn	H	L	S
 3fb7	A	B	C
-7kzc	C	D	
 5fhx	H		A
-4qhl	C	D	
-5hpm	B	A	
-2kqn		B	
-1seq	H	L	
 3u4e	H	L	G
-4x7t	A	B	
-6p67	H	L	
 1wej	H	L	F
-6wx1	H	L	
 6kpg	S	s	A | B
 5y11	A	B	C
 7vdh	S	s	A | B
 7a50	C		D
-7lmq		B	A
-1mcd		A	P
 3ikc	D	C	C
 1cfn	B	A	C
 7n0r	C		A
 5ovw	L		F
 4n90	D	E	R | A
 6j6y	E	F	D
-4r96	H	L	
 4zyp	D	E	C
 3u2s	H	L	G
 6bkd	H	L	E
-6okq	A	B	
 5t78	D	C	E
-7mf9	M	N	
 6osy	8	7	2
 6lra	H	L	C
-6ca9	B	A	
-6qn8	J	K	
-7kqy	D		
 5mu2	M	N	V
-4z95	H	L	
 5oca	H	L	B | A
-3p0v	I	M	
-43c9	B	A	
-3chn	C	O	
 7eam	C	D	B
 7rr0	B	C	A
 6o42	B	A	I
@@ -14905,8 +11731,6 @@ pdb	Hchain	Lchain	antigen_chain
 7cx3	N		A | B
 7l2c	C	D	B
 2r2e	B	A	A
-6vrp	B	b	
-2mkw		A	
 7e3c	B	C	A
 7k4n	F	G	E
 4lsr	H	L	G
@@ -14916,39 +11740,27 @@ pdb	Hchain	Lchain	antigen_chain
 7kej	G	J	A
 7lde	I	i	C
 7dzy	M	N	C
-5tp3	B		
 7e5y	H	L	R
 4cni	A	B	D
 6osh	H	L	K
 5ojm	L		B
 4jb9	H	L	G
 7wly	Y	X	C
-6wj0	H	L	
-1iqw	H	L	
 4yga	D		C
 5w0k	H	L	A
 6z7z	B	A	H | G
-6my5	H	L	
 5owp	H	h	D
 7k7i	J	K	B
 4jzo	D	E	I
 7ey4	H	L	R | N
-6pk8	A	a	
-5n2k	B	A	
 6ww5	C	D	B
 7so9	H	G	F
 5f7k	C		A
 4rav	C	D	F
 5b71	B	A	E
-2fjf	T	S	
 4gqp	h	H	H
 7jwg	A	B	E
-7lmn		A	A
 4k4m	I	M	B
-3cm9	D	O	
-5mtl		B	
-4r7d	A	B	
-5gs3	A	a	
 3j42	I	J	D
 7dk5	a	b	A
 1mvu	B	A	P
@@ -14957,26 +11769,18 @@ pdb	Hchain	Lchain	antigen_chain
 6h6y	F		B
 7omm	D		A
 2ltq	C	B	A
-5wkz	H	L	
-6xud	H	L	
 7ly9	A	M	K
 7l58	H	L	B
-5jue	H	L	
-5id1	D	C	
 2uzi	H	L	R
 6o3u	D	C	D
 5dsc	H	L	N
 2xwt	A	B	C
 6db6	H	L	P
 4hpy	H	L	P
-1a6t	D	C	
-7php	H	L	
 6yio	H	L	B
 7beo	C	D	X
 4tnv	V	Z	R
 7e3o	H	L	R
-6vpy	A	B	
-6ute	E	F	
 5bk1	C	D	B
 5w9n	B	C	A
 6lml	D	d	A | B
@@ -14986,113 +11790,70 @@ pdb	Hchain	Lchain	antigen_chain
 6hug	G		A | E
 3i50	H	L	E
 7lf0	R	P	M
-6pzg	H	L	
 6rpj	H		G
-1oax		M	
 7ch5	H	L	R
 4eig	B		A
-2kqn		A	
 7ul4	D		A
 7q0g	A	B	E
-3chn	B	M	
 7zfb	H	L	E
-4at6	E	F	
-5f88	D	C	
 5nuz	A	B	C
 2fec	J	O	A
-6mg4		B	
 6qfa	M		D
 6mnr	H	L	P
 1kxq	E		D
 5j3d	A	B	F | E
-3cm9	B	M	
 6fxn	Q	R	K
 6n1w	3	4	A
-3utz	F	E	
 7pi3	D	E	A
 7ul7	G	F	b
 6nc3	S	X	N | G
-1n4x	I	M	
-6ugu	H	L	
-3dwt	A		
 6gjs	B		A
 6yz5	F		E
 4r8w	H	L	B | A
-5y9k	H	L	
 6ug9	J	K	K
 5kan	J	K	F | A
 7lkb	B	C	D
-6au5	B	A	
 6vjt	H	L	P
 7bbj	H	L	A
 7swn	H	L	A
-1mak		A	
-5h2b	A	B	
 5iq9	A	B	C
 7mw4	H	L	C
-3upc	F		
 7dge	D		B
 3det	E	F	B
 1y18	H	L	H
-2qtj	B	M	
 7mw4	D	E	A
 6cuf	5	6	2
-5ysl	A	B	
-7omt	A		
 6n5b	H	L	B
-4unt		A	
-7uel	H	L	
 7n8h	J	I	F
-5b3c		D	
-5vsh	H	L	
 2brr	Y	X	P
-6fys	A		
 7k8s	M	N	C
 6her	B		A
 2y6s	D	C	P
-5w24	H	L	
 1mfe	H	L	H
 7wi0	H	L	A
 7q	N		E | D
-6ayn	D	C	
 7r87	C	D	B | A
-2f19	H	L	
 6c9w	B		A
 7cn2	K	k	C
-2xa3	A		
 7f16	N		A | B
-1vhp	A		
 7kd6	C	D	E
-5grx	H	h	
-1rz7	H	L	
 6lxj	J	K	C
 7t01	H	L	A
 2r69	H	L	A
-6cwk	A		
-3q6g	H	L	
-6xul	A	B	
 6xjy	H	L	A
-6e8v	H	L	
 7phv	B	C	A
 5utz	B	C	A
-6wgk	G	H	
 7k37	H	G	A | B
 6n16	C	D	I
-5gry	G	g	
-5xp1		D	
 7mfg	H	L	B | A
 2ny2	D	C	A
-6k67		A	B
 2wzp	E		A
 3lex	A	B	C
-2omn		A	
 4xp1	H	L	A
 4dk3	B		D
 4tnv	F	N	B
 2r0k	H	L	A
 7tuz	E	e	A | B
-7eq3	A	a	
-6srx	H	L	
 6wtv	K	L	J
 6cwd	E	e	F
 6njl	K	J	D
@@ -15106,79 +11867,56 @@ pdb	Hchain	Lchain	antigen_chain
 4hf5	H	L	A
 7b09	H	L	A
 7k9i	H	L	A
-5lmj	C		
 7m8j	H	L	A
-2uyl	N	M	
 7lf2	O	M	R
 5d71	H	L	A
 6veq	C	D	E
 7m7g	E	F	A
 7so9	O	N	K
 7k75	I	J	F
-2xkn	B	A	
 4ocn	F		E | D
-4fqq	D	C	
 4fqj	H	L	A
 7kn5	D		B
 4zpt	A	B	R
-6ev1	E	F	
 6b5l	H	L	A
-6wyr	I	M	
-2kqm		A	
 1qgc	A	4	5 | 1 | 3
-5i1d	H	L	
 6tnp	H	L	H
 6ulc	H	L	A | E
 5viy	M	N	A
 5u3l	A	B	C
-1a7p	H	L	
 4ma8	H	L	C
 7kpj	C	D	F
-6u14	A		
-7mf9	Q	R	
 6woz	B	C	A
 6e56	G	I	D
 7mnm	H	L	A
 6uqr	A	a	B
 7kqe	I	N	B
-4oaw	D	C	
 4xtr	E	F	A
 6cwd	A	a	C
 4kkl	C	D	A
 4u1g	B	C	A
 6bt3	D	C	M
-4q2z	A	B	
 7o3b	B		H
 5yd3	E	e	F
 6al0	H	L	A
-3j2y	B	A	
 6v8z	J	K	G
 7zmp	K		B
-1maj		A	
 7cz0	H		D
-6o89		L	
 5ezo	H	L	A
-3cm9	A	L	
 5th9	H	L	A
 5lwf	C		A
 1cfv	H	L	H
 6pci	J	M	C
-5y2k	C	D	
 7oay	H		G
 2ltq	F	E	D
 6vbp	H	L	G
 4jzo	A	B	J
 7nqa	D		A
-7vsw	F	E	
 7keo	A	B	D | C
-6srv	I	M	
 1dee	D	C	G
 7z1c	B		A
 5k9q	X	Y	R
 6dc3	H	L	F
-3chn	C	O	
-1eeq		A	
-1a7q	H	L	
 4wfg	E	D	A
 6obc	B		A
 7u0d	O	P	B
@@ -15186,57 +11924,38 @@ pdb	Hchain	Lchain	antigen_chain
 6cnv	H	L	B
 6vbg	D		B
 7zfe	Y		C
-6ikm	F	f	
-5u4r	A	B	
 5usf	C		B
 6hjp	G	H	B | A
 3k2u	H	L	A
-3v0v	A	B	
-4dn3	H	L	
 3a67	H	L	Y
-3t0x		B	A
 6x1s	A	B	K
 6gv1	H	L	A
 2b2x	I	M	B
-5fhx		L	
 2vit	B	A	C
 7buf	H	L	A
-5y2k	A	B	
-4ncc	2	1	
 7lki	A	B	C
 7s0d	M	N	A
 5mp5	H	L	J
 1fpt	H	L	P
 6vkn	I	K	D | B
 2ih3	A	B	C
-2z91	A	B	
 6p7h	A	B	C
 7k3b	J	I	C | D
 5gjt	H	L	B | A
 6bpe	B	C	A
-4x8j	A	B	
-4k3e	H	L	
 6nf2	V	U	Q
 2p4a	B		A
 4z5r	Q	P	G
 1n5y	H	L	B
 6rpj	F		E
-6kdh	H	L	
 3zdy	E	F	C
 7kmg	D	E	F
-7oo2	A	B	
-1qac		A	
-1bre		E	
 6njn	O	N	D
 5kn5	A	B	C
 5eoc	H	L	P
-1f2x	K		
 3hnv	H	L	H
-2kqn		A	
 7dv4	F		E
 4p3d	A	B	C
-6pe9	A	B	
-7n3f	H	L	
 7dfl	C	c	A | B
 6orq	J	K	I
 7wv9	S	s	A | C | B
@@ -15246,11 +11965,8 @@ pdb	Hchain	Lchain	antigen_chain
 6elu	B	C	A
 4hs8	H	L	A
 7z1a	F		A
-4n1e		G	L
 4j4p	C	D	B
-5t0y	I	G	
 3b9k	H	L	B
-4nug	H	L	
 5ikc	B	A	M
 6p60	C	D	F
 6ysq	C		A
@@ -15259,35 +11975,23 @@ pdb	Hchain	Lchain	antigen_chain
 4odt	H	L	H
 5wko	I	J	R | O
 5tkk	H	L	A
-4lri	P	A	
-1e6o	H	L	
 6oq8	D		A
 1fsk	C	B	A
-5cd3	E	F	
-1rur	H	L	
-7lyv	E	F	
 4xgz	Q	R	q
 2ajy	H	L	L
 7mw2	H	L	C
 5jz7	G	I	F
 2iff	H	L	Y
-7r20	B		
 7ekk	H	L	P
 1yym	R	Q	P
 7e5r	X	S	C
-5jor	H	L	
 4fqv	I	M	F | E
 7cvs	E	F	B
 6qfa	O		A
-3cfj	D	C	
 1hys	D	C	B
-6tkc	H	L	
-6dbd	D		
 4xmn	H	L	E
-1mcj		B	P
 7pbd	F		C | B
 6vmk	f	e	g
-4nrx	D	E	
 7x6l	I	K	B | D
 7a29	F		C
 5x08	H	L	P
@@ -15298,7 +12002,6 @@ pdb	Hchain	Lchain	antigen_chain
 7k9h	I	M	C
 6oe5	B	C	A
 7tow	A	B	D
-4osu	H	L	
 7p77	W		B
 6x4t	D	F	A
 4wy7	H	L	P
@@ -15311,22 +12014,11 @@ pdb	Hchain	Lchain	antigen_chain
 4cau	E	e	A
 3jwd	H	L	A
 4xxd	B	A	C
-3zhd	A		
 3nif	H	L	A | D
-5n2k	H	G	
-4uim	E	F	
 7v26	a	b	A
 6mnq	H	L	P
-4jam	A	B	
-1iga	B	D	
 4hs6	H	L	Y
 5dhy	A	B	C
-5xqy		A	
-3j30	B	A	
-4x4x	A	B	
-5sv4	A		
-6pk8	C	c	
-7eh3	A		
 6t3j	F	G	J
 2a6d	B	A	P
 3zkx	B		A
@@ -15339,16 +12031,12 @@ pdb	Hchain	Lchain	antigen_chain
 6fy0	H	L	P
 6ye3	G	H	I
 4q6i	E	D	J
-6cnr	H	L	
 5vl2	A		A
-2fgw	H	L	
 4w6w	B		A
 4wem	B		A
 7n65	K	L	I
 7web	G	I	D
-5vzr	A	B	
 5vjo	C	D	F
-4otx	I	M	
 7wd9	G	H	C
 6bt3	H	G	K | J
 1ehl	H	L	A
@@ -15357,17 +12045,14 @@ pdb	Hchain	Lchain	antigen_chain
 7lf1	G	I	A
 7mm0	H	L	A
 7sht	J	K	D
-3chn	D	N	
 7swd	G	g	F
 7d3l	H	L	2
-6psc	B	b	
 5ocx	H	L	A
 5d9q	I	i	A
 4tvs	b		B
 1op5	H	L	L
 7lab	H	L	C
 3u9p	K	M	C
-7bnw	C		
 7m30	H	L	B
 7ws1	I	H	C
 6hhu	G		A
@@ -15376,47 +12061,34 @@ pdb	Hchain	Lchain	antigen_chain
 5w5x	H	L	A
 4mhj	F	E	C
 7pry	H	L	E
-6xxn	G		
 6zhd	E		C
 3g6d	H	L	A
 7df9	H	L	A | V
 7l0l	H	L	B | A
 7lg6	C	D	A | I
-5kmv	H	L	
 7mej	A		R
 6tej	C		B
 7tht	d	b	V
 4tvp	H	L	G
 6o23	A	B	E
-1b2w	H	L	
 7om4	B		A
 6wj1	H	L	F | E
-6ghg	H	L	
-6iyn	A		
 5ja8	F		E
-7kqy	C		
 7lzp	E		D
 4ong	H	L	P
 6o9i	D	E	C
 3l95	H	L	Y
-2rcj	M	P	
 4ckd	I	M	D
 3vw3	H	L	A | B | A
 7k8v	H	L	A | B
-6c6x	C	D	
-6fys	D		
 7lkb	H	L	A
 7kex	I	L	C
-5ocl	B		
 6mhr	D	E	F
-7t0k	D	C	
 4fqr	o	p	O
 7d85	B	C	A
 7lj5	E	D	A
 5uk4	t		T
-4f58	H	L	
 4ej1	C		B
-4at6	A	B	
 7ws7	G	F	B
 7lf0	K	L	N
 1w72	H	L	A | C
@@ -15424,20 +12096,11 @@ pdb	Hchain	Lchain	antigen_chain
 7mjl	H	L	A
 7ezh	H	h	A | B
 2kh2	B	b	A
-1oar	H	L	
 7l6v	B		A
 4grw	G		B
 1c5c	H	L	L
-2kqn		A	
-6rbb	H		
-4b5e	A		
 7rxc	N		K
-1sjx	A		
-4w2p	A		
 6rtw	B		A
-5wcc	H	L	
-6ru3	C		
-6hud		C	
 5kel	J	N	E
 6dwi	L	K	L
 6um7	F	G	E
@@ -15448,93 +12111,59 @@ pdb	Hchain	Lchain	antigen_chain
 3b2v	H	L	A
 5lqb	H	L	A
 4dgy	H	L	A
-1jnl	H	L	
 6njl	L	l	A
 7k8x	D	F	B | C
 7qny	A	B	E
 7s6l	H	L	A
-5fcs	L	l	
 6oel	H	L	B | C
 2exy	C	D	A
 5gs2	H	h	A
 6nmu	H	L	S
 3v6z	C	D	E
-1zlw	H	L	
 7ahu	H	L	C | D
 6x87	G	H	X
 7ejk	H	h	A | B
 4yhz	H	L	P
 5o0w	E		A
-5b4m	C	D	
 6xpq	B	C	A
-3wii	I	M	
 6xuk	H	L	A
-3v6f	A	B	
-7f07	C		
 6cyf	U	T	Q
 3gjf	M	K	D | F
-6qd6	J		
 7ns6	G		L
 2kh2	B	b	A
 7r8n	O	P	B
-5vm4	B		
-6rco	C	D	
-2kqm		B	
 4laj	I		B | C
 6mf7	H	L	A
-5ezl	H	L	
 5f1o	B		A
 3k81	A		D
 2kh2	B	b	A
-3w9d	C	D	
 7ew2	S	s	A | C | B
-3chn	D	N	
 4cad	B	A	C
 4lf3	B	A	C
 4krp	D	C	A
-7kx4	D	A	
 6vkn	G	J	C | F
 4ocl	C		B | A
 6ss6	J	N	C
 6x1a	N		A | B
-1mco	H	L	
 6ad7	E	F	B
-5l6q		A	
 7ly2	M	K	J
 5w08	G	H	A
-4n1e		H	L
-4r4b	D	C	
 6n4y	G		D
 7uem	D	C	B
-2x1p	C		
 2hrp	H	L	P
-2xxc	B		
-4nwu	H	L	
-2qtj	D	N	
-6oc8	D		
-2cd0		A	
 3tt1	H	L	B
 5hm1	B		E
-4m6m	H	L	
 1kno	B	A	B
 1igj	B	A	B
-1efq		A	
-7t0i	H	L	
 3v4p	M	N	D | C
 6v6w	A	B	K
 4nja	H	L	H
 4jg1	H	L	P
-1mcr		B	P
 5m2i	H		A
-1g9e	A		
 7dkj	G	H	E
-6ev1	G	H	
 7lu9	p	o	P
 6phb	B	A	E
-5mtl		C	
-3tcl	A	B	
 2kh2	B	b	A
-5tgb	H	L	
 4xxd	E	D	F
 4hzl	H	L	E
 6eti	D	C	B
@@ -15549,52 +12178,40 @@ pdb	Hchain	Lchain	antigen_chain
 6war	P		O
 7b2p	D		B | A
 5ip4	B		D
-6amj	B	A	
 7arn	H	L	B
 7whk	G		A
-1mrc	H	L	
-5trp	H	L	
-5k8a	H	L	
-6nb8	H	L	
 7lzp	F		D
-1mak		A	
 4gms	I	M	C
 7wuq	N		A | B | G
 6xkp	H	L	A
 6b9j	H	L	X
 6al1	H	L	A
-5xp1		F	
 6xjw	H	L	A
 7cmk	H	L	A | C
 5lhp	B		A
 3j8z	G	K	C
 7xic	E	F	C
 6vry	H	L	G
-7v0v	A		
 7rnj	H	L	B
 4k94	H	L	C | C
 6x18	N		A | B | G
 5vpg	D	C	A
-6wgj	E	F	
 7jw0	H	L	A
 6hup	G		A | E
 6q0l	H	L	A
 6kpf	S	s	A | B
 1fl3	H	L	L
 4wff	G	F	B
-2qtj	B	M	
 5jz7	C	D	A
 2r6p	F	G	C
 6war	B		A
 7jtf	C	D	F
 7u8l	H	L	B | A
 7e5r	N	D	B
-4rir	H	L	
 3o41	A	B	C
 5nqw	D		A
 6vn0	H	L	B | A
 5d6c	B	A	B
-3j30	F	E	
 7czr	J	N	C
 2r2h	B	A	B
 6vbp	A	B	F
@@ -15605,11 +12222,8 @@ pdb	Hchain	Lchain	antigen_chain
 7lr4	H	L	D
 5uk4	n		N
 5kte	H	L	A
-5grw	B	b	
 6xcn	F	G	E
-1ruk	H	L	
 5j1t	C		A | B
-5n2k	J	I	
 7m7g	C	D	B
 6n1v	g	i	B
 7z1d	F		E
@@ -15619,20 +12233,15 @@ pdb	Hchain	Lchain	antigen_chain
 6glw	H	L	A
 7pc2	I	J	B
 6o28	C	D	F
-6azl	D	C	
 6obo	C		A
 5vlp	H	L	A
 7k3a	L	K	E | F
-2ojz	H	L	
 6bqb	H	L	P
 7ly9	E	I	D
 5t4z	H	L	H
 1m7i	B	A	A
 6x4t	B	E	C
-1lve		A	
-2w0l		C	
 4xny	H	L	G
-4h20	H	L	
 6x58	A	B	E
 3okl	B	A	B
 7m55	H	L	A
@@ -15644,82 +12253,60 @@ pdb	Hchain	Lchain	antigen_chain
 6ejg	C	c	A
 2a9n	I	M	I
 3v7a	E	H	A
-3cdf		E	
 3u7y	H	L	G
-7rth	R	Q	
 6nb3	H	L	C
 4i3s	H	L	G
 5cin	H	L	P
-3sgd	J	I	
 7mly	L	M	A
 4ye4	H	L	G
 6wno	E	F	D
-5ifh	H	L	
 7vbh	N		A | B
 6wpt	D	E	A
 6wn4	H	L	D
 4n0y	H	L	A
 7cz0	F		B
-7rth	a		
 2kh2	B	b	A
-1bln	B	A	
 3t3p	H	L	A | D
-5dr5	H	L	
 6xpz	E	F	D
 7nez	F	E	A
 3c09	C	B	A
 7vfa	D		E
 5b8c	K	J	L
 6cdi	8	7	2
-5vga	B	A	
 7dpm	D	E	F
 5yy4	A	a	B
 3vrl	E	F	D
 5l0q	F	E	D
-3u36	C	D	
 7t4r	S	R	K
 1xgt	B	A	C
 3ehb	C	D	B
-5c9k		G	
-6rlm	C	D	
 6p3s	F	G	H
 5wk3	S	R	B
 6kvf	A	C	B
 1kfa	H	L	H
 4lmq	H	L	D
-6wg8	A	B	
 6obm	B		A
 3q3g	B	A	E
 7kfh	H	K	B
 7rew	H	L	I
 7rcs	A	B	D
-1fl5	B	A	
 7t8w	H	L	D
 4y5y	D	E	F
 6x3u	K	L	D
 43ca	B	A	A
 6p9h	C	D	B
 7tlz	B	A	J
-1dcl		A	
-6jb9	A		
 7pr0	G	F	D
-1jn6	B	A	
-4llv	C	D	
-2q1e		A	
-3chn	B	M	
 4xnx	H	L	A
-1vhp	A		
 5h30	G	H	A
 3ngb	E	F	D
 1fj1	D	C	E
 5w08	M	N	F
 6h15	D		B
-3b9v	C		
 4rgm	H	L	S
 4ag4	H	L	A
 7m6g	R	S	B
 3bz4	B	A	B
-5ivz	D	C	
 5m30	E		A
 5m2m	D		B
 2p46	D		C
@@ -15727,11 +12314,9 @@ pdb	Hchain	Lchain	antigen_chain
 3liz	H	L	A
 6z2m	D		A
 7tee	M	N	B
-7ryu	H	L	
 5y0a	H	L	C
 6fyu	F		E | D
 6p4a	H	L	C
-5ysl	C	D	
 6xc3	B	A	C
 6wqo	B	C	A
 7exd	E	e	A | B | G
@@ -15748,7 +12333,6 @@ pdb	Hchain	Lchain	antigen_chain
 1yej	H	L	L
 7li8	B	C	A
 7m1h	B		A
-6yxl	H	L	
 4tnv	Y	g	T
 5c0n	H	L	A
 6xtg	H	L	A
@@ -15757,8 +12341,6 @@ pdb	Hchain	Lchain	antigen_chain
 1ynt	D	C	G
 3idg	B	A	C
 7dcx	A	F	C
-4hie	B	A	
-3bd3		B	
 5tih	H	L	A
 7p5y	L		F
 7wwm	J	N	C
@@ -15767,8 +12349,6 @@ pdb	Hchain	Lchain	antigen_chain
 4gms	H	L	A
 6v8z	I	L	G
 7kn3	M	N	B
-7tus	C	D	
-4b5e	B		
 6ot1	M	N	D
 7ew5	H	I	D
 5w08	Q	R	D
@@ -15777,12 +12357,9 @@ pdb	Hchain	Lchain	antigen_chain
 2vdn	H	L	A
 3jab	Q	R	O
 6v80	E		A | C
-4xcy	G	I	
 7wpf	X	Y	A
 7scg	E	e	A | B
 2gsi	D	C	X
-5vvf	H	L	
-1bre		F	
 1gaf	H	L	H
 5vk2	H	L	a | A
 7o9w	C	B	A
@@ -15791,29 +12368,22 @@ pdb	Hchain	Lchain	antigen_chain
 6quz	E		B | A
 4lgs	B		A
 6oej	B	C	A
-5jof	H	L	
-1pg7	X	W	
 1fsk	F	E	D
 4mhh	J	K	A
 6m3z	H	L	A
-2kqn		B	
 6hhu	H		A
 7tcc	O	P	C
 6wix	H	L	G
 5ojm	N		D
-6u3z	A	B	
 7zmo	C		B
 7cz0	E		A
 5f7w	D		B
 7ps4	H	L	E
 7zfa	S	T	D
 5u6a	B	A	C | E
-6axp	B	A	
 7czq	J	N	C
-4k3d	H	L	
 7ws5	E	D	A
 5a7x	R	Q	I
-2qtj	D	N	
 4bel	D		A
 7f62	H	L	A
 7bxv	H	L	A
@@ -15822,26 +12392,21 @@ pdb	Hchain	Lchain	antigen_chain
 2oz4	H	L	A
 6fuz	N		A
 7zfe	Z		E
-3b	H	L	
 6oro	H	L	G
 5dd0	H	L	P
 6h02	B		A
 7mrz	X	Y	C
 6cue	q	r	c
 5aaw	F	f	G
-4r7d	C	D	
 7ezm	H	h	A | B
 3p9w	B		A
 4xgz	M	N	m
 6ii9	H	L	A
 4jo2	H	L	P
 6wtv	E	F	D
-1l7t	H	L	
 7cai	E	D	A
-5ihz	H	L	
 5wdu	U	V	R
 5vjo	A	B	E
-6hd8	A		
 6p9x	N		A | B | G
 5x2q	J	K	C | D
 6cuf	3	4	A
@@ -15856,17 +12421,12 @@ pdb	Hchain	Lchain	antigen_chain
 6ddm	B	A	C
 7cah	E	D	A
 7su1	H	L	C
-2gk0	B	A	
 4ki5	C	D	M
 6vgr	H	L	B
 6vca	H	L	B
-5dk3	G	F	
-5jw5	A	B	
 7dkj	K	L	I
-7fab	H	L	
 5ovw	K		E
 2kh2	B	b	A
-1fvd	D	C	
 6ey6	J		B
 6fyw	C		A | B
 6d01	C	D	I
@@ -15876,52 +12436,35 @@ pdb	Hchain	Lchain	antigen_chain
 4k8r	H	L	B | A
 6wqo	E	F	D
 7web	H	L	B
-3qpq	F	E	
 5f72	T	t	C
 6x87	I	J	X
 5gjs	H	L	B | A
 4n9g	A	B	C
 3w14	P	Q	F
-6meg	H	L	
 3u0t	B	A	F
-1dfb	H	L	
 6n1v	f	h	A
-1igm	H	L	
 6vmj	B	A	Z
 6wo5	H	L	E
-6fys	F		
 5zs0	B	A	C
 4jm2	A	B	E
 3wih	H	L	A
 5t85	H	L	G
-5vkk	A	B	
-1mhh	B	A	
-7kqy	E		
-4py7	I	J	
 7sl8	B		A
-3dgg	D	C	
 5i75	B	C	A
 4ob5	H	L	L
 7fjo	J	K	B
 4w2q	A		B
-4ouu	B	A	
 7cw0	O	P	E | D
 7sp9	B		A
-3lrh		M	N
 7m7f	C	D	A
 1mfc	H	L	H
-4k3h		A	A
-6rbb	J		
 6ozc	K	N	F
 1ob1	E	D	F
 1him	M	J	R
 2fr4	B	A	M
-6sm2		A	
 7m30	M	N	C
-2q20		B	
 5aco	I	K	D
 5uea	A	B	X
-6e9i	A	B	
 5v2a	H	L	A
 6mu3	M	K	M
 4z7q	E	F	C
@@ -15929,56 +12472,42 @@ pdb	Hchain	Lchain	antigen_chain
 6cuf	M	N	C
 6sc9	C		A
 6u52	C		D
-3q6g	I	M	
 6bf9	E	F	B
 6n1v	Q	R	C
 1xf5	B	A	P | L
 2ltq	C	B	A
-6y0e	A		
 6jjp	A	B	C
 5mu2	A	B	X
 4q6i	G	F	I
 7nvl	N		E
 1u8i	B	A	C
 7lrs	D	E	C
-6z1o		E	
 4rdq	K	J	B
-2bx5		N	
 4hha	B	A	P
-6wgb	C	D	
 1xct	B	A	P | L
 2dqf	B	A	C
 3ejy	E	F	B
 7chc	A	B	R
-1wt5	A	C	
 7cw0	Q	R	H | G
-4nhg	H	L	
 1ahw	B	A	C
 7k4n	H	L	A
 5f9w	H	L	G
-3chn	B	M	
 7zfd	H	L	E
 7my2	A		B
 7mwx	E	F	G
 6b5s	H	L	A
 7e5s	E	H	C
-2d7t	H	L	
 6bzw	E	F	K
 7niu	E	D	A
-4ma3	H	L	
 6c6y	H	L	R
 6rak	C		B
 3rkd	H	L	A
-4ygv	F	L	
 7now	C		D
 7zrc	F	G	B
 7e5o	H	L	A
-6l98		B	
 5umn	C	D	B
-1dsf	H	L	
 7f9z	N		A | B
 5yd3	C	c	D
-6xxn	B		
 7bu8	G	I	B
 7mjh	F		C
 1nmb	H	L	N
@@ -15989,44 +12518,33 @@ pdb	Hchain	Lchain	antigen_chain
 7enf	P	O	B
 7cgw	H	L	P
 7v9m	N		A | B
-7mf8	H	L	
-3cfe	H	L	
-5th2	B	A	
 6jfh	H	L	E
 5cba	C	D	F
 4am0	A	B	S
 6oao	J	j	I
-6fg2	D	E	
 7dv4	B		A
 7xjl	E	e	B | C
 6pyd	H	L	H
 6x40	K	L	D
-3g5x	D	C	
 4r0l	A	B	C
-2fjf	F	E	
 5te7	H	L	G
 7phv	E	F	D
 3qo0	B	A	C
 5m2i	G		B
 5jhl	H	L	A
-4k3h		G	G
 4tnw	H	L	A
-1mcp	H	L	
 6lr7	B		A
 5v7j	H	L	G
 7t3d	J	M	E
 7u0d	M	N	B
 3ulu	F	E	A
 7wue	E	F	B
-5ggu	H	L	
 5a8h	D	C	A
 7f4d	N		A | B
-3kym	D	C	
 3c6s	D	C	D
 6vmk	V	U	X
 5vag	C	B	A
 6u8k	D	E	B
-2gfb	B	A	
 7lue	I	M	B
 2znw	A	a	Y
 2b0s	H	L	P
@@ -16038,30 +12556,21 @@ pdb	Hchain	Lchain	antigen_chain
 7v2a	G	F	B
 6idl	M	N	F
 1ncc	H	L	N
-7ryv	E	F	
 5sv3	A		B
 6b5m	H	L	A
 3bz4	F	E	F
-5cp7	D	E	
 3h3b	c	C	B
 6o3u	H	L	H
-2kqm		A	
-7nx2	B	A	
-6fg2	I	M	
 7aqz	C		B
 4dka	A		D | C
 7tp4	H	L	Z
-5bk5	D	C	
 5tkj	D	E	F
 7cvz	O	P	E | D
 5cil	H	L	P
-5mud		A	
 7qji	G		E
 5kqv	C	D	E
 6wo4	H	L	E
 3fb6	A	B	C
-4jam	H	L	
-5k8a	B	A	
 3ulv	F	E	A
 3jbc	7		3
 7jtg	A	B	E
@@ -16074,28 +12583,19 @@ pdb	Hchain	Lchain	antigen_chain
 7niu	C	B	A
 7tdm	H	L	B
 7zxf	B	C	A
-4at6	M	N	
-7bnw	A		
 7bep	H	L	E
-5ocl	E		
 6kvf	H	L	b
 6xe1	H	L	E
 5vgj	H	L	G
-3u79		C	
 4x7c	C		A
 6x8p	H	L	P
-4gq9	H	L	
 7teq	M	N	D | C
-7te4	H	L	
 7teb	M	N	B
-7k8p	H	L	
-1pg7	I	M	
 1vpo	H	L	H
 5wdu	W	X	Q
 7po5	X	F	C
 2w0f	A	B	C
 6h15	C		A
-1mak		A	
 5y9f	L	K	A
 5vta	F	E	C
 6d6t	K	L	D
@@ -16109,84 +12609,56 @@ pdb	Hchain	Lchain	antigen_chain
 7nwl	D	E	B
 5xez	C	D	A
 6kyz	E	F	D
-3s96	A	B	
 6mb3	F	P	E
-3mcg		2	
-1g9e	A		
 7lok	K	J	A
 6pzz	F	E	B
-2xkn	D	C	
-6dla	H	L	
-1igt	B	A	
 2p4a	D		C
 7r6x	C	D	R
-6qb9	A	a	
-4aiz		C	
-3auv	A	a	
 5d1q	C	D	E
 4rwy	H	L	A
 7x8r	N		A | B
-6k2i	A		
 6cyf	D	C	A
 1mpa	H	L	P
-6u9u	H	L	
 4tnv	H	L	A
 6cwt	A	B	E
-6oc8	A		
 7rg7	A		A
 7n9v	E		D
-5nyx	O	P	
 5vxj	H		G
 5bk3	H	L	L
 7f7h	C	D	F
-5e2u	H	L	
-6mef	H	L	
 7d5p	D		B
 6iap	E	D	A
-3cm9	A	L	
-4gxv	I	M	
 7tyl	N		A | B | G
 3u4e	A	B	J
 4nik	B	b	A
 3l5w	H	L	I
-5mvj	A	B	
 5ig7	D	E	F
 5myo	B	A	E
 3j8v	H	L	E
 6b5t	H	L	A
-3cm9	C	N	
 6orq	D	E	B
 4uv7	H	L	A
 7lu9	h	g	e
 6pzw	H	L	A
 6pis	H	L	B
 4v1d	D	E	C
-2kqn		B	
-3qyc	B		
 4ydv	B	A	Q
-5whz		L	
 7kmd	H	L	G
 6k42	H	h	A | B
 7p78	W		C
 6ssi	G		B
 4i9w	G	F	B
 7k37	L	K	E | F
-6ikm	G	g	
 5gzn	H	L	A | E
-3j30	D	C	
-6qkd		L	
 6vlw	H	L	G
 7e8c	S	U	C
-6vup	A	a	
 5vl2	F		F
 7n01	H	L	A | C
-6q1e	H	L	
 5u8r	H	L	A
 7lpn	I		F
 6sv2	H	L	A
 6mu6	H	L	G
 4qci	B	A	D
-2qtj	B	M	
 7kd6	I	J	K
 4dtg	H	L	K
 6pdx	H	L	A
@@ -16196,33 +12668,24 @@ pdb	Hchain	Lchain	antigen_chain
 4np4	H	L	A
 7lse	H	L	E
 6z7z	D	C	F | E
-3q6f	J	I	
 2zck	H	L	P
 6mu7	D	E	B
 3v7a	F	G	B
 3ogo	H		B
 6cmi	D	C	B
-7jhh	N		
 7d5q	C		A
 6nij	H	L	E | A | C
-4nry	A	B	
 7ben	D	F	C
 7v5n	F	E	G
 6mwn	H	L	A
 5n7w	A	B	Y
-5a16	E	F	
 6ot1	q	r	G
-1g9e	A		
 6ad0	H	L	A | C | B
-1yy8	B	A	
 6ks0	H	L	A
 1mjj	B	A	A
 7e7x	M	N	B
-2kqn		B	
-7rth	q		
 3rhw	H	L	A
 6p62	H	L	A
-3qq9	H	L	
 2ht4	C	D	A
 4aei	J	N	C
 6mns	H	L	P
@@ -16239,13 +12702,8 @@ pdb	Hchain	Lchain	antigen_chain
 1fns	H	L	A
 7zfe	F	G	B
 4oii	H	L	A
-7kkj	C		
-3juy	C	c	
-1iai	I	M	
 6qpg	O		G | H
 4hfu	H	L	A
-5ihz	E	F	
-3giz	H	L	
 5uk4	e		E
 6cuf	Q	R	C
 4fg6	C	D	A
@@ -16256,30 +12714,19 @@ pdb	Hchain	Lchain	antigen_chain
 6uus	N		A | B
 7elx	H	L	C
 6ea7	H	L	B | A | F
-1dlf	H	L	
-7lmr		A	B
-3cvi	H	L	
-5n2k	F	E	
-5fcs	H	h	
-3ojd	B	A	
 6wzg	N		A | B | G
 4nby	C		A
 4i77	H	L	Z
 4laj	H		J | K
 1cfs	B	A	C
-3tcl	H	L	
 6itp	B		B
 7kmi	A	B	C
 7rbv	h	l	A
-5i1g	H	L	
 6woq	A	B	E
 6lxi	C	D	B
-6elj	A	B	
 1a6v	H	L	H
 6lz4	D	E	F
-6nuz	H	L	
 4mxv	F	E	B
-5f89	A	B	
 1jnn	H	L	H
 6e56	H	J	A
 6ozc	C	D	A
@@ -16289,7 +12736,6 @@ pdb	Hchain	Lchain	antigen_chain
 4wht	E	F	e
 5ukb	a		A
 5fv2	C		W
-3cm9	D	O	
 1kyo	U	V	P
 6s8d	H	L	A
 4glr	H	I	A
@@ -16303,7 +12749,6 @@ pdb	Hchain	Lchain	antigen_chain
 7swp	H	L	A
 1g7j	B	A	C
 7lde	N	M	B
-6ffj	C	c	
 2nz9	D	C	A
 3p9w	H		G
 5i9q	H	L	G
@@ -16311,16 +12756,13 @@ pdb	Hchain	Lchain	antigen_chain
 4y8d	C		A
 4xnq	B	A	D
 6nnf	H	L	G
-5drx	H	L	
 2fee	I	L	B
-3qeg	H	L	
 5o04	F		A
 6u0n	P	Q	C
 6cdi	M	N	C
 7ldd	N	M	B
 5en2	A	B	C
 7dr4	A	B	J
-2imn		A	
 7s0c	M	N	B
 7cj2	K	L	B
 6cdi	h	l	c
@@ -16330,38 +12772,28 @@ pdb	Hchain	Lchain	antigen_chain
 6u12	B		A
 6v80	J		F | H
 3lh2	H	L	S
-5grz	A	a	
 7klc	D	C	A
 4hii	B	A	A
 6glx	H	L	A
 4eiz	D		A
 3idn	B	A	C
 7wui	N		A
-1uz6	F	E	
 1xgy	I	M	Q
 7soa	H	L	A
-5xqy		C	
 3fku	Y	y	B | A
 1f4y	H	L	H
 7bu6	B		A
-5ukn	H	L	
 3cvh	Q	R	M | O
 4m8q	H	L	C
 4fab	H	L	H
 6udj	Q	B	G
-6mg5		B	B
-4f58	K	O	
-4gay	A	B	
 6gkd	S		R
-7l6m	h	g	
 7p5v	H		B
-3qct	H	L	
 7r73	A		G
 6h16	B		A
 6cxl	M	K	M
 7qnd	L		C
 6ujb	E	F	B | A
-6wgk	C	D	
 5x8l	H	M	C
 6nf5	O	P	J
 2xt1	B		A
@@ -16370,33 +12802,21 @@ pdb	Hchain	Lchain	antigen_chain
 5d93	C	B	A
 6bit	I	K	H
 6nyq	H	L	C
-1r70	B	A	
 6erx	M	N	J
-1vhp	A		
-4k07		H	
-6amm	H	L	
 6ot1	m	n	G
-4r7d	E	F	
 6u02	K	I	J
 1fe8	I	M	B
 7lde	L	l	A
 6xq2	C	B	A
-6bhz	I	M	
-2rcj	J	K	
 7z1b	B		A
 4ckd	K	O	B
 7bb6	B		C | E
 6nnf	D	E	B
 4y7m	A		C
 3f7v	A	B	C
-1oay		M	
-2hkh	H	L	
-4m7z	H	L	
 5zuf	E	D	C | A
-3sgd	H	L	
 3ivk	A	B	C
 5kem	B	C	A
-5nml	C		
 4d9q	E	D	B
 5nbd	C		B | A
 5i8h	E	F	B
@@ -16406,121 +12826,85 @@ pdb	Hchain	Lchain	antigen_chain
 5ken	J	I	E
 7rmi	N		A | B
 5dsc	A	B	Q
-6arp	B	A	
 6mhg	J	U	E
 5tsj	2		G | I
 2hh0	H	L	P
 7eb2	N	n	A | B
 7m7f	E	F	B
-3j2x	B	A	
 1dzb	B	b	Y
-6pe7	H	L	
 6avu	H	L	B | A
 5vn8	H	L	G
 6pzy	C	D	A
 7mf1	H	L	A
-6tcp	D	C	
 5w3m	E	G	B | A | C
 6umx	h	l	B
 1nfd	F	E	B
-5cey	D	C	
-2kqm		B	
 5w2b	H	L	A
 7k7i	P	Q	D
 2kh2	B	b	A
-6jri	A		
 2kh2	B	b	A
 6j14	A	B	G
 6bzw	G	H	L
 5gru	L	l	A
 4nbz	B		A
 6xrt	H	L	G | E | F
-6ikm	C	c	
 4xvu	E	F	A
 6o2a	O	P	L | M
-2esg	A	L	
 4kjp	E	F	B
-5mtl		A	
-5gs1	H	h	
 3cfb	B	A	B
 7bep	G	I	C
 6mfp	C	D	A
-5vh3	H	L	
 7si2	E	D	B
 7m7i	C	D	A
 5o04	E		B
 5thr	R	S	A
-5muh		A	
-3dvf		A	
 6mb3	I	R	E
 6dcq	M	N	F | E | D
 3raj	H	L	A
-4llw	A	B	
 7d5z	L	K	I
-6ksn	B		
 3bky	H	L	P
-7v0v	A		
 6cdi	Q	R	C
 7n0a	B	A	C
-7nfa	D	B	
 6wh9	B	C	G
-5l6q		B	
 6oij	H	h	A | B
 4v1d	A	B	C
 5uk0	H	h	C
 6nf5	K	N	B
-7k8o	H	L	
 7lxy	H	L	A
 6o3j	A	B	I
 1y0l	D	C	D
 5g64	H	L	A
-4hkb	I	K	
 6gkd	J		I
 7we9	C	L	B
-6xca	H	L	
 6bzu	E	F	K
 4n9g	H	L	Y
 6wno	B	C	A
 6n4q	J	I	A | B | F
-3nn8	G	H	
 2kh2	B	b	A
-5ur8	A	B	
-5ocl	G		
 7li9	B	C	A
 4bh8	B	A	P
-5hdo	C		
 3wkm	H	L	A
 4k4m	H	L	A
-6ol7	E	D	
 1nc2	D	C	D
 7l2f	G	J	C
-5gs1	L	l	
 3ogo	F		C
 5gru	H	h	A
 7dzx	H	L	C
-4m93	B	C	
 2htl	E	F	B
 6ram	C		B
-5id0	B	A	
 3a6b	H	L	Y
-7rth	g		
 1rjl	B	A	C
-7obf	B		
 7pgb	H	L	c
 4k24	H	L	U
 4xnu	H	L	A
-6dba	A		
-2o5x	H	L	
 3sy0	B	A	B
 6woq	J	K	E
-1c5d	B	A	
 5kem	D	E	A
 7uap	O	P	C
 1nc4	B	A	B
 6gku	H	L	A
 6s3t	E	I	T
 2ltq	F	E	D
-3lrh		K	L
 6dfg	I	K	D
 4mwf	H	L	C
 6ch7	Q	R	G
@@ -16530,75 +12914,52 @@ pdb	Hchain	Lchain	antigen_chain
 6nf2	W	X	R
 3hi1	B	A	J
 6erx	Q	R	K
-2bx5		J	
-1shm	E		
 4okv	C	D	E
 7czq	H	K	A
-4nkd	G	H	
 2fd6	H	L	U
-6qu9	H	L	
 5ggs	A	B	Z
-4buh	B	b	
 6i9i	A	B	C
-5jof	E	F	
 5o6v	I	M	C
 5wob	Q	R	E
-2gfb	D	C	
-1vhp	A		
-2kqm		B	
 6lxi	H	L	A
-7tqa	C	D	
 6gk7	H	L	A
 6obd	B	A	E
-6qd6	H		
 1h0d	B	A	C
 3se9	H	L	G
 6msy	H	L	H
 6ot1	A	C	O
 7lf1	O	Q	N
 5w9i	G	H	E
-3piq	C	D	
-7km6	H	L	
 7ki4	G	F	E
 4jo2	I	M	Q
 6wg0	H	L	P
 3uzq	A	a	B
-2mkw		A	
 7fcq	H	L	A
 5c7x	H	L	A
-4bjl		A	
 1xgu	B	A	C
 7bpk	C	D	A
 7cwm	I	K	C
 6x9v	H	L	B | A
-6xul	C	D	
 7lsg	H	L	C
 7rcs	H	L	C
 6n5e	E	D	A
 6njl	I	i	C
-6uup	B	b	
-7sfx	G	H	
 1n0x	K	M	R
 6z7y	D	C	F | E
 7lq7	T	U	B
 6tnp	F	E	I
 7l6v	E		A
-2kqn		B	
 2fx9	I	M	Q
 6huo	G		A | E
 7ndd	H	L	B
 3j42	G	H	E
 7sn2	H	L	A
 7lkf	H	L	A
-6fg1	H	L	
 6udj	K	L	J
 4rgn	F	G	S
 2hfe	A	B	C
-7wpf	W		
 5y9f	d	c	J
 6u52	A		B
-2mcg		1	
-1vhp	A		
 5uk2	I	i	E
 6x3t	K	L	D
 6v7y	F		A
@@ -16607,13 +12968,10 @@ pdb	Hchain	Lchain	antigen_chain
 6w1c	K	O	E
 2kh2	B	b	A
 5a2k	H	h	P
-7rth	F	E	
-4rqq	D	C	
 6wps	C	D	B
 3ls4	H	L	H
 5mv3	I	J	K
 6m3c	H	L	A
-1bfo	D	C	
 7lok	M	L	C
 7wwl	I	M	B
 4p2c	G		B | A
@@ -16626,8 +12984,6 @@ pdb	Hchain	Lchain	antigen_chain
 7e5s	J	T	C
 6y49	H	L	L
 7pij	N		B
-7te4	B	A	
-6x03	D		
 7lu9	q	r	d
 7ow1	H	K	A
 3b9k	D	C	F
@@ -16636,7 +12992,6 @@ pdb	Hchain	Lchain	antigen_chain
 4lf3	E	D	F
 4z0x	B	A	C
 2ghw	B	b	A
-3wbd	A	a	
 2ajz	H	L	L
 7qnx	H	L	E
 7fim	N		A | B
@@ -16647,20 +13002,13 @@ pdb	Hchain	Lchain	antigen_chain
 5mp3	H	L	D
 3ley	H	L	P
 7s3i	N		A | B | G
-6e9i	H	L	
 5e94	D	C	H
-1rzi	F	E	
-7lmp		A	B
 5boz	K		E
 5t33	H	L	G
 3mlx	H	L	P
-6xxn	C		
 4hg4	J	K	A
-6med	C	D	
 4z5r	S	R	H
 5njd	X	W	E | H
-1qlr	B	A	
-4mau	H	L	
 7ncs	H	L	A
 7l7e	O	P	K
 6mpg	8	7	2
@@ -16671,67 +13019,50 @@ pdb	Hchain	Lchain	antigen_chain
 6vlr	E	M	G
 5ovw	J		D
 2vyr	F		B
-5e03	A		
 6vi1	H	G	P
 4gag	H	L	P
 3grw	H	L	A
-7k8r	H	L	
-4k07		F	
 6vja	I	M	D
 7pc2	M	N	C
-6z3k	J	K	
 7ra8	F	G	E
 7mzk	N	M	B
 5zia	K	M	N
 6bt3	F	E	L
-5m7q	B		
-5cex	B	A	
 5wn9	H	h	A
 3ivk	H	L	M
-5vsh	A	B	
 2ny4	D	C	A
 6bfs	H	L	C
 6hf1	F	E	D
 6lht	H	L	C | A | B | E | D
 7jum	H	h	A
 2yc1	D	E	F
-4odw	A	B	
 6nuy	H	L	A
 5jym	B	b	A
 3k80	A		C
 3bsz	H	L	F
 5kan	G	I	D | E
-4xbp	H	L	
 3wih	I	M	B
 4tnw	J	M	E
 7mhr	A	B	C
 5ock	H	L	A
-6fg1	A	D	
 4uu9	A	B	C
 7kqk	A	B	C
 6gjq	H		G
 3j8z	F	J	D
-6q	H	L	
 7f4h	S	s	A | G
 6ey6	P		H
 5t6p	B	A	F
 7lf2	P	N	Q
-2x1q	B		
 1zvh	A		L
 2dtg	C	D	E
 7tzh	A	a	B
 3ggw	D	C	F
-4jn1	H	L	
 7tyx	N		A | B | G
 7d85	E	F	D
-2rcj	I	L	
 7mk6	A	B	C
-3q6f	L	K	
 5gs2	D	d	B
 3qg6	B	A	D
-2kqn		B	
 7u8m	F	E	D
-6tcs	A	a	
 1ikf	H	L	C
 6ada	E	F	B
 6cue	3	4	1
@@ -16741,72 +13072,50 @@ pdb	Hchain	Lchain	antigen_chain
 6vy6	H	L	A
 7ek0	H	L	R
 5f1k	C		A
-5lz0	A		
 4w6y	B		A
-4evn	A	B	
 7n9c	D		C
 7f12	B	b	A
 7e8m	H	L	E
-3jbg	7		
-4f33	D	C	
 4kkl	E	F	B
-1aif	B	A	
 6oq8	C		B
 7rmh	N		A | B
 5o8f	K		A
 6ewb	E	F	A
-6z3k	E	F	
-6e9k	A	B	
 7mfu	F		D
-7phq	F		
 4ffw	H	L	A
 5e0q	A		B
 7my2	H		E
 2dd8	H	L	S
 3qcv	H	L	H
-6emj	H	L	
 6vbq	H	L	P
 7mep	M	J	C | F
 3oay	M	K	M
 7cwu	O	S	A
 6ymq	B	b	I
 7c2l	H	L	A
-5u65	A		
 6meh	H	L	C
 7a6o	B		A
 5m2i	K		D
 7ec5	E	F	B | A | C
 6o1f	H	L	A | I
-5vr9	H	L	
 6eyo	I	M	B
 7n4j	H	L	A
 6vmk	S	R	T
-2ajs	H	L	
 7k7r	B	A	C
 6nf5	E	F	C
-3upc	G		
-3gkw	H	L	
-2gki	A	a	
-2gfb	N	M	
 6zh9	F		E
-4oaw	B	A	
-5tgb	A	B	
 7rd9	H	L	C
 7zwi	E	F	D
 6n5e	H	I	C
 7beh	H	L	E
 3ncy	Q	W	C | D
 5k9q	J	K	F | A
-2f5a	H	L	
 6xli	C	D	F
-4npy	H	L	
 6mpg	m	n	V
 2kh2	B	b	A
 5vkh	A	B	C
 4y5y	A	B	C
 7lbg	H	G	A
-4n1e		D	J
-3o6k	H	L	
 7p79	B		C
 3j8z	H	L	E
 7lqv	W	X	B
@@ -16819,25 +13128,20 @@ pdb	Hchain	Lchain	antigen_chain
 5hvg	D		C
 6cdm	D	E	F
 3wfe	H	L	B | C
-1bww		B	
 6rp8	H	L	C
 5v6l	H	L	P
 7ps6	H	L	E
 2r4s	H	L	A
 5w6g	H	L	A
-3rvu	D	C	
 3ru8	H	L	X
 5mhs	E	D	B | A
 2ap2	B	A	P
 6u0n	I	J	B
-2v7n	H	G	
 1keg	H	L	A
 4p3d	H	L	M
 6qx4	C		A
-6jc2	H	L	
 7k5y	N	n	G | H
 5kvg	H	L	E
-5vm4	L		
 5uk4	p		P
 6e3y	N		A | B
 6ewb	H	L	B
@@ -16845,8 +13149,6 @@ pdb	Hchain	Lchain	antigen_chain
 7mjs	H	L	X
 6tys	H	L	A
 7o3b	C		I
-6uul	C	D	
-3cfk	B	A	
 6bli	G	H	I
 7ekb	H	L	P
 6r2s	B	A	C
@@ -16858,18 +13160,13 @@ pdb	Hchain	Lchain	antigen_chain
 7lxy	M	K	J
 4rzc	A	B	A
 7r8n	H	L	A
-6ztd	H	L	
 7rfc	H	L	D
 6mwc	O	P	N
-5icx	D	C	
 7oay	D		C
 4np4	I	M	A
-3fzu	H	L	
-6iyn	A		
 7r8m	D	E	C
 1nd0	F	E	E
 6rai	C		B
-5nm0	B		
 7tzf	N		A | B | G
 6s3d	A	B	N
 6ba5	H	G	P
@@ -16882,52 +13179,32 @@ pdb	Hchain	Lchain	antigen_chain
 7qnd	K		B
 6did	L	H	A | B
 1ub5	A	B	B
-3l7f	B	A	
 5vph	D	C	A
 6mlm	K	L	H
 2dqe	H	L	Y
 1q1j	H	L	P
 5njd	P	O	I | B
-5icz	B	A	
-5ff6	B	A	
 7k3a	H	G	A | B
 3wfc	H	L	B | C
-4nyl	C	D	
 4xbg	A	B	A
-6dbg	D		
-1mak		A	
-7rdj	B	A	
-4evn	C	D	
-1ggc	H	L	
 4xrc	H	L	C
 4mqs	B		A
 7jvb	C		A
-1x9q	a	A	
-2ai0	H	L	
 7d6y	B		A
 1cz8	H	L	W
-6hda	A		
-1vhp	A		
-4xcn	J	K	
 7rm3	C	D	P
 6gv4	H	L	B | A
 5mu0	C	D	R
 3ria	H	L	A
 3qxv	A		A
-3c	H	L	
 7vuz	S	s	A | B
 6v8z	O	R	M
 6kz0	B	C	A
-6ghg	A	B	
-4gw5	B	A	
 6oz2	H	L	G
 5usi	A	B	Y
-2vl5	A	B	
-4idl	A		
 6u9s	D	E	F
 5xhv	P	Q	A
 4tvp	D	E	B
-2ai0	J	N	
 6v8x	C	D	A
 6ogx	H	L	G
 6y92	C	D	B
@@ -16935,60 +13212,45 @@ pdb	Hchain	Lchain	antigen_chain
 6bgt	B	A	C
 6n48	B		A
 7uds	H	L	C | c
-2mkw		A	
 5h35	A	B	C
 6o8d	H		C
 1ngx	H	L	H
-1bre		A	
 5iwl	B	b	C
 5um8	D	E	B
 7p5v	J		D
 6p65	C	D	B
 5eu7	E	C	A
 5w0k	E	F	C
-4unu		A	
-7mfv	B		
-3j3z	H	L	
 7m6d	H	L	C
 2h9g	B	A	R
 4fqr	c	d	C
 3rif	G	K	C
 4xc3	H	L	P
-5wym	C	c	
 6qgw	B		A
 7s6d	D	F	B
 7bei	H	L	E
-6mxr	H	L	
 6a3w	G	H	I
 7deo	C	c	D
 6wg1	A	B	C
-6al4	D	C	
 6cm3	P	Q	B
-7rth	c		
 6n4q	L	K	C | D | H
 1ar1	C	D	B
-3utz	B	A	
 7cwl	G	J	B
 6xm2	B	A	L
 6hjy	H		C
 6ruv	S		V | U
-4qgy	B		
-6ugv	H	L	
 4s1d	C	D	H
 6cnj	I	H	B | A
 7czz	H	K	A
 7zf3	H	L	E
 7ps6	C	D	E
 7mxl	A	B	C
-6z1o		B	
 43ca	F	E	E
-6a0x	E	F	
 6mwv	C	D	B
 6c08	A	B	C
 4mxv	Y	X	D
 7pi3	F	G	A
 4m7l	H	L	T
-6k67		C	D
 7u8m	Q	R	A
 5yoy	G	D	B
 3tje	H	L	F
@@ -16997,46 +13259,27 @@ pdb	Hchain	Lchain	antigen_chain
 4xgz	O	P	o
 6o29	A	B	C
 4zyp	H	I	A
-1cd0		A	
 7cw2	W	V	e | d
-4fq1	H	L	
-3cfj	H	L	
 6suz	H	L	A
 6oej	H	L	G
 5mvz	A	B	V
 6nn3	H	L	A
-1kem	H	L	
 5tlk	D	C	X
 6dfh	G	J	C
 5l88	H	L	L
-4ods	H	L	
 4c83	C	D	C
 7c01	C	D	B
 6quz	F		D | C
-2kqm		A	
 4fqk	H	L	A
 6rcv	C	B	A
 7xjk	E	e	B | C
 2dqf	E	D	F
 7vnd	V		C
-4nuj	B	A	
 3mlt	B	A	C
 6jp7	H	L	L
-2mkw		A	
-2v7n	D	C	
 7lr3	H	L	D
 5y2m	K	L	E | B
-5gs1	B	A	
-5gks	C	D	
-6v4q	H	L	
-1q9o	D	C	
-5ggq	H	L	
-6qd6	C		
 6ju0	H	L	H
-5xrq	A	B	
-6x5e	H	L	
-6qkd	K		
-4nkm	C	D	
 7czd	C		D
 6oq7	C		A
 6wi9	N		A | B
@@ -17053,9 +13296,6 @@ pdb	Hchain	Lchain	antigen_chain
 7ew5	E	F	A
 1j1o	H	L	Y
 6v6w	I	J	G
-2qtj	A	L	
-4yhp	A	B	
-1dvf	D	C	
 7mzj	H	L	A
 6b3s	J	K	I
 5ies	H	L	C
@@ -17063,106 +13303,71 @@ pdb	Hchain	Lchain	antigen_chain
 6qtl	A		A
 7o52	H	L	U
 2vwe	L	J	B
-5muq	A	B	
 4why	G	H	D
 6vpx	H	L	G
 7mzh	H	L	E
-6f0d	A		
 5wob	K	L	B
 3ogo	E		A
-2fjf	R	Q	
 6x1t	C	D	O
 6p67	C	D	J
 7lf7	A	B	M
-5fha	H	L	
 7rk1	C	c	A
 5ihl	B		A
 5eii	H	L	G
-1rz8	D	C	
-7mf7	E	F	
 5f7w	C		A
 7cvy	S	T	Q
 3uji	H	L	P
-7om5	B		
-4qhm	E	F	
-3cfk	H	L	
-6ic3		A	
-5itf	D	C	
 7daa	H	L	A
 4wht	K	L	k
 6n1v	H	L	D
-7lka	E	F	
 6hjq	I	J	D | C
 4ffz	Z	Y	X
 1qkz	H	L	P
 5o14	H	L	A
 1yed	H	L	L
-3kym	P	O	
 6mar	M	N	B | A | F
 1kcr	H	L	P
 6c6z	H	L	B
 7m1h	E		A
 7oaq	F		E
-7o85		T	S | U
 7rby	D		C
-5jof	C	D	
 7rsn	E	J	C
-6kr0	A	a	
 6x97	H	L	A
 5hd8	E	F	B
-4w2p	C		
 6gk4	B		A
 5f3j	C	c	A
 3j8v	G	K	C
-3rvt	D	C	
-2x1o	B		
 6c6z	C	D	A
 6njn	K	J	B
-3u79		G	
 7tes	M	N	D | C
 7my3	H		C
-4od1	H	L	
 1mvf	A		E
 5ig7	J	K	L
-6u14	B		
 6nf2	J	K	A
-4kph	H	L	
-1d5i	H	L	
 6u6u	H	L	R
 7v3j	I	M	O | Q | P
 6uye	I	L	C
 6df2	B	A	C
 7r8u	H	L	A | B
 3se8	H	L	G
-2rcj	F	G	
-3qos	B	A	
 7zxu	H	L	E
 5m2j	D		A
 6pef	D	E	F
-2qtj	B	M	
 7tly	A	B	I
 5f6j	B	A	G
-3qg7	H	L	
 5bvp	H	L	I
 6edu	N	O	E | H
-1lmk	C	c	
 5k9q	S	T	N | M | O
 4kjq	C	D	A
 6a96	K		D
 6zjg	H	L	C
-3c5s	B	A	
-3pp3	I	K	
-6kr0	B	b	
 6e4z	H	L	P
-6vrq	H	L	
 6wwz	S	s	A | B
-1oau	I		
 7mfu	C		A
 4al8	H	L	C
 5eii	A	B	I
 4r2g	D	C	O
 5tpn	H	L	A
-6ute	I	J	
 5dlm	I	M	Y
 6chb	D	E	G
 6um6	G	H	E
@@ -17170,60 +13375,39 @@ pdb	Hchain	Lchain	antigen_chain
 4y8d	D		B
 2fl5	B	A	B
 5a7x	N	M	A
-6y1r	A		
 2kh2	B	b	A
 4j6r	H	L	G
-1hil	D	C	
 7sob	N	O	K
 3hzk	B	A	B
-4jpi	H	L	
 6xzu	A		B
 5f97	G		C
-7v0v	A		
 3c2a	I	M	Q
-4hh9	B	A	
 7kc9	C		B | A
 4laj	L		A | D
 7e5r	T	V	B
 6nz7	H	L	B | A
 4xwo	U	V	S
-4ma1	H	L	
 4hg4	R	S	E | b
 4kxz	J	I	B
 7r88	C	D	B | A
 1e4x	I	M	Q
 7cai	G	F	B | C
-6ic3		G	
 6um6	C	D	A
 7cqd	H	L	A
 6h72	C		A
 6b20	E		B | D
-6phh	A	B	
 6k65	H	L	A
-3piq	H	L	
-5i19	H	L	
 6b9z	B	A	C | E
-7kbo	A	a	
 7dd2	A	B	C
-5cgy	H	L	
 3pnw	H	G	I
-6k2i	A		
 6ous	U	V	J | I
-5u64	B		
-3qhz	H	L	
 6u8d	H	L	A
 1adq	H	L	A
 6mpg	X	Y	D
 5jq6	H	L	A
 1uwx	M	K	Q
-4xpt	H	L	
-6ikm	P	p	
-3qny	B	A	
-4qt5	B	A	
-1mim	H	L	
 6oz4	H	L	G
 7cu5	B	b	E
-1t2j	A		
 4ej1	D		A
 5bk3	A	B	B
 7s0d	O	P	B
@@ -17231,13 +13415,10 @@ pdb	Hchain	Lchain	antigen_chain
 7o06	B		D
 6mpg	M	N	C
 5mu0	E	F	S
-6dwc	B	A	
 7chp	H	L	E
 6vtu	H	L	A
 6yor	B	C	A
-6vor	A	B	
 5th9	I	M	B
-6pyc	A	B	
 6oc3	A	B	F
 6zlr	F	G	D
 4xp4	H	L	A
@@ -17246,11 +13427,8 @@ pdb	Hchain	Lchain	antigen_chain
 7whi	G		A
 6cnv	C		A
 3qsk	B		A
-6hgu	A	B	
-3pp3	H	L	
 7bc7	B		A
 2jb5	H	L	H
-3oz9	H	L	
 4xc1	H	L	P
 7k9j	I	M	B
 7rp2	H	I	A
@@ -17258,11 +13436,8 @@ pdb	Hchain	Lchain	antigen_chain
 5mhr	N	G	F
 6cnj	K	J	E | D
 4u6g	H	L	P
-6ikm	Q	q	
 5w4l	F	I	A
 6tyl	D		A
-3zl4	H	L	
-2old		A	
 2x7l	H	L	N
 5w42	H	L	A
 4kxz	H	L	A
@@ -17275,18 +13450,13 @@ pdb	Hchain	Lchain	antigen_chain
 6kdi	H	L	A
 6e5p	V	W	A
 6kz0	E	F	D
-6hkg	C	D	
 7ldj	F		A
-3bdx		B	
 5f9d	C		A
 5jz7	J	K	E
 6oya	N		A | B
 5u7o	D	E	B
-1vhp	A		
 7bq5	C	D	B
-2kqm		B	
 1n0x	H	L	P
-5vm4	C		
 7akd	D	E	C
 7whi	F		A
 6uym	A	B	F
@@ -17294,91 +13464,61 @@ pdb	Hchain	Lchain	antigen_chain
 5tbd	J	K	L
 2i9l	H	G	L
 3fku	Z	z	D | C
-2vxu	H	L	
 7a0v	B		A
 1uwg	Y	X	Y
-7jxe	H	L	
 7n9v	J		I
-5hdo	D		
-6w4y		A	A
 6qv0	E		B | A
 1axs	H	L	H
-5nml	G		
-3cfe	B	A	
 7e88	J	K	L
-1ieh	A		
-4ocs	H	L	
-6ev1	A	B	
 7sfv	S	T	K
 5o4o	B	A	C
-1maj		A	
-5m76		A	
 6y92	H	L	A
-6ikm	M	m	
 6ii4	E	F	C
 3pp4	H	L	P
 6uce	H	L	C
 6vvu	G	I	D
 6oyz	F		B
-5ijv	B	A	
 5ebm	A	B	C
 2kh2	B	b	A
 5ye4	C	D	F
 4hg4	X	Y	H
 6jbt	H	L	F
 7rlw	A	B	P
-5a16	A	B	
 6wiz	H	L	B | A
 6vpx	K	N	I | A
 1yjd	H	L	C
-5gs1	C	c	
 5m2m	E		C
 7qjj	C		A
 6iw2	H	I	G
 7tqb	H	L	A | B
 6yu8	B		A
-1ocw	H	L	
 7sqo	E	e	A | B | G
 4rzc	C	D	C
 6xdg	C	A	E
 6ek2	I	i	B
 6nnj	D	E	B
-5etu	B	A	
 5l7x	H	L	L
 4hj0	P	Q	A
 6mar	H	L	D | C
 7lab	T	S	A
-5i1i	H	L	
 7l0n	H	L	R
 6qtl	D		D
-5i76	D	C	
-4s2s	A	B	
 2wzp	F		C
 2p43	B		A
 7neq	D	C	B
-6ea5	Q	R	
-2kqn		A	
 7m2h	D	E	F
 4ydj	H	L	G
 6rvc	D		A
 3ejz	E	F	B
 6csf	A	B	C
 5v8m	H	L	A
-2qtj	C	O	
 4fp8	J	N	C
-6ani	H	L	
-1bln	D	C	
 3hzv	B	A	A
-6jri	D		
 6zfo	H	L	E
 6v4n	D	E	W
 4ptu	B	A	B
-6hdc	A		
 4ywg	H	L	G
 6w0i	A	B	C
-5szf	H	L	
-3auv	C	c	
-2qtj	A	L	
 4c57	D		B
 4d9q	H	L	A
 7rco	D	C	B
@@ -17388,28 +13528,20 @@ pdb	Hchain	Lchain	antigen_chain
 6x87	C	D	X
 5dt1	H	L	L
 5jyl	B	b	A
-6ol7	A	Q	
 7lez	G	I	A | C
 7eh5	J	N	C
 6ibl	C		A
 6wzl	A	B	E
-1om3	K	M	
 7kkk	F		E
 3zkx	C		A
-2mkw		A	
 4f37	F	K	B
 7f8w	D	d	B | A | C
-1wt5	B	D	
 7vl9	S	s	A | B
 4r2g	Q	P	E
-6w4w	H	L	
 2y36	H	L	P
 7w9e	D	E	C
 7tcc	J	K	A
-1jpt	H	L	
-2q1e		B	
 7ej0	H	h	A | B
-5ivo	A		
 7duo	H	L	B
 4qnp	E	F	B | A
 4hzl	A	B	F
@@ -17417,9 +13549,7 @@ pdb	Hchain	Lchain	antigen_chain
 7e3k	D	E	A
 6uht	C		A
 6qx4	E		B
-2kqm		B	
 7jtr	B	b	A
-6ikm	I	i	
 7ll2	K	M	E
 7n8h	C	B	A
 6nc3	R	W	M | F
@@ -17430,33 +13560,22 @@ pdb	Hchain	Lchain	antigen_chain
 7dwu	H	L	A
 2vdp	H	L	A
 6ivz	H	L	A
-4r7d	I	J	
 5j3d	C	D	I | G
 6j5d	H	L	A
 1ynt	B	A	F | E
 5esv	A	B	E
 6zcz	H	L	E
-1cd0		B	
-4w68	A		
 7nw3	H	L	A
-3nfs	H	L	
-6bla	H	L	
 6gg0	H	L	4 | 3
 3twc	H	L	H
 2p47	B		A
-3chn	D	N	
 7kn6	H	L	A
 7a50	A		B
-2kqm		B	
 5mu0	K	L	V
 7n0h	X		A
-6jri	G		
-6x03	C		
 6qd8	W	Z	D | C
-4x4z		B	
 3iet	B	A	X
 1yyl	R	Q	P
-5ifa	H	L	
 7rt9	A	B	Y
 7d7m	E		D | B
 4fqr	g	h	G
@@ -17464,9 +13583,6 @@ pdb	Hchain	Lchain	antigen_chain
 3sn6	N		A | B
 6oro	J	K	I
 3loh	C	D	E
-5gs1	E	e	
-6w4v	C	D	
-1p7k	H	L	
 6ey6	N		F
 7m53	H	L	A
 7luc	J	K	A
@@ -17474,13 +13590,10 @@ pdb	Hchain	Lchain	antigen_chain
 3b2u	J	K	I
 3zlq	D		B
 6rlo	E	F	K
-6tco	B	A	
 3idy	H	L	G
 7lzp	G		A
 5lcv	H	L	A | B
-2a9m	I	M	
 7cky	N		A | B | G
-3bd4		B	
 7n8q	C	D	A
 6vvu	H	L	A
 3gbn	H	L	B | A
@@ -17490,38 +13603,28 @@ pdb	Hchain	Lchain	antigen_chain
 6okp	M	N	D
 6n5d	E	F	B
 6qno	H	L	A | B | G
-4m61	D	C	
 6e62	B	C	A
 4kk9	C	D	A
 6b5o	H	L	A
 7x6l	H	L	F | C
 6b5n	H	L	A
-6rlm	E	F	
 6ss2	H	L	A
-7rth	e		
 6j5g	H	L	A
 5ywp	N	M	C
 5tbd	D	G	H
 5xmh	D	C	B
 7m42	D	C	E
 6m87	F	E	E
-4unt		H	
 7ejx	S	s	A | B
-6jri	B		
 4uta	I	M	A
 6qgy	D		C
 7d5b	D		A
 6x9t	H	L	A | B
-2aab	H	L	
 7ra3	N		B
-5t93		C	
-1bre		B	
-3chn	B	M	
 7ttm	H	L	A
 3b2u	N	O	M
 7lkh	H	L	A
 4lgp	B		A
-1vhp	A		
 1pkq	G	F	J
 7s13	H	L	D
 7m7j	E	F	B
@@ -17534,7 +13637,6 @@ pdb	Hchain	Lchain	antigen_chain
 7mej	B		R
 6n4y	E		B
 7lf0	Q	O	J
-5cip	H	L	
 4olv	H	L	G
 6awq	B	C	A
 4lss	H	L	G
@@ -17542,16 +13644,10 @@ pdb	Hchain	Lchain	antigen_chain
 6t9d	H	L	C
 5zv3	H	L	A
 6kn9	E	e	B
-6q	A	B	
 7k7y	D		A
-3u6r	H	L	
-6qbc	H	L	
 7ora	F	G	R
 4jpk	H	L	A
-4rqq	H	L	
 6w0h	A	B	C
-4k07		B	
-1vfa	B	A	
 6x78	B	A	I
 6ymq	C	c	J
 7we7	J	M	E
@@ -17561,28 +13657,20 @@ pdb	Hchain	Lchain	antigen_chain
 6mxt	N		A
 7f7h	A	B	E
 3ri5	F	N	B
-4r90	H	L	
 7sl9	B		A
 5tbd	A	B	C
 6uda	C	D	A
-5feh	F	E	
 2hrp	N	M	Q
-6qf9	A	a	
-7rtp		A	B
 3ezj	F		E
 6bkc	H	L	E
 6yor	H	L	E
-4pb9	H	L	
 6nb7	D	E	B
 6nm6	U	V	G
 5f3b	A	B	C
 7rmg	N		A | B
 7kmk	I	M	B
-3chn	D	N	
-5bk5	F	E	
 5fuc	V		D | A
 2dqc	H	L	Y
-1xf3	H	L	
 6nv0	D	C	B
 7oau	F		E
 1orq	B	A	C
@@ -17594,13 +13682,9 @@ pdb	Hchain	Lchain	antigen_chain
 7zfa	X	Y	C
 7u8c	H	L	2
 7byr	H	L	B
-2w0l		D	
 6ba5	B	A	M
 3tt3	H	L	A
-7lka	H	L	
 3stb	A		D
-6fab	H	L	
-3dwt	E		
 2qql	H	L	A
 2j88	H	L	A
 7w53	E	e	A | B
@@ -17608,10 +13692,7 @@ pdb	Hchain	Lchain	antigen_chain
 7r8o	O	P	A
 7lj5	G	F	B
 5wko	C	D	X | U
-4uim	A	B	
-3r06	B	A	
 2nr6	D	C	A
-5vkk	H	L	
 5hi4	H	L	A
 7m42	B	A	E
 6mek	I	G	A
@@ -17628,31 +13709,21 @@ pdb	Hchain	Lchain	antigen_chain
 5ihl	I		H
 5x2n	H	L	A | B
 4wht	Q	R	q
-3eo0	B	A	
-3cfk	K	J	
 5utz	J	K	I
 7uem	H	L	A
 5ojm	K		A
 7k3a	J	I	C | D
 43ca	H	G	G
-5nbi	H	L	
 5um8	H	L	G
 4g6a	H	L	A
 6f2w	B		A
 5yy5	C	D	B
-5b3c		B	
 5ovw	H		A
-6vuo	B	b	
-6apo	A		
 1oar	K	O	K
-6e64	H	L	
-2kqm		A	
 6z2l	C	B	A
 6a4k	K	O	D
-6wgb	A	B	
 7ny5	F	B	A
 6o3g	A	B	I
-1rua	H	L	
 6mub	H	L	H
 5a7x	L	K	I
 7wrl	A	B	R
@@ -17661,9 +13732,7 @@ pdb	Hchain	Lchain	antigen_chain
 5wob	M	N	C
 7s11	I	M	D
 4ffz	H	L	A
-4f58	I	M	
 6p60	G	H	I
-6vpy	H	L	
 7f9w	B	C	A
 7ly9	H	L	D
 7we9	I	K	F
@@ -17673,17 +13742,12 @@ pdb	Hchain	Lchain	antigen_chain
 5w9l	H	I	G
 6h0e	A	B	K
 6pzy	H	K	E
-3nn8	A	B	
 4q5z	K	L	B
 5d70	H	L	A
 5vn3	K	N	I
-4f58	J	N	
 7elx	h	l	c
 6xzw	H	L	D
-7l79	H	L	
 1uz8	H	L	H
-6qkd		T	
-5cp7	H	A	
 3v6z	A	B	F
 4kdt	B		C
 4rgm	C	B	A
@@ -17692,41 +13756,24 @@ pdb	Hchain	Lchain	antigen_chain
 5thr	M	J	D
 6v4p	C	D	B | A
 3rvv	D	C	A
-5hpm	D	C	
 4h0i	A	a	a
 7t6v	E	e	A | B
 6gkd	K		I
 7d5z	H	G	E
-1qac		B	
 4mhj	T	X	M
-6rlm	G	H	
-2kqm		B	
-7tuy	K		
 5mwn	E		A
 7lg6	P	R	F
 7nxb	H	L	E
 5ifj	G	H	I
 5mub	C	D	E
-1rfd	H	L	
 7wf7	E	e	B | C
 7c2t	V	W	N
 1a14	H	L	N
-6u6o	H	L	
-2qtj	C	N	
-4nwt	H	L	
 5dsc	C	D	P
-3qot	H	L	
 6lgw	A	B	E
-5m15	D		
 7jti	H	L	A
-1pew		B	
 7e7e	H	L	A
-6z3k	O	P	
 6n2x	H	L	H
-5ywf	B	A	
-6ehx	B	b	
-4kq4	H	L	
-3d69	B	A	
 6x9s	H	L	A | B
 1y0l	B	A	A
 5f8r	D		B
@@ -17735,30 +13782,21 @@ pdb	Hchain	Lchain	antigen_chain
 7r98	F		C
 7faf	d	c	A
 7rd3	A	B	C
-4gw5	D	C	
 3hb3	C	D	B
-7eh3	A		
 6xw4	C		A
-2kqn		B	
 5yoy	R	O	J
 4ngh	H	L	P
-5vf6	A	a	
 5mv4	R	S	T
 4x7c	D		B
 5x0t	C	D	F
 6edu	R	S	D | A
-6mtr	H	L	
 7a6e	C	B	A
 6mhg	K	V	E
 1f3r	b	B	A
 4qex	H	L	A
 7wcz	a	b	A
 3hr5	I	P	T
-2bx5		D	
-4r4b	B	A	
-2qtj	B	M	
 6ko5	H	L	A
-7bnw	B		
 7l06	M	K	A
 5n7b	H	h	I
 7zr9	H	L	A
@@ -17773,13 +13811,8 @@ pdb	Hchain	Lchain	antigen_chain
 6rps	H	L	A
 6r7t	A		B
 1ymh	B	A	E
-2mmx		A	
-6xul	H	L	
 7rd4	H	L	G
-1xf4	H	L	
-4r4b	H	L	
 1yec	H	L	H
-5grv	L	K	
 3whe	3	4	I
 5m2i	L		F
 4tvs	a		A
@@ -17790,7 +13823,6 @@ pdb	Hchain	Lchain	antigen_chain
 2ghw	D	d	C
 6ur5	G	H	D
 4tuj	C	D	F
-2mmx		A	
 6zhd	F		B
 4web	H	L	E
 3csy	A	B	J | I
@@ -17801,59 +13833,38 @@ pdb	Hchain	Lchain	antigen_chain
 6huk	G		A | E
 6nc2	Q	V	K | E
 6vi1	F	C	O
-1mce		B	P
 7k75	M	N	E
 7k60	N	n	G | F | H
 6mqm	J	K	L
 5t5n	K	J	B
-7rdl	B	A	
 5any	L	P	H | G
 6aj9	H	L	C | B
-2qtj	C	O	
 7s6k	C	D	B
 3j8w	I	M	B | A
 5hvh	C		A
-6avn	H	L	
-1mck		B	P
-1ieh	A		
-3chn	C	O	
 3s88	H	L	J | J | I
-3cm9	D	O	
 7n5h	E	F	B
-4uok	A	L	
 4lsu	H	L	G
 6wzm	A	B	E
 5m63	M	N	N
-5c2b	H	L	
 6ofi	H	L	G
 5bk3	E	F	F
 4yk4	Z	Y	E
 6h6y	G		C
-6ic3		F	
-5iie	A	B	
-1r24	D	C	
 7vyt	H	L	T
 2ajz	B	A	A
-3o11	B	A	
 1yed	B	A	A
 5d96	C	B	A
 5aam	A	a	C
-7nsl		G	
 7rm3	A	B	Q
-5jxa	H	L	
 5vxj	B		A
-6k2i	A		
-7c95	B	A	
-5ihu	H	L	
 4xvs	H	L	G
-1f11	B	A	
 6wfz	A	B	C
 7n62	H	L	A
 4dk6	A		D
 6mek	H	L	C
 7bz2	N		B | A
 7cyp	G	F	B
-5ihz	A	B	
 1eo8	H	L	A
 3sm5	H	L	A
 6u59	F	E	C
@@ -17863,7 +13874,6 @@ pdb	Hchain	Lchain	antigen_chain
 7w55	E	e	A | B
 6x04	D		C
 4krm	H		G
-6ell	A	B	
 2igf	H	L	P
 3pnw	T	S	U
 1jnh	D	C	H
@@ -17871,28 +13881,22 @@ pdb	Hchain	Lchain	antigen_chain
 4fhb	D		A
 4ldl	B		A
 4uin	H	L	H
-3hc0	A	B	
 6uun	N		A | B
 6i6j	C		A
 7dhi	N		A | B
-6iyn	A		
 3bgf	B	C	A
 6itc	V		Y | E
 6q23	G	I	D
-5cma	B	A	
 2mcp	H	L	H
 7mw3	F	G	B
 1yek	H	L	H
 6nbi	N		A | B
-3dgg	B	A	
 6bzy	H	L	B
 5f3h	C	D	I
 3rif	J	M	E
-4tyu	A		
 5x8l	J	O	E
 2zuq	C	B	A
 6vmk	H	G	I
-4zg1	F		
 6ejm	I	i	A
 6n16	H	L	F
 7l7d	H	L	E
@@ -17903,12 +13907,8 @@ pdb	Hchain	Lchain	antigen_chain
 6gkd	Q		O
 5f72	S	s	K
 6oe4	B	C	A
-4rfe	A	B	
 6h6y	E		A
-3mck	B	A	
 7dcc	B	M	I
-1um6	H	L	
-1uz6	P	M	
 4o5i	Q	R	E
 4ocm	C		B | A
 6gwq	B		A
@@ -17924,14 +13924,11 @@ pdb	Hchain	Lchain	antigen_chain
 6dwi	H	G	H
 7so9	M	L	K
 6opq	K	N	D
-5tdo	D	C	
-7u0c	H	L	
 6k5a	C	D	A
 5ikc	H	L	N
 4hpo	H	L	P
 7l0l	I	K	F | D
 6nf2	C	D	G
-6e9g	A	B	
 5kem	G	H	F
 7lxy	G	I	B
 2gsi	F	E	Y
@@ -17944,48 +13941,35 @@ pdb	Hchain	Lchain	antigen_chain
 5umi	H	L	C
 2kh2	B	b	A
 5d93	F	E	D
-6o8d		L	
 1oar	I	M	I
 6mid	H	L	E | C
-5n2k	D	C	
 3u2s	A	B	C
 6oge	C	B	A
 6t3f	H	L	F
-3piq	G	I	
 3ria	J	M	E
 7n3d	H	L	C
 4od2	B	A	S
 7rp3	H	I	A
-1dn0	D	C	
-3ln9	A		
 7a25	F		C
 7n0s	D		A
 1ots	C	D	A
 7zmm	F		B
 5hys	C	D	K
 2kh2	B	b	A
-1maj		A	
 2hlf	C	D	A
 4cau	D	d	C
 3ijy	D	C	D
 6adc	C	D	A
 3q1s	H	L	I
 6n35	H	L	H
-7l6m	i	j	
 4bel	E		B
 6wer	C	D	A
-6igu	H	L	
 4xak	H	L	A
-3cm9	A	L	
 6mqs	A	B	E
 7kh0	S	s	A
-5drx	A	B	
 5y9f	V	U	F
 7a48	A		B
-6vi2	D	C	
-1ohq	A		
 2p48	B		A
-6ju0	K	O	
 6dc8	H	L	P
 4zfg	H	L	A
 5dmj	B		A
@@ -17993,24 +13977,16 @@ pdb	Hchain	Lchain	antigen_chain
 6yo6	C		B | A
 5vyf	H	L	F
 7k7h	H	L	A | C | G
-5mp5	C	D	
-7wpe	Z		
 7n0s	E		B
 7p5v	I		C
 4rdq	I	H	A
 6y1l	H	L	L
 7zrc	J	K	A
-5it2	H	L	
 5sy8	H	L	O
 3idx	H	L	G
-1mcn		B	P
 6lbh	E	F	A
 6ban	F	E	O
-2kqm		A	
 6nnf	U	V	G
-6ol7	C	B	
-5wts	A		
-3p0v	H	L	
 4mqt	B		A
 7wd7	e	f	C
 4ps4	H	L	A
@@ -18021,14 +13997,10 @@ pdb	Hchain	Lchain	antigen_chain
 2x89	B		F
 7mzj	N	M	B
 5uoe	V	W	E
-3ncj	H	L	
 7e14	N		A | B
 7wlw	H	L	A
 5yax	B	b	C
-3cdf		D	
 7epb	D		B
-4fql	H	L	
-5ukq	H	L	
 7tas	H	L	E
 6ejm	H	h	B
 7lo6	J	I	C
